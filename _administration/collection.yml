@@ -2,4 +2,5 @@ collections:
   administration:
     output: true
     order:
+      - Downloadable Forms.md
       - FAQs.md
