@@ -2,5 +2,6 @@ collections:
   administration:
     output: true
     order:
+      - Leave of Absence.md
       - Downloadable Forms.md
       - FAQs.md
