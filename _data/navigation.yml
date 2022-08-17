@@ -19,7 +19,19 @@ links:
         url: /permalink
   - title: STAFF
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: " Teachers"
+        url: /permalink
+      - title: Executive Administrative Staff
+        url: /permalink
+      - title: School Management Committee
+        url: /permalink
+      - title: Allied Educators
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: USEFUL LINKS
+        url: /permalink
   - title: PROGRAMMES
     url: /permalink
     sublinks: []
