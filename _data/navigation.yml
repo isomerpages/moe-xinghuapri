@@ -18,10 +18,10 @@ links:
       - title: School Rules
         url: /school-information/School-Rules
   - title: STAFF
-    url: /permalink
+    url: /staff/Teachers
     sublinks:
       - title: " Teachers"
-        url: /permalink
+        url: /staff/Teachers
       - title: Executive Administrative Staff
         url: /permalink
       - title: School Management Committee
