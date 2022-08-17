@@ -1,0 +1,4 @@
+collections:
+  successes:
+    output: true
+    order: []
