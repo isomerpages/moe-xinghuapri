@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Co Curricular Activities (CCA)/Uniformed Groups.md
-      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities CCA/Uniformed Groups.md
+      - Co Curricular Activities CCA/.keep
       - English.md
       - Information and Communication Technology (ICT).md
       - Mathematics.md
