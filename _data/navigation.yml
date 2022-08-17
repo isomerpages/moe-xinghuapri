@@ -59,7 +59,19 @@ links:
         url: /permalink
   - title: PARENTS
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: News from MOE
+        url: /permalink
+      - title: Letters to Parents  - Xinghua
+        url: /permalink
+      - title: Parent Support Group
+        url: /permalink
+      - title: SchoolBag
+        url: /permalink
+      - title: Sexuality Education
+        url: /permalink
+      - title: Resources
+        url: /permalink
   - title: SUCCESSES
     url: /permalink
     sublinks: []
