@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - School Management Committee.md
       - School Counsellors, Allied Educators And Flexi Adjunct Teachers.md
       - USEFUL LINKS.md
