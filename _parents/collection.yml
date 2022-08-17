@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - SchoolBag.md
       - Sexuality Education.md
       - Resources.md
