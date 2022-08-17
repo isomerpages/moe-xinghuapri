@@ -1,10 +1,10 @@
 logo: /images/Homepage/Screenshot 2022-08-17 144656.png
 links:
   - title: SCHOOL INFORMATION
-    url: /permalink
+    url: /school-information/Principals-Message
     sublinks:
       - title: Principal's Message
-        url: /permalink
+        url: /school-information/Principals-Message
       - title: Philosophy & Strategic Thrusts
         url: /permalink
       - title: Vision, Mission, Core Values
