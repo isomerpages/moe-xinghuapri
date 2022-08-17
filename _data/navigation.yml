@@ -1,15 +1,22 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: SCHOOL INFORMATION
+    url: /permalink
+    sublinks: []
+  - title: STAFF
+    url: /permalink
+    sublinks: []
+  - title: PROGRAMMES
+    url: /permalink
+    sublinks: []
+  - title: PARENTS
+    url: /permalink
+    sublinks: []
+  - title: SUCCESSES
+    url: /permalink
+    sublinks: []
+  - title: ADMINISTRATION
+    url: /permalink
+    sublinks: []
+  - title: CONTACT US
+    url: /permalink
