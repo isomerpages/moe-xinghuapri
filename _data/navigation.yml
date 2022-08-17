@@ -2,7 +2,21 @@ logo: /images/isomer-logo.svg
 links:
   - title: SCHOOL INFORMATION
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Principal's Message
+        url: /permalink
+      - title: Philosophy & Strategic Thrusts
+        url: /permalink
+      - title: Vision, Mission, Core Values
+        url: /permalink
+      - title: School History
+        url: /permalink
+      - title: School Crest/ Song
+        url: /permalink
+      - title: School Advisory Committee
+        url: /permalink
+      - title: School Rules
+        url: /permalink
   - title: STAFF
     url: /permalink
     sublinks: []
