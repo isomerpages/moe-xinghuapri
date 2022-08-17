@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Science.md
       - Story For Life.md
       - Student Leadership.md
