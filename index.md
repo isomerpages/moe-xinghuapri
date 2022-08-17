@@ -7,7 +7,7 @@ permalink: /
 notification: AN INNOVATIVE SCHOOL OF DISCERNING LEARNERS AND CARING LEADERS
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Homepage/ezgifcom-gif-maker.gif
       key_highlights:
         - title: Announcements
           description: INFORMATION FOR PARENTS
@@ -25,4 +25,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
