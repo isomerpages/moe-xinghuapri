@@ -2,6 +2,7 @@ collections:
   administration:
     output: true
     order:
+      - Financial Assistance.md
       - NEU PC Application.md
       - Leave of Absence.md
       - Downloadable Forms.md
