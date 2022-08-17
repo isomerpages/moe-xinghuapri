@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Letters to Parents    Xinghua/Archived News.md
       - Letters to Parents    Xinghua/Letters to Parents Xinghua Link.md
       - Letters to Parents    Xinghua/.keep
       - Parent Support Group.md
