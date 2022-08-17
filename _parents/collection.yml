@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Sexuality Education.md
       - Resources.md
