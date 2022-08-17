@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School History.md
       - School Crest Song.md
       - School Advisory Committee.md
       - School Rules.md
