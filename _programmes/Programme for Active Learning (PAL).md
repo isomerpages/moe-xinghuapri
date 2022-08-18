@@ -9,7 +9,7 @@ PAL was introduced to schools in the Primary 1 and 2 curriculum after a review b
   
 PAL was conceptualised to achieve the following objectives:  
 
-*   Provide pupils with broad exposure and experiences through fun and varied activities in two broad areas - Sports & Games and Outdoor Education and Performing Arts (Music and Dance) and Visual Arts.  
+*   Provide pupils with broad exposure and experiences through fun and varied activities in two broad areas - Sports &amp; Games and Outdoor Education and Performing Arts (Music and Dance) and Visual Arts.  
     
 *   Facilitate holistic development of pupils in the 5 domains, that is, moral, cognitive, physical, social and aesthetics  
     
@@ -17,7 +17,7 @@ PAL was conceptualised to achieve the following objectives:
     
 
   
-The two broad areas of Sports & Games and Outdoor Education, and Performing Arts and Visual Arts are selected as they provide:  
+The two broad areas of Sports &amp; Games and Outdoor Education, and Performing Arts and Visual Arts are selected as they provide:  
   
 
 *   Platforms for experiential learning: experimentation, exploration and achieving success; and  
@@ -44,7 +44,9 @@ Pupils are exposed to two different art forms of creating homes and community. T
 Pupils are introduced to different genres of music like folk, nursery rhyme and classical that span from Africa to Australia to Germany. With the music around the world, pupils learn to appreciate the diversity of the country's culture and its music. Through the different activities and playing of instruments, pupils learn to work together to make music and build up their self-management and relationship management skills.  
   
 **Outdoor Education**  
-Pupils learn about the different flora and fauna found in other countries and the different climates experienced by people of different nations. As pupils learn to use their senses to connect with their environment, they also participate in interesting outdoor activities such as “rowing” on scooters, flying a kite and pitching a tent.  
+Pupils learn about the different flora and fauna found in other countries and the different climates experienced by people of different nations. As pupils learn to use their senses to connect with their environment, they also participate in interesting outdoor activities such&nbsp;as “rowing” on scooters, flying a kite and pitching a tent.  
   
 **Performing Arts (Dance)**  
 Pupils have an opportunity to learn folk dances from around the world. Japanese, Korean, Indian, Bangra, Malay and Chinese dance were just some of the many that they learnt and performed in class. The cultural exposure to these dances leads students to learn about diversity and respecting different cultures.
+
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1DfXDpPypodWmdMToSKBBUKEuN4gsVEfY7roXj7fFM09ZxQ6HnRTOvdrQ7IwphNoPN6d2gRxiqs4P/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
