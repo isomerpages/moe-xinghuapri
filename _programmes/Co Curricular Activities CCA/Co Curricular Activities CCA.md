@@ -34,10 +34,10 @@ As part of the school’s effort to provide our pupils with a holistic and a wel
 * [Wushu](/programmes/Co-Curricular-Activities-CCA/Sports-and-Games)
   
 **(2) Clubs and Societies CCA**  
-[\- Art & Photography](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/clubs-and-society/art-club)  
-[\- IT (Robotics / Coding)](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/clubs-and-society/it-club)  
-[\- Science and Environment](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/clubs-and-society/science-club)  
-[\- Language Arts](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/clubs-and-society/language-arts)  
+* [Art & Photography](/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society)  
+* [IT (Robotics/Coding)](/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society)  
+* [Science and Environment](/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society)  
+* [Language Arts](/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society)
     
 **(3) Performing Arts CCA**   
 [\- Angklung](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/performing-arts/angklung-kulintang)  
