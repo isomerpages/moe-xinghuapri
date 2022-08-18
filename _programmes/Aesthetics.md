@@ -4,11 +4,11 @@ permalink: /programmes/Aesthetics
 description: ""
 ---
 **Our AIM**  
-To develop every child to Appreciate Arts, Adore Arts and Admire Arts   
+To develop every child to Appreciate Arts, Adore Arts and Admire Arts&nbsp;  
   
 **AESTHETICS VISION (ART)**  
 
-*   Two Domains :   
+*   Two Domains :&nbsp;  
     
 
 *   Learning IN Art ( Personal Mastery )
@@ -42,3 +42,6 @@ To develop every child to Appreciate Arts, Adore Arts and Admire Arts 
 *   SYF Performance Arts Presentation
 *   Star Grandioso
 *   Musical Play
+
+
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4OuLsQ5VabqcEB_GHk_BgKLcnfKhir-mHH2hPDXeJjTuWgVP4ftIsp3nGiqyELafJMwrlKKoc9JRa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
