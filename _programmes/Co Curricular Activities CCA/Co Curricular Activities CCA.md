@@ -27,11 +27,11 @@ Every Tuesday from 7.30am to 9.00am
 As part of the school’s effort to provide our pupils with a holistic and a well-rounded experience, the school offers 15 CCAs in 4 categories as follows:  
   
 **(1)Sports and Games CCA**  
-\- [Badminton](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/sports-and-games/badminton)  
-[\- Football](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/sports-and-games/football)  
-[\- Softball](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/sports-and-games/softball)  
-[\- Volleyball](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/sports-and-games/volleyball)  
-[\- Wushu](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/sports-and-games/wushu)  
+* [Badminton](/programmes/Co-Curricular-Activities-CCA/Sports-and-Games)  
+* [Football](/programmes/Co-Curricular-Activities-CCA/Sports-and-Games)  
+* [Softball](/programmes/Co-Curricular-Activities-CCA/Sports-and-Games)  
+* [Volleyball](/programmes/Co-Curricular-Activities-CCA/Sports-and-Games)
+* [Wushu](/programmes/Co-Curricular-Activities-CCA/Sports-and-Games)
   
 **(2) Clubs and Societies CCA**  
 [\- Art & Photography](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/clubs-and-society/art-club)  
