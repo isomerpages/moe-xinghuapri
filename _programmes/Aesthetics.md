@@ -44,4 +44,4 @@ To develop every child to Appreciate Arts, Adore Arts and Admire Arts&nbsp;
 *   Musical Play
 
 
-<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4OuLsQ5VabqcEB_GHk_BgKLcnfKhir-mHH2hPDXeJjTuWgVP4ftIsp3nGiqyELafJMwrlKKoc9JRa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4OuLsQ5VabqcEB_GHk_BgKLcnfKhir-mHH2hPDXeJjTuWgVP4ftIsp3nGiqyELafJMwrlKKoc9JRa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
