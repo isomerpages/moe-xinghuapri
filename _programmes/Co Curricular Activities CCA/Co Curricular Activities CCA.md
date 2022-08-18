@@ -46,5 +46,5 @@ As part of the school’s effort to provide our pupils with a holistic and a wel
 * [Guzheng](/programmes/Co-Curricular-Activities-CCA/Performing-Arts)   
   
 **(4) Uniformed Groups**   
-[\- Boys’ Brigade](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/uniformed-groups/boys-brigade)  
-[\- Girls’ Brigade](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/uniformed-groups/girls-brigade)
+* [Boys' Brigade](/programmes/Co-Curricular-Activities-CCA/Uniformed-Groups)  
+* [Girls' Brigade](/programmes/Co-Curricular-Activities-CCA/Uniformed-Groups)
