@@ -38,5 +38,6 @@ To harness ICT for active learning and prepare our pupils to face the challenges
 *   Lessons are delivered through Form Teacher Guidance Period (FTGP) and assembly programmes.
 
   
-For more information on Cyber Wellness, resources and tips for students and parents, please visit the [ICT Connection](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents) portal.
+For more information on Cyber Wellness, resources and tips for students and parents, please visit the&nbsp;[ICT Connection](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents)&nbsp;portal.
 
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSs_sTnWaqJjvC3vp7M7bYrGMAFMJxvABkAZeUFFan1C4uS5bbllux_j_Rj_k-VvXnLbEL5lKvHOUiF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
