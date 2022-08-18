@@ -42,7 +42,7 @@ Values are taught through customised programmes and they are explicitly expresse
 *   Students learn to take responsibility of the common space through daily cleaning and maintaining cleanliness in school.
 
 *   Keep My Class Clean (Daily)
-*   Litter - free Canteen 
+*   Litter - free Canteen&nbsp;
 *   Clean My School Day (Once per semester)
 
   
@@ -68,8 +68,10 @@ Values are taught through customised programmes and they are explicitly expresse
 *   Appreciation for Our Non-teaching Staff ( Labour Day Appreciation)
 *   Thank you Notes to My teachers ( On Teacher’s Day)
 
-*   National Education & Citizenship
+*   National Education &amp; Citizenship
 *   Social Studies Field-based Learning Journeys
 *   NE commemorative events.
 *   Students Well-being Support
 *   New U Programme to set the tone for the year and promote positive Teacher-Student and Peer relationships.
+
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-flbScdUv6qh6AHN5vQQdNeQoRED4BQWd50XB53Z0PQaiR54fim_dovIpzcTg3HxYnbcFRTCdP--5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
