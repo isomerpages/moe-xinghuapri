@@ -40,10 +40,10 @@ As part of the school’s effort to provide our pupils with a holistic and a wel
 * [Language Arts](/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society)
     
 **(3) Performing Arts CCA**   
-[\- Angklung](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/performing-arts/angklung-kulintang)  
-[\- Choir](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/performing-arts/choir)  
-[\- Dance](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/performing-arts/dance-international)  
-[\- Guzheng](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/performing-arts/guzheng)  
+* [Angklung](/programmes/Co-Curricular-Activities-CCA/Performing-Arts)   
+* [Choir](/programmes/Co-Curricular-Activities-CCA/Performing-Arts)  
+* [Dance](/programmes/Co-Curricular-Activities-CCA/Performing-Arts)  
+* [Guzheng](/programmes/Co-Curricular-Activities-CCA/Performing-Arts)   
   
 **(4) Uniformed Groups**   
 [\- Boys’ Brigade](https://xinghuapri.moe.edu.sg/programmes/co-curricular-activities-cca/uniformed-groups/boys-brigade)  
