@@ -43,4 +43,3 @@ Learning)
 
 **P2 SPEECH &amp; DRAMA PERFORMANCE**  
 Please click the image to view the highlights of the performance.
-
