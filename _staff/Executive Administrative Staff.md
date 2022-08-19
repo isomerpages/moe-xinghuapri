@@ -4,6 +4,7 @@ permalink: /staff/Executive-Administrative-Staff
 description: ""
 ---
 ##### **EAS**
+
 | Designation                        | Name of Staff                  |
 |------------------------------------|--------------------------------|
 | Admin Manager                      | Mdm Norhaslyn Rohhani          |
@@ -19,6 +20,7 @@ description: ""
 | Operations Support Officer         | Mdm Siti Wagiyah Bte Wagiman   |
 | Operations Support Officer         | Mdm See Poh Suan               |
 | Operations Support Officer         | Mdm Sarimah Bte Jumaat         |
+
 
 ##### **Support Staff**
 
