@@ -20,17 +20,17 @@ Please click [here](https://form.gov.sg/60bf165946dcc80011856bf5) if you are a
 Dear Parents,   
 This [video](https://xinghuapri.moe.edu.sg/others/p1-virtual-tour-2021) showcases a day in school for these P1 students. Enjoy!   
   
-[Transition from Preschool to Primary School  - Parent Kit](https://xinghuapri.moe.edu.sg/qql/slot/u172/Information%20for%20Parents/Announcements/b.%20Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)  
+[Transition from Preschool to Primary School  - Parent Kit](/files/Announcements/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
   
 FAQs for Covid-19 Infection in Singapore:   
 [https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection)  
   
 For P1 registration, please click [here](https://www.moe.gov.sg/primary/p1-registration).  
   
-[Xinghua Link - Aug 2022](https://xinghuapri.moe.edu.sg/qql/slot/u172/Information%20for%20Parents/Letters%20to%20Parents/2022/XH%20Link_August%202022.pdf)  
+[Xinghua Link - Aug 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_August%202022.pdf))  
   
-[Xinghua Link - July 2022](https://xinghuapri.moe.edu.sg/qql/slot/u172/Information%20for%20Parents/Letters%20to%20Parents/2022/XH%20Link_July%202022.pdf)  
+[Xinghua Link - July 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_July%202022.pdf) 
   
-[Xinghua Link - May 2022](https://xinghuapri.moe.edu.sg/qql/slot/u172/Information%20for%20Parents/Letters%20to%20Parents/2022/XINGHUA%20LINK%20MAY%202022.pdf)  
-  
+[Xinghua Link - May 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XINGHUA%20LINK%20MAY%202022.pdf)
+
 More information about our teaching staff can be viewed [here](https://xinghuapri.moe.edu.sg/staff/teachers).
