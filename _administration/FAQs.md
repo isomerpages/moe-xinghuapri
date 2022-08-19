@@ -20,7 +20,7 @@ Registration for each phase is conducted at the primary school. The hours of reg
 Overseas Singaporeans who wish to register their children for Primary One can refer to Information for Overseas Singaporeans for the registration procedures. 
 
   
-Parents can refer to [http://www.moe.gov.sg](http://www.moe.gov.sg/) for more details.</p>
+Parents can refer to <a href="http://www.moe.gov.sg">http://www.moe.gov.sg</a> for more details.</p>
 		</div>
 	</li>
 <li>
@@ -37,7 +37,7 @@ Parents can refer to [http://www.moe.gov.sg](http://www.moe.gov.sg/) for more de
 			<p>International students aged 6 to 6 + as of 1 January in the year of school admission can seek admission to Primary 1, by registering at the primary school with vacancies during Phase 3 of the annual Primary One Registration Exercise. Admission is not guaranteed as there are limited vacancies remaining for international students after places are allocated to SC and SPR children. In view of this, parents of international students may also wish to consider other educational options such as private schools, even as they may decide to register their children during Phase 3. 
 
   
-International students aged 7 and above as of 1 January in the year of school admission, and who wish to seek admission to our mainstream schools, are required to sit for the [Admissions Exercise for International Students (AEIS)](https://www.moe.gov.sg/admissions/international-students/admissions-exercise) or the [Supplementary Admissions Exercise for International Students (S-AEIS)](https://www.moe.gov.sg/admissions/international-students/supplementary-admissions-exercise). Admission is not guaranteed, and is subject to the applicant's performance in the test. If successful, placement will take into consideration the available vacancies and the applicant's declared Singapore residential area where possible.</p>
+International students aged 7 and above as of 1 January in the year of school admission, and who wish to seek admission to our mainstream schools, are required to sit for the <a href="https://www.moe.gov.sg/admissions/international-students/admissions-exercise">Admissions Exercise for International Students (AEIS)</a>or the <a href="https://www.moe.gov.sg/admissions/international-students/supplementary-admissions-exercise">Supplementary Admissions Exercise for International Students (S-AEIS)</a>. Admission is not guaranteed, and is subject to the applicant's performance in the test. If successful, placement will take into consideration the available vacancies and the applicant's declared Singapore residential area where possible.</p>
 		</div>
 	</li>
 <li>
