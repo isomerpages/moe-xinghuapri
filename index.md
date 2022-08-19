@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: INFORMATION FOR PARENTS
-          url: ""
+          url: /Announcements
   - infopic:
       title: Xinghua Primary on News Media
       button: Please click for more informarion
