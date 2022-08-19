@@ -13,11 +13,11 @@ sections:
           description: INFORMATION FOR PARENTS
           url: ""
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Xinghua Primary on News Media
+      button: Please click for more informarion
       alt: Image alt text
+      image: /images/Homepage/f129db1d2_3205.jpg
+      url: /permalink
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
