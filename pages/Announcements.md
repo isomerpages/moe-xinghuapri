@@ -18,7 +18,7 @@ Dear Parents,
 Please click [here](https://form.gov.sg/60bf165946dcc80011856bf5) if you are applying for Leave of Absence.  
   
 Dear Parents,   
-This [video](https://xinghuapri.moe.edu.sg/others/p1-virtual-tour-2021) showcases a day in school for these P1 students. Enjoy!   
+This [video](/P1-Virtual-Tour-2021) showcases a day in school for these P1 students. Enjoy!   
   
 [Transition from Preschool to Primary School  - Parent Kit](/files/Announcements/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
   
