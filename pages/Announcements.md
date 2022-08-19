@@ -33,4 +33,4 @@ For P1 registration, please click [here](https://www.moe.gov.sg/primary/p1-regi
   
 [Xinghua Link - May 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XINGHUA%20LINK%20MAY%202022.pdf)
 
-More information about our teaching staff can be viewed [here](https://xinghuapri.moe.edu.sg/staff/teachers).
+More information about our teaching staff can be viewed [here](/staff/Teachers)
