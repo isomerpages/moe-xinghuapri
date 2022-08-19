@@ -62,3 +62,5 @@ Please click [here](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/06%20
 *   [Xinghua Link - February 2020](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/Xinghua%20Link%20Feb-2020_Final.pdf)
 *   [Xinghua Link - January 2020](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/Xinghua%20link%20Jan%20-2020_Final.pdf)
 
+![](/images/Parents/Letter%20to%20Parents%20%20%20Xinghua/PG.jpg)
+![](/images/Parents/Letter%20to%20Parents%20%20%20Xinghua/pg%20notifications%20edited.jpg)
