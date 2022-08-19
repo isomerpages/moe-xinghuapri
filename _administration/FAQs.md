@@ -49,4 +49,11 @@ International students aged 7 and above as of 1 January in the year of school ad
   
 
 Please write the student's name, NRIC number and school name on the reverse side of the cheque.</p>    </div></li>  
-<li>    <input type="checkbox" id="accordion5">    <label for="accordion5">TITLE</label>    <div>      <p>TEXT</p>    </div></li><li>    <input type="checkbox" id="accordion6">    <label for="accordion6">TITLE</label>    <div>      <p>TEXT</p>    </div></li></ul>
+<li>    <input type="checkbox" id="accordion5">    <label for="accordion5">5) What is the opening hours for the school gates?</label>    <div>      <p><img src="/images/Administration/School%20Gates%20Opening%20Hours.png"></p>    </div></li><li>    <input type="checkbox" id="accordion6">    <label for="accordion6">6) Where can I buy the school uniforms?</label>    <div>      <p><img src="/images/Administration/Jeep%20Sing%20Fashion.png"></p>    </div></li></ul> <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion7">7) How will my child be assessed academically?</label>  
+    <div>  
+      <p>Please refer to page 17 of Pupil Handbook.</p>  
+    </div>  
+</li>  
+</ul>
