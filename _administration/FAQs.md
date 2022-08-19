@@ -5,13 +5,9 @@ description: ""
 ---
 <ul class="jekyllcodex\_accordion">
 	<li>
-		
 	<input type="checkbox" id="accordion1">
-		
 		<label for="accordion1">1) My child is going to Primary 1 next year, what is the registration process?</label>
-		
 		<div>
-			
 			<p> The Primary One Registration Exercise is conducted from June to September every year. Parents should refer to the <a href="https://www.moe.gov.sg/admissions/primary-one-registration/phases">registration phases and procedures</a> to find out which phase their children are eligible for, how to register and the <a href="https://www.moe.gov.sg/admissions/primary-one-registration/required-documents-for-primary-one-registration-exercise">documents required</a> for registration. 
 
   
@@ -25,20 +21,12 @@ Overseas Singaporeans who wish to register their children for Primary One can re
 
   
 Parents can refer to [http://www.moe.gov.sg](http://www.moe.gov.sg/) for more details.</p>
-			
 		</div>
-		
 	</li>
-	
 <li>
-	
 	<input type="checkbox" id="accordion2">
-	
 	<label for="accordion2">2) How do I transfer my child to Xinghua Primary School?</label>
-	
-
 	<div>
-		
 		<p>Admission of students is based on the vacancies available in the school. Students will placed under waiting list until there is a vacancy. School staff will contact the parent should the vacancy arise. Alternatively, parents can register their transfer request in MOE and participate in STEPS. The Student Transfer Exercise for Primary Schools, or STEPS, serves to facilitate the transfer of students who have relocated to another address, to schools nearer to their new residences.</p>
 	</div>
 	</li>
