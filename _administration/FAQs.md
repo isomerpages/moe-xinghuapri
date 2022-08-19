@@ -3,7 +3,7 @@ title: FAQs
 permalink: /administration/FAQ
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 	<li>
 	<input type="checkbox" id="accordion1">
 		<label for="accordion1">1) My child is going to Primary 1 next year, what is the registration process?</label>
