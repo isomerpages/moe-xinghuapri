@@ -3,18 +3,16 @@ title: Announcements
 permalink: /Announcements
 description: ""
 ---
-
-
 ### INFORMATION FOR PARENTS
 
   
 
 Dear parents of students entering Primary 1 in 2022,  
    
-Please click [here](https://xinghuapri.moe.edu.sg/qql/slot/u172/Information%20for%20Parents/Announcements/c2021%20PCAB%20Tip%201%20-%20Tip%2010.pdf) for the digitised version of the Parent-Child-Activity Booklet (PCAB).  
+Please click [here]() for the digitised version of the Parent-Child-Activity Booklet (PCAB).  
   
 Dear Parents,  
-Please click [here](https://xinghuapri.moe.edu.sg/qql/slot/u172/Information%20for%20Parents/Announcements/06.07.21%20%20Phase3HA%20reopening%20of%20school%20dental%20clinics_Letter%20to%20Primary%20and%20Secondary%20School%20Parents.pdf) to read the Letter to Parents for the Reopening of on-site school dental clinics in a phased approach.  
+Please click [here](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/06%2007%2021%20%20Phase3HA%20reopening%20of%20school%20dental%20clinics%20Letter%20to%20Primary%20Parents.pdf) to read the Letter to Parents for the Reopening of on-site school dental clinics in a phased approach.  
   
 Dear Parents,  
 Please click [here](https://form.gov.sg/60bf165946dcc80011856bf5) if you are applying for Leave of Absence.  
