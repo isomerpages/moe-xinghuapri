@@ -12,4 +12,3 @@ description: ""
 | **Facebook:**      | https://tinyurl.com/nskfu5a4                                  |
 
 If you have any compliments / comments / feedback, please let us know by filling in the form [here](http://forms.cwp.sg/xinghuapri/Form46Z2X).
-
