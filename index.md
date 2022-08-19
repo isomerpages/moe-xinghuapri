@@ -17,7 +17,7 @@ sections:
       button: Please click for more informarion
       alt: Image alt text
       image: /images/Homepage/f129db1d2_3205.jpg
-      url: /permalink
+      url: /Xinhua-Primary-on-News-Media
   - infopic:
       title: Story For Life
       description: Our school website has a new section - Story for Life. In this
