@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /Announcements
+permalink: /Announcements/
 description: ""
 ---
 ### INFORMATION FOR PARENTS
@@ -27,7 +27,7 @@ FAQs for Covid-19 Infection in Singapore: 
   
 For P1 registration, please click [here](https://www.moe.gov.sg/primary/p1-registration).  
   
-[Xinghua Link - Aug 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_August%202022.pdf))  
+[Xinghua Link - Aug 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_August%202022.pdf)  
   
 [Xinghua Link - July 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_July%202022.pdf) 
   
