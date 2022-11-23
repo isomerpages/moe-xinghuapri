@@ -26,7 +26,11 @@ FAQs for Covid-19 Infection in Singapore: 
 [https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection)  
   
 For P1 registration, please click [here](https://www.moe.gov.sg/primary/p1-registration).  
-  
+ 
+ [Xinghua Link - Oct 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_October_%202022.pdf)
+ 
+ [Xinghua Link - Sep 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_September_%202022.pdf)
+ 
 [Xinghua Link - Aug 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_August%202022.pdf)  
   
 [Xinghua Link - July 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_July%202022.pdf) 
