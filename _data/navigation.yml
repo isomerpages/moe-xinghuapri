@@ -19,19 +19,6 @@ links:
         url: /school-information/School-Rules
   - title: Staff
     collection: staff
-  - title: STAFF
-    url: /staff/Teachers
-    sublinks:
-      - title: " Teachers"
-        url: /staff/Teachers
-      - title: Executive Administrative Staff
-        url: /staff/Executive-Administrative-Staff
-      - title: School Management Committee
-        url: /staff/School-Management-Committee
-      - title: Allied Educators
-        url: /staff/School-Counsellors-Allied-Educators-And-Flexi-Adjunct-Teachers
-      - title: USEFUL LINKS
-        url: /staff/USEFUL-LINKS
   - title: PROGRAMMES
     url: /programmes/Aesthetics
     sublinks:
