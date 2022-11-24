@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/X3(New).png
+      background: /images/Homepage/HomepageGif.gif
       key_highlights:
         - title: Announcements
           description: Information for Parents
