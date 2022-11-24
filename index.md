@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage/ezgifcom-gif-maker.gif
       key_highlights:
         - title: Announcements
-          description: INFORMATION FOR PARENTS
+          description: Information for Parents
           url: /Announcements
   - infopic:
       title: Xinghua Primary on News Media
@@ -28,4 +28,3 @@ sections:
       image: /images/Homepage/9fffbfdc1_2675.jpg
       url: /programmes/Story-For-Life
 ---
-
