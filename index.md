@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/ezgifcom-gif-maker.gif
+      background: /images/Homepage/X3(New).png
       key_highlights:
         - title: Announcements
           description: Information for Parents
