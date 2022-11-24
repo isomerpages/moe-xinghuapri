@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Xinghua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -28,3 +28,4 @@ sections:
       image: /images/Homepage/9fffbfdc1_2675.jpg
       url: /programmes/Story-For-Life
 ---
+
