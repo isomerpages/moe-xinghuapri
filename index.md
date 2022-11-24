@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: AN INNOVATIVE SCHOOL OF DISCERNING LEARNERS AND CARING LEADERS
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/ezgifcom-gif-maker.gif
