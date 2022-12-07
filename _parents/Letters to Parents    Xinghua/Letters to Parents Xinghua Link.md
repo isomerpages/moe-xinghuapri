@@ -1,6 +1,6 @@
 ---
 title: Letters to Parents Xinghua Link
-permalink: /parents/Letters-to-Parents-Xinghua/Letters-to-Parents-Xinghua-Link
+permalink: /parents/Letters-to-Parents-Xinghua/Letters-to-Parents-Xinghua-Link/
 description: ""
 third_nav_title: Letters to Parents    Xinghua
 ---
@@ -16,7 +16,9 @@ Please click [here](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/HBL%2
 Dear Parents,  
 Please click [here](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/06%2007%2021%20%20Phase3HA%20reopening%20of%20school%20dental%20clinics%20Letter%20to%20Primary%20Parents.pdf) to read the Letter to Parents for the Reopening of on-site school dental clinics in a phased approach.  
 
-  
+*  [Xinghua Link - Oct 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_October_%202022.pdf)
+ 
+* [Xinghua Link - Sep 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_September_%202022.pdf)
 
 *   [Xinghua Link - Aug 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_August%202022.pdf)
 *   [Xinghua Link - July 2022](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/XH%20Link_July%202022.pdf) 
