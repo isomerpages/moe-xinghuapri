@@ -1,46 +1,32 @@
 ---
 title: Principal's Message
-permalink: /school-information/Principals-Message
+permalink: /school-information/Principals-Message/
 description: ""
 ---
-It is with a deep sense of humility and an honour for me to be given the privilege to serve in the Xinghua family.  
+Dear everyone
 
-  
+Welcome back to Xinghua in 2023. 
 
-With a 90-year history since the founding of the school in 1930, Xinghua Primary has always been uplifting children to fulfil their fullest potential and go on to lead meaningful and successful lives, growing from a little kampong school to become an impactful educational institution in the 21st century.
+To students and staff who have just joined Xinghua this year, a very warm welcome to our family! In Xinghua, you will experience a Caring and Enabling Environment that nurtures all students.  In Xinghua, we do our best to nurture and help every student, no matter where he or she comes from, or how high or low is one’s ability and motivation.  If a student needs help, we always aim to develop him or her to be the best he or she can be. In Xinghua, we enable our students with knowledge (and skills) and empower them with courage (and positive attitudes and right values).
 
-  
+Since late 2021, we spoke with teachers and non-teaching staff, students and also parents about a vision for Xinghua in the coming years. By end of last year, we have confirmed the vision of the school, after gathering feedback from the different stakeholders and also looking through some of the data and information concerning our school.  The **vision of Xinghua** for the next 3 years (2023 to 2025) will be:
 
-Time and again, despite the horrors of World War 2 and financial challenges to keep the school going through the 1940s, it has always been sustained by the passion and efforts of those who believed in the importance of schooling and education. The community and the staff never gave up on Xinghua and its students, and instead always gave generously to ensure that all Xinghua students receive excellent care and learning. 
+**Resilient Achievers, Thoughtful Citizens**
 
-  
+In addition to the current set of school values (**Excellence, Resilience, Respect and Responsibility**), we have also included the value of **Care**.  The **mission of Xinghua Primary** is on **Providing a Caring and Enabling Environment for all Students**. 
 
-After 90 years, the staff of Xinghua continue to “…provide Quality Teaching and Learning so that our pupils are rooted in values and stretched in their potential.”
+In the coming months, we will communicate more details about the Vision, Values and the school’s Mission to our students, their families, our community partners and the general community.
 
-  
+Being a Resilient Achiever and a Thoughtful Citizen are important qualities that we value and cultivate at our school. Resilience involves the ability to persevere and bounce back from challenges as one strives for Excellence in Learning and Achievement, while being a Thoughtful Citizen involves being aware of and actively contributing to the well-being of others and the community.
 
-To provide Quality Teaching and Learning is hard work; a work that can only be carried out by the courageous, the compassionate and the committed. The staff of Xinghua are such people of courage, compassion and commitment. 
+At our school, we encourage all students to set goals for themselves and work towards achieving them, even when faced with setbacks. We also encourage our students to be active and engaged members of their community, both in and out of school.
 
-  
+We believe that developing resilience and citizenship are essential skills that will serve our students well not only in their academic pursuits, but also in their personal and professional lives.
 
-Hence, I felt humbled and honoured when I was granted the opportunity to receive the baton of leadership from my predecessor Mrs Chandrika Mano. Mrs Mano has led with the School Management Committee and Teacher Leaders with conviction and clarity, growing and guiding every staff to be courageous, compassionate and committed to developing every Xinghua student to be Discerning Learners and Caring Leaders. To my new colleagues in Xinghua Primary, I want to thank and appreciate you for working tirelessly and unceasingly to grow and support our children. As I have mentioned, I feel privileged to be your fellow labourer.
+We encourage all members of our school community, including students, parents, and staff, to model resilience and citizenship for our young people. By setting a good example and demonstrating these values in our own lives, we can help to create a positive and supportive school culture for students and staff of Xinghua Primary School.
 
-  
-
-Nothing has changed much since the school’s founding. The quality work of our staff has always been well supported by our dedicated partners – parent volunteers, community partners and School Advisory Council members. To our partners, I offer my appreciation and gratitude for your generous giving to the school and the children.
-
-  
-
-In the months to come, I am committed to learning more about the school, my colleagues, the children and our partners through conversations and discussions, as we work to build on the good work of Mrs Mano and past school leaders. These conversations will generate insights and inspiration to guide us in providing innovative learning experiences and facilities to nurture confident children so that they can enjoy positive relationships, and make responsible decisions for their own lives and the community. 
-
-  
-
-On behalf of the school, I would like to wish one and all, a blessed and abundant 2021. I look forward to meeting the new batch of Primary 1 children and welcoming the returning Primary 2 to 6 students in the new year of hope and possibilities, when school reopens!
-
-  
-
-Mr Chew Mun Wai
-
-  
-
+Mr Chew Mun Wai<br>
 Principal
+
+![](/images/IMG_3541v1.jpeg)
+
