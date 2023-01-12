@@ -15,11 +15,11 @@ description: ""
 .tg .tg-9jbv{background-color:#0063B0;color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-5ytf{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 753px">
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
 <colgroup>
-<col style="width: 127px">
-<col style="width: 230px">
-<col style="width: 396px">
+<col style="width: 106px">
+<col style="width: 224px">
+<col style="width: 304px">
 </colgroup>
 <thead>
   <tr>
