@@ -142,11 +142,11 @@ description: ""
 .tg .tg-72gm{background-color:#0063B0;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-5ytf{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 634px">
+<table class="tg" style="undefined;table-layout: fixed; width: 698px">
 <colgroup>
-<col style="width: 126px">
-<col style="width: 226px">
-<col style="width: 282px">
+<col style="width: 139px">
+<col style="width: 248px">
+<col style="width: 311px">
 </colgroup>
 <thead>
   <tr>
@@ -158,7 +158,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">3 H1</span></td>
-    <td class="tg-5ytf"><span style="color:#6F6F6F">Mdm Haymalatha d/o Govindaswami </span><br><span style="color:#6F6F6F">Mrs Haymalatha Bakthavachalam</span><br><br><span style="color:#6F6F6F">Mr Lim Yi Bin</span></td>
+    <td class="tg-5ytf"><br><span style="color:#6F6F6F">Mdm Haymalatha d/o Govindaswami </span><br><span style="color:#6F6F6F">Mrs Haymalatha Bakthavachalam</span><br><br><br><span style="color:#6F6F6F">Mr Lim Yi Bin</span></td>
     <td class="tg-5ytf"><br><span style="color:#6F6F6F">haymalatha_bakthavachalam@moe.edu.sg</span><br><br><br><br>lim_yi_bin@moe.edu.sg<br><br><br></td>
   </tr>
   <tr>
@@ -183,12 +183,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">3 H6 </span></td>
-    <td class="tg-qarn">Miss Aslinda Binte Ramli <br><br>Miss Yin Ciyao (Diana)</td>
-    <td class="tg-qarn">aslinda_ramli@moe.edu.sg<br><br>yin_ciyao@moe.edu.sg</td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Aslinda Binte Ramli </span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Yin Ciyao (Diana)</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">aslinda_ramli@moe.edu.sg </span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">yin_ciyao@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
-<br>
 
 **Primary 4**
 <style type="text/css">
