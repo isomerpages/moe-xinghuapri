@@ -7,20 +7,20 @@ description: ""
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 14px;word-break:normal;}
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 14px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-4rva{background-color:#0063B0;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-3xin{background-color:#0063B0;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-j7i3{background-color:#0063b0;color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-5ytf{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-3xin">Form Teacher</th>
-    <th class="tg-4rva">Email</th>
-    <th class="tg-0lax"></th>
+    <th class="tg-3xin"></th>
+    <th class="tg-4rva">Form Teacher</th>
+    <th class="tg-j7i3">Email</th>
   </tr>
 </thead>
 <tbody>
@@ -31,8 +31,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">1 R2</span></td>
-    <td class="tg-5ytf">Mdm Loh Suang Mei (Mavis)<br><br><br>Mdm Rashidah Bte Rajah <br><br><br>Mdm Neo Yuan Ling<br><br></td>
-    <td class="tg-5ytf">loh_suang_mei@moe.edu.sg<br><br><br>rashidah_rajah@moe.edu.sg<br><br><br><br>neo_yuan_ling@moe.edu.sg<br><br></td>
+    <td class="tg-5ytf">Mdm Loh Suang Mei (Mavis)<br><br><br><br>Mdm Rashidah Bte Rajah <br><br><br>Mdm Neo Yuan Ling<br><br></td>
+    <td class="tg-5ytf">loh_suang_mei@moe.edu.sg<br><br><br><br>rashidah_rajah@moe.edu.sg<br><br><br>neo_yuan_ling@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">1 R3</span></td>
@@ -41,7 +41,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">1 R4</span></td>
-    <td class="tg-5ytf">Mdm Kavita d/o Baliram<span style="color:#6F6F6F;background-color:#EFEFEF">  </span><br>Mdm Chen Yao<br><br>Mr Sean Koh Jian En <br></td>
+    <td class="tg-5ytf">Mdm Kavita d/o Baliram<span style="color:#6F6F6F;background-color:#EFEFEF">  </span><br><br>Mdm Chen Yao<br><br>Mr Sean Koh Jian En <br></td>
     <td class="tg-5ytf">kavita_baliram@moe.edu.sg<br><br>chen_yao@moe.edu.sg<br><br>sean_koh_jian_en@moe.edu.sg<br></td>
   </tr>
   <tr>
