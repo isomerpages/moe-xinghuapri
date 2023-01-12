@@ -11,58 +11,58 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-3xin{background-color:#0063B0;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kcyx{background-color:#0063b0;text-align:left;vertical-align:top}
-.tg .tg-72gm{background-color:#0063B0;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-3rl7{background-color:#0063b0;color:#6F6F6F;text-align:left;vertical-align:middle}
+.tg .tg-9jbv{background-color:#0063B0;color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-5ytf{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 717px">
+<table class="tg" style="undefined;table-layout: fixed; width: 753px">
 <colgroup>
-<col style="width: 143px">
-<col style="width: 255px">
-<col style="width: 319px">
+<col style="width: 127px">
+<col style="width: 230px">
+<col style="width: 396px">
 </colgroup>
 <thead>
   <tr>
     <th class="tg-3xin"></th>
-    <th class="tg-72gm">Form Teacher</th>
-    <th class="tg-kcyx"><span style="color:#FFF">Email</span></th>
+    <th class="tg-9jbv">Form Teacher</th>
+    <th class="tg-3rl7"><span style="color:#FFF">Email</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5ytf"> <span style="font-weight:normal">R1</span></td>
-    <td class="tg-5ytf">Mdm Magasvari d/o Visuvanathan <br><br><br>Miss Zhang Yun<br><br><br>Mdm Ong Ming Wei Rachel<span style="background-color:transparent"> </span></td>
-    <td class="tg-5ytf">magasvari_visuvanathan@moe.edu.sg<br><br><br>zhang_yun@moe.edu.sg<br><br><br>ong_ming_wei@moe.edu.sg<br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal;font-style:inherit">R1</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Magasvari d/o Visuvanathan</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Zhang Yun</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Ong Ming Wei Rachel</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">magasvari_visuvanathan@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">zhang_yun@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">ong_ming_wei@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-5ytf"><span style="font-weight:normal">1 R2</span></td>
-    <td class="tg-5ytf">Mdm Loh Suang Mei (Mavis)<br><br><br>Mdm Rashidah Bte Rajah <br><br><br>Mdm Neo Yuan Ling<br></td>
-    <td class="tg-5ytf">loh_suang_mei@moe.edu.sg<br><br><br>rashidah_rajah@moe.edu.sg<br><br><br>neo_yuan_ling@moe.edu.sg</td>
+    <td class="tg-5ytf"><span style="font-weight:normal;font-style:inherit">1 R2</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Loh Suang Mei (Mavis)</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Rashidah Bte Rajah</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Neo Yuan Ling</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">loh_suang_mei@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">rashidah_rajah@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">neo_yuan_ling@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-5ytf"><span style="font-weight:normal">1 R3</span></td>
-    <td class="tg-5ytf">Mdm Maheswari d/o Ramachandran<br><br>Miss Yan Nan<br><br>Miss Chia Yilin Eileen<br></td>
-    <td class="tg-5ytf">maheswari_ramachandran@moe.edu.sgyan_nan@moe.edu.sg<br><br>chia_yilin_eileen@moe.edu.sg<br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal;font-style:inherit">1 R3</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Maheswari d/o Ramachandran</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Yan Nan</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Chia Yilin Eileen</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">maheswari_ramachandran@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">yan_nan@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">chia_yilin_eileen@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-5ytf"><span style="font-weight:normal">1 R4</span></td>
-    <td class="tg-5ytf">Mdm Kavita d/o Baliram<span style="color:#6F6F6F;background-color:#EFEFEF">  </span><br>Mdm Chen Yao<br><br>Mr Sean Koh Jian En <br></td>
-    <td class="tg-5ytf">kavita_baliram@moe.edu.sg<br><br>chen_yao@moe.edu.sg<br><br>sean_koh_jian_en@moe.edu.sg<br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal;font-style:inherit">1 R4</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Kavita d/o Baliram</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Chen Yao</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Sean Koh Jian En</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">kavita_baliram@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">chen_yao@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">sean_koh_jian_en@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-5ytf"><span style="font-weight:normal">1 R5</span></td>
-    <td class="tg-5ytf">Mdm Roslina Bte Basak<br><br>Mdm Tan Pei-ying Elana<br><br>Mr Firdaus Bin Ismail <br></td>
-    <td class="tg-5ytf">roslina_basak@moe.edu.sg<br>elana_tan_pei-ying@moe.edu.sg<br><br>firdaus_ismail@moe.edu.sg<br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal;font-style:inherit">1 R5</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Roslina Bte Basak</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Tan Pei-ying Elana</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Firdaus Bin Ismail</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">roslina_basak@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">elana_tan_pei-ying@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">firdaus_ismail@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-5ytf">1 R6</td>
-    <td class="tg-5ytf">Mdm Sen Mai Leng (Helen)<br><br>Miss Lim Lay Yian<br><br>Mdm Suraya Binte Mustajab<br></td>
-    <td class="tg-5ytf">sen_mai_leng@moe.edu.sg<br><br>lim_lay_yian@moe.edu.sg<br><br>suraya_mustajab@moe.edu.sg<br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">1 R6</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Sen Mai Leng (Helen)</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Lim Lay Yian</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Suraya Binte Mustajab</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">sen_mai_leng@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">lim_lay_yian@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">suraya_mustajab@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-5ytf">1 R7<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
-    <td class="tg-5ytf">Mdm Mendoza Anne<br><br>Mdm Norrah Binte Rebo<span style="color:#6F6F6F;background-color:#EFEFEF">  </span><br>Mdm Poh Ai Leng<br></td>
-    <td class="tg-5ytf">anne_mary_fernandez_mendoz@moe.edu.sg<br><br>norrah_rebo@moe.edu.sg<br><br>poh_ai_leng@moe.edu.sg</td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">1 R7</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Mendoza Anne</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Norrah Binte Rebo</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Poh Ai Leng</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">anne_mary_fernandez_mendoz@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">norrah_rebo@moe.edu.sg</span><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">poh_ai_leng@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
