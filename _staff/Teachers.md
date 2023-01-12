@@ -188,12 +188,164 @@ description: ""
   </tr>
 </tbody>
 </table>
+<br>
 
 **Primary 4**
-![](/images/Staff/T06.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3xin{background-color:#0063B0;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kcyx{background-color:#0063b0;text-align:left;vertical-align:top}
+.tg .tg-72gm{background-color:#0063B0;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-5ytf{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 661px">
+<colgroup>
+<col style="width: 132px">
+<col style="width: 235px">
+<col style="width: 294px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-3xin"></th>
+    <th class="tg-72gm">Form Teacher</th>
+    <th class="tg-kcyx"><span style="color:#FFF">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5ytf"><span style="font-weight:normal">4 R1</span><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">Mdm </span><span style="font-weight:400">Chew Angel</span><br><br><br><span style="font-weight:normal">Miss </span><span style="font-weight:400">Lim Chiek Kuan (Catherine)</span><br><br><span style="font-weight:400">Mdm Fatin Nabihah Binte Mohd Senor</span><br><br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">chew_angel@moe.edu.sg</span><br><br><br><span style="font-weight:normal">lim_chiek_kuan@moe.edu.sg</span><br><br><br><span style="font-weight:400">fatin_nabihah@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf"><span style="font-weight:normal">4 R2</span></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">Miss </span><span style="font-weight:400">Norashikin Bte Mohamed Noor</span><br><br><span style="font-weight:400">Mdm Tay Ling Ling (Jean)</span><br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">norashikin_mohamed_noor@moe.edu.sg</span><br><br><br><span style="font-weight:400">tay_ling_ling_a@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf"><span style="font-weight:normal">4 R3</span></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">Mdm </span><span style="font-weight:400">Ra Tenmoli</span><span style="font-weight:normal"> </span><br><span style="font-weight:400">Mr Mohd Mahdi Marican</span><br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">ra_tenmoli@moe.edu.sg</span><br><br><span style="font-weight:400">mohd_mahdi_marican@moe.edu.sg</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf"><span style="font-weight:normal">4 R4</span><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">Mr </span><span style="font-weight:400">Wong Yong Cong (Wayne)</span><br><br><br><span style="font-weight:400">Mdm Nah Siew Hong</span><br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">wong_yong_cong@moe.edu.sg</span><br><br><br><span style="font-weight:normal">nah_siew_hong@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
 **Primary 5**
-![](/images/Staff/T07.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3xin{background-color:#0063B0;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kcyx{background-color:#0063b0;text-align:left;vertical-align:top}
+.tg .tg-72gm{background-color:#0063B0;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-5ytf{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 661px">
+<colgroup>
+<col style="width: 132px">
+<col style="width: 235px">
+<col style="width: 294px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-3xin"></th>
+    <th class="tg-72gm">Form Teacher</th>
+    <th class="tg-kcyx"><span style="color:#FFF">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5ytf"><span style="font-weight:normal">5 R1</span></td>
+    <td class="tg-5ytf">Mdm Lee Shih Yin June<br><br>Mdm Kohila Vaani D/O Maniam<br></td>
+    <td class="tg-5ytf">lee_shih_yin_june@moe.edu.sg<br><br>kohilavaani_maniam@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf"><span style="font-weight:normal">5 R2</span> </td>
+    <td class="tg-5ytf">Mdm An Bee Ling<br><br><br>Mr Lim Hong Sheng Paul<br></td>
+    <td class="tg-5ytf">an_bee_ling_miss@moe.edu.sg<br><br><br>lim_hong_sheng@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf">5 R3</td>
+    <td class="tg-5ytf">Miss Siti Nadia Binte Kamar<br><br>Mr Ng Puay Keat Eddie Eddy<br><br>Mdm Nur Azeemah Binte Kadir<br></td>
+    <td class="tg-5ytf">siti_nadia_kamar@moe.edu.sg<br><br>ng_puay_keat_eddie@moe.edu.sg<br><br><br>azeemah_bte_kadir_nur@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf">5 R4 </td>
+    <td class="tg-5ytf">Miss Marina Mariaselvi d/o Thangaya<br><br><br>Mdm Lim Mei Ling<br><br><br></td>
+    <td class="tg-5ytf">marina_mariaselvi_thangaya@moe.edu.sg<br><br><br><br>lim_mei_ling@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf">5 R5<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-5ytf">Mr Murali Krishnan<br><br>Mdm Julie Katherina Bte Abd Samad<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-5ytf">murali_krishnan@moe.edu.sg <br><br><br>julie_katherina@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-5ytf">5 R6<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-5ytf">Mdm Yeo Phaik Gek Christina <br><br>Mr Fazlin Jaya Indra<br></td>
+    <td class="tg-5ytf">yeo_phaik_gek_christina@moe.edu.sg<br><br>fazlin_jaya_indra@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+<br>
 
 **Primary 6**
-![](/images/Staff/T08.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qarn{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:middle}
+.tg .tg-3xin{background-color:#0063B0;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kcyx{background-color:#0063b0;text-align:left;vertical-align:top}
+.tg .tg-72gm{background-color:#0063B0;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-5ytf{background-color:#EFEFEF;color:#6F6F6F;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 661px">
+<colgroup>
+<col style="width: 132px">
+<col style="width: 235px">
+<col style="width: 294px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-3xin"></th>
+    <th class="tg-72gm">Form Teacher</th>
+    <th class="tg-kcyx"><span style="color:#FFF">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">6 E1</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">Mr Lim Kok Peng</span><br><br><br><span style="color:#6F6F6F">Mdm Karthiyayini d/o N Raman (Mrs Shan)</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">lim_kok_peng@moe.edu.sg</span><br><br><br><br><span style="color:#6F6F6F">karthiyayini_n_raman@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">6 E2</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">Mr Naurana Badalge Saranapala (Rodney)</span><br><br><span style="color:#6F6F6F">Mr Muhammad Khairi Bin Uda</span><br><br><br><span style="color:#6F6F6F">Mdm Wang Gek Hui (Katlyn)</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">naurana_badalge_saranapala@moe.edu.sg</span><br><br><br><br><span style="color:#6F6F6F">Muhammad_Khairi_UDA@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F">wang_gek_hui@moe.edu.sg</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">6 E3</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">Mdm Avneet Kaur</span><br><br><br><span style="color:#6F6F6F">Miss Lim Peck Kiang Josephine</span><br><br><br><span style="color:#6F6F6F">Mr Mohammad Zaki Bin Yusoff</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">avneet_kaur@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F">lim_peck_kiang_josephine@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F">mohammad_zaki_yusoff@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">6 E4</span></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">Mdm Annie Yap Chin-Kit </span><br><br><br><span style="color:#6F6F6F">Mdm Low Xinyi (Felicia)</span><br></td>
+    <td class="tg-5ytf"><span style="color:#6F6F6F">yap_chin-kit@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F">low_xinyi@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
+<br>
