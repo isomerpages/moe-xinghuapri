@@ -61,8 +61,10 @@ description: ""
   </tr>
 </tbody>
 </table>
+<br>
+
 **Primary 2**
-![](/images/Staff/T02_2023.png)
+![](/images/Xing%20Hua%20SS%20P2.png)
 
 
 **Primary 3**
