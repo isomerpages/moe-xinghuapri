@@ -30,7 +30,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5ytf"><span style="font-weight:normal;font-style:inherit">R1</span></td>
+    <td class="tg-5ytf"><span style="font-weight:normal;font-style:inherit">1R1</span></td>
     <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Magasvari d/o Visuvanathan</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Zhang Yun</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Ong Ming Wei Rachel</span></td>
     <td class="tg-5ytf"><span style="color:#6F6F6F;background-color:#EFEFEF">magasvari_visuvanathan@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">zhang_yun@moe.edu.sg</span><br><br><br><span style="color:#6F6F6F;background-color:#EFEFEF">ong_ming_wei@moe.edu.sg</span><br></td>
   </tr>
