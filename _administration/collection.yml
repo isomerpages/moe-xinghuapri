@@ -1,0 +1,10 @@
+collections:
+  administration:
+    output: true
+    order:
+      - School Service Providers Info.md
+      - Financial Assistance.md
+      - NEU PC Application.md
+      - Leave of Absence.md
+      - Downloadable Forms.md
+      - FAQs.md

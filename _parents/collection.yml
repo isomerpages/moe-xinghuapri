@@ -1,0 +1,13 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parents.md
+      - News from MOE.md
+      - Letters to Parents    Xinghua/.keep
+      - Letters to Parents    Xinghua/Letters to Parents Xinghua Link.md
+      - Letters to Parents    Xinghua/Archived News.md
+      - Parent Support Group.md
+      - SchoolBag.md
+      - Sexuality Education.md
+      - Resources.md

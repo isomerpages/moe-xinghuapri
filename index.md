@@ -1,32 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Xinghua Primary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Homepage/HomepageGif.gif
+      key_highlights:
+        - title: Announcements
+          description: Information for Parents
+          url: /Announcements
+  - infopic:
+      title: Xinghua Primary on News Media
+      button: Please click for more informarion
+      alt: Image alt text
+      image: /images/Homepage/f129db1d2_3205.jpg
+      url: /Xinhua-Primary-on-News-Media
+  - infopic:
+      title: Story For Life
+      description: Our school website has a new section - Story for Life. In this
+        section, our principal, Mr Chew Mun Wai, will be sharing meaningful
+        stories with the students.
+      button: Please click here
+      alt: Image alt text
+      image: /images/Homepage/9fffbfdc1_2675.jpg
+      url: /programmes/Story-For-Life
 ---
-
