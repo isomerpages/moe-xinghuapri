@@ -28,4 +28,4 @@ We encourage all members of our school community, including students, parents, a
 Mr Chew Mun Wai<br>
 Principal
 
-![](/images/IMG_3541v1.jpeg)
+![Principal's Photo](/images/IMG_3541v1.jpg)

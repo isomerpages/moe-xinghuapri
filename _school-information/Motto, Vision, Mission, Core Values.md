@@ -1,8 +1,12 @@
 ---
-title: Vision, Mission, Core Values
-permalink: /school-information/Vision-Mission-Core-Values
+title: Motto, Vision, Mission, Core Values
+permalink: /school-information/Vision-Mission-Core-Values/
 description: ""
 ---
+#### OUR MOTTO
+
+Towards Excellence
+
 #### OUR VISION
 
 An Innovative School of Discerning Learners and Caring Leaders
