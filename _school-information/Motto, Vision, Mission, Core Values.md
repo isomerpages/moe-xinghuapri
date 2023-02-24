@@ -7,22 +7,16 @@ description: ""
 
 Towards Excellence
 
-#### OUR VISION
-
-An Innovative School of Discerning Learners and Caring Leaders
-
 #### OUR MISSION
 
+We provide a **Caring and Enabling Environment** for nurturing **All Students**
 
-We will provide Quality Teaching and Learning so that our pupils are rooted in values and stretched in their potential.  
-
-#### OUR CORE VALUES
+#### OUR VISION
 
 
-**E**xcellence
+**Resilient Achievers** and **Thoughtful Citizens**  
 
-**R**esilience
+#### OUR SCHOOL VALUES
 
-**R**espect
 
-**R**esponsibility
+Care, Respect, Responsibility, Resilience, Integrity
