@@ -27,4 +27,12 @@ sections:
       alt: Image alt text
       image: /images/Homepage/9fffbfdc1_2675.jpg
       url: /programmes/Story-For-Life
+  - infopic:
+      title: Inspiring Teacher Of English Award 2023
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Please click here
+      url: https://www.xinghuapri.moe.edu.sg/files/2023_InspiringELTeacher_Nomination%20Form.pdf
+      image: /images/8b64c1ced_3386.jpg
+      alt: I love English Teacher
 ---
