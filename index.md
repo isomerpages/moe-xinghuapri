@@ -32,7 +32,7 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Please click here
-      url: https://www.xinghuapri.moe.edu.sg/files/2023_InspiringELTeacher_Nomination%20Form.pdf
+      url: /Inspiring-Teacher-of-English-Award-2023/
       image: /images/8b64c1ced_3386.jpg
       alt: I love English Teacher
 ---
