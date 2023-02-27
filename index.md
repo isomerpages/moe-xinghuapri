@@ -14,7 +14,7 @@ sections:
           url: /Announcements
   - infopic:
       title: Xinghua Primary on News Media
-      button: Please click for more informarion
+      button: Please click here
       alt: Image alt text
       image: /images/Homepage/f129db1d2_3205.jpg
       url: /Xinhua-Primary-on-News-Media
