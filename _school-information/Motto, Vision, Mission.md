@@ -1,8 +1,9 @@
 ---
-title: Motto, Vision, Mission, Core Values
+title: Motto, Vision, Mission
 permalink: /school-information/Vision-Mission-Core-Values/
 description: ""
 ---
+
 #### OUR MOTTO
 
 Towards Excellence

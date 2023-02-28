@@ -27,4 +27,12 @@ sections:
       alt: Image alt text
       image: /images/Homepage/9fffbfdc1_2675.jpg
       url: /programmes/Story-For-Life
+  - infopic:
+      title: Inspiring Teacher Of English Award 2023
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Please click here
+      url: /Inspiring-Teacher-of-English-Award-2023/
+      image: /images/8b64c1ced_3386.jpg
+      alt: I love English Teacher
 ---
