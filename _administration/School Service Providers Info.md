@@ -1,6 +1,6 @@
 ---
 title: School Service Providers Info
-permalink: /administration/School-Service-Providers-Info
+permalink: /administration/School-Service-Providers-Info/
 description: ""
 ---
 ##### **SCHOOL UNIFORM/ PE ATTIRE/ SHOES** 
@@ -18,7 +18,7 @@ description: ""
 |                            |                                                                                                                      |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Company Name:              | Pacific Bookstores (Xinghua Primary)                                                                                 |
-| Opening Hours (in school): | Monday to Friday 9.00 am – 10.30 am; 1.30 pm – 3.00 pm (sale to students only) 11.30 am – 12.30 pm (open to parents) |
+| Opening Hours (in school): | Monday to Friday 9.00 am – 10.30 am; 1.30 pm – 3.00 pm (sale to students only) 11.00 am – 11.30 am (open to parents) |
 | Tel:                       | 6280 6901                                                                                                            |
 
 ##### **TRANSPORT** 
@@ -31,32 +31,31 @@ description: ""
 
 ##### **DENTAL HEALTH** 
 
-For any dental service required from January to end July 2022, please call:  
-  
-Health Promotion Board, School Dental Centre, Tel: 6435 3779 or 6435 3151  
-3 Second Hospital Avenue S(168937) Level 4  
-  
-From 1 August to 30 November 2022, a Roving Dental Clinic will be arranged to provide dental services for the pupils as scheduled below.  
-  
-Opening hours will be:      
+**Dental Therapist**
 
-*   Monday to Thursday  (8am - 5.30pm)
-*   Friday  (8am - 5pm)
+6487 4110
+
+For more information, go to Hpb.gov.sg/schools
+
+Tuesday and Wednesday 8.00am - 5.30pm
+
+Thursday 8.00am - 5.00pm
+
+Lunch Hours 1.00pm - 2.00pm
 
 ##### **SCHOOL LIBRARY**
 
 | Tel:          | 6287 0795          |
 |---------------|--------------------|
-| Opening Hours | 7.30 am to 3.30 pm |
+| Opening Hours | 7.15 am to 4.15 pm |
 
 ##### **STUDENT CARE CENTRE**
 
 |           |                                                      |
 |-----------|------------------------------------------------------|
-| Name:     | The Enablers II Pte Ltd (Student CARE @ Xinghua Pri) |
-| Address:  | 45 Hougang Avenue 1 Singapore 538882                 |
-| Tel:      | 9006 3673                                            |
-| Email:    | [xinghuascc@nable2.com ](xinghuascc@nable2.com )                               |
+| Name:     | Pro-Teach Schoolcare |
+| Tel:      | 8788 3419                                            |
+| Email:    | [xinghua@pro-teach.com ](xinghua@pro-teach.com )                               |
 
 ##### **HOTLINES OF SUPPORT AGENCIES** 
 
@@ -66,9 +65,3 @@ Opening hours will be:    
 | Tinkle Friend                            | 6276 5077     |
 | Social Service Office @ Hougang          | 1800-222-0000 |
 | Hougang Sheng Hong Family Service Centre | 6289 5022     |
-
-
-
-
-
-
