@@ -1,8 +1,10 @@
 ---
-title: Xinhua Primary on News Media
-permalink: /Xinhua-Primary-on-News-Media
+title: Xinghua Primary on News Media
+permalink: /xinghua-primary-on-news-media/
 description: ""
 ---
+
+
 Dear parents and students,
 
 Our school was recently featured on Berita Harian and 8World. These news articles highlight how we foster a caring environment and enable our students to become confident learners through various school programmes.
