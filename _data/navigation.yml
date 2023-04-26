@@ -56,7 +56,7 @@ links:
       - title: Parent Support Group
         url: /parents/Parent-Support-Group
       - title: SchoolBag
-        url: " https://www.schoolbag.edu.sg/"
+        url: https://www.schoolbag.edu.sg/
       - title: Sexuality Education
         url: /parents/Sexuality-Education
       - title: Resources
@@ -73,7 +73,7 @@ links:
   - title: ADMINISTRATION
     url: /administration/School-Service-Providers-Info
     sublinks:
-      - title: " School Service Providers Info"
+      - title: School Service Providers Info
         url: /administration/School-Service-Providers-Info
       - title: Financial Assistance
         url: https://www.moe.gov.sg/financial-matters/financial-assistance
@@ -86,4 +86,4 @@ links:
       - title: FAQ
         url: /administration/FAQ
   - title: CONTACT US
-    url: /Contact-us
+    url: /Contact-us/
