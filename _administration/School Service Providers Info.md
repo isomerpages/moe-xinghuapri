@@ -33,15 +33,14 @@ description: ""
 
 **Dental Therapist**
 
-6487 4110
+9838 9102
 
 For more information, go to Hpb.gov.sg/schools
 
-Tuesday and Wednesday 8.00am - 5.30pm
+Monday to Thursday 8.00am - 5.30pm
 
-Thursday 8.00am - 5.00pm
+Friday 8.00am - 5.00pm
 
-Lunch Hours 1.00pm - 2.00pm
 
 ##### **SCHOOL LIBRARY**
 

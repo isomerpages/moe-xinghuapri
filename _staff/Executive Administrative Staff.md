@@ -105,6 +105,10 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Desktop Engineer 1</span><br></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Kumaravel Rajamugam</span></td>
   </tr>
+<tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Desktop Engineer 2</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Suffian Bin Samad</span></td>
+  </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Librarian</span><br></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Rajeswari d/o Ganes</span><br></td>
@@ -117,9 +121,5 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Security Officer</span><br></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Raghbir Singh</span></td>
   </tr>
-  <tr>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Science Lab Assistant</span></td>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Hazira Razianty Bte Abdul Razak</span></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
