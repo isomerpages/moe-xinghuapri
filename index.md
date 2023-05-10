@@ -27,4 +27,8 @@ sections:
       alt: Image alt text
       image: /images/Homepage/9fffbfdc1_2675.jpg
       url: /programmes/Story-For-Life
+  - infopic:
+      title: Rovering Dental Clinic for Xinghua Pri Sch
+      image: /images/roving dental clinic.jpg
+      alt: Image alt text
 ---
