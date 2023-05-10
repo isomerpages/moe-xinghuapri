@@ -13,7 +13,7 @@ sections:
           description: Information for Parents
           url: /Announcements
   - infopic:
-      title: Rovering Dental Clinic for Xinghua Pri Sch
+      title: Rovering Dental Clinic for Xinghua Primary School
       image: /images/roving dental clinic.jpg
       alt: Image alt text
   - infopic:
