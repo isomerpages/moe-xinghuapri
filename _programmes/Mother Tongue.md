@@ -26,6 +26,4 @@ The MTL department shares this common vision of students as active learners, whi
 *   Cultural Exposure Programme  
     Regardless of language or race, all students were treated to a feast of activities that encompassed the rich history of traditional crafts, music and visual arts. The hands-on activities engaged the students to learn more about their heritage.
 
-<center>
 <iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPII4z0N9xvXzy6xIXHYka9D0pWPnH6uOIVn4juvEzGYDo5Yjj5XCvAOhcS-CbuTYlRM4wptRlh65Z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-	</center>
