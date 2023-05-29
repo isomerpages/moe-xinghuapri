@@ -1,77 +1,44 @@
 ---
 title: Character & Citizenship Education CCE
-permalink: /programmes/Character-and-Citizenship-Education-CCE
+permalink: /programmes/Character-and-Citizenship-Education-CCE/
 description: ""
 ---
-**Our AIM**  
-To inculcate values and build competencies in our pupils so as to develop them into A Caring Leader; one who is a good individual and a citizen who contributes to building the community.  
-  
-**CCE OUTCOME**  
+**VISION**  
+Thoughtful citizen 
 
-*   All pupils are:  
-    
-
-*   Leading Self towards Excellence
-*   Working Together for a Common Purpose
-*   Leading others to make Positive Differences
-
+**Mission**  
+Nurture students to be self-regulated individuals who make responsible decision for personal well-being and for the good of others.  
   
 **KEY PROGRAMMES**  
-Values are taught through customised programmes and they are explicitly expressed through the knowledge and skills encapsulated in the CCE learning outcomes  
+The school adopted a holistic approach to CCE which involves explicit teaching of CCE knowledge, skills, and values in CCE lessons. There are multiple learning platforms and opportunities created to help students to internalise values, social -emotional competencies and citizenship dispositions.  
   
+**Positive About Self**
+*   New U  
+    A one-week activity filled orientation programme to set tone for the year. During this time, teachers guide the students to set expectation for personal effectiveness and well-being before academic learning starts. This is also the time to build relationship with teachers and peers in the class through interactive activities. 
 
-*   CCE lessons  
-    
+*   Make Good Character Visible  
+    Positive emotions are fostered through affirmation of students’ exemplary good characters.
 
-*   Teaching of values, knowledge and skills through stories, questioning and group discussions
-*   Sharing of School Values by teachers and students during Morning Express
-*   Sharing of thoughts and feelings through a Structured Circle Time on every Tuesday morning to develop mutual respect, trust and empathy in our students.
+**Values in Action**
+*   Everyday Responsibility  
+    Our students develop a sense of responsibility and care for their own shared spaces. 
+		
+*   VIVA @ Xinghua  
+    An initiative to develop the spirit of volunteerism in our students. Students are given opportunity to volunteer their time or talent to assist teachers in project work.  
+		
+*   Everyday Responsibility  
+    Our students develop a sense of responsibility and care for their own shared spaces. 
+		
+**Sense of Belonging**
+*   CCE in House System  
+    Our school House System weave in CCE when planning for House activities and House meetings to reinforce resilience and strengthen peer relationship in the school community. The positive peer relationship develops students’ sense of belongings.
 
-  
+House Meeting 1: Buddy Up<br>
+House Meeting 2: Care for our community<br>
+House Meeting 3: Creativity<br>
 
-*   Building Competencies (SE competencies )  
-    
 
-*   Structured VIA programmes to develop responsibility in our pupils:
-
-  
-
-*   **Tier 1 - Everyday Responsibility**  
-    
-
-*   Students learn to take responsibility of the common space through daily cleaning and maintaining cleanliness in school.
-
-*   Keep My Class Clean (Daily)
-*   Litter - free Canteen&nbsp;
-*   Clean My School Day (Once per semester)
-
-  
-
-*   **Tier 2: Special Responsibility**  
-    
-
-*   Groups of students and teachers who show care and concern to the community
-
-*   P3 Hydroponics
-*   Kindness on Wheels (For Staff)
-*   National Day 2017
-
-  
-
-*   **Tier 3: Spirit of Volunteerism.** 
-    
-
-*   ElderSurf Programme (Student volunteers dedicated their time to serve as Cyberguide to the senior citizens in the neighbourhood.)
-*   Kindness Movement in Xinghua
-
-*   Friendly notes to my Friends (On International Friendship Day)
-*   Appreciation for Our Non-teaching Staff ( Labour Day Appreciation)
-*   Thank you Notes to My teachers ( On Teacher’s Day)
-
-*   National Education &amp; Citizenship
-*   Social Studies Field-based Learning Journeys
-*   NE commemorative events.
-*   Students Well-being Support
-*   New U Programme to set the tone for the year and promote positive Teacher-Student and Peer relationships.
+*   Learning Beyond Classroom  
+    Students develop a sense of belongings as they walk through the memory lanes of the past. We visited Kallang Heritage Walk @ Singapore Sports Hub, Yip Yew Chong’s wall mural at Changi Terminal 4 to understand the history and heritage of Singapore and to appreciate the contribution of our forefathers in the development of our nation.
 
 <iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-flbScdUv6qh6AHN5vQQdNeQoRED4BQWd50XB53Z0PQaiR54fim_dovIpzcTg3HxYnbcFRTCdP--5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
