@@ -16,10 +16,12 @@ The MTL department shares this common vision of students as active learners, whi
 *   Active Learning in MTL Classrooms  
     Learning of MTL takes place through collaboration, active involvement, and fun and play activities. Students makes connections to what they have learnt into real life scenarios.
 
+<br>
 
 *   Enrichment  
     Students’ learning and use of their Mother Tongue Languages go beyond the classrooms- through podcasting, vlogging and even dance. The students were able to use these new skills to build their confidence in their learning.
 
+<br>
 
 *   Cultural Exposure Programme  
     Regardless of language or race, all students were treated to a feast of activities that encompassed the rich history of traditional crafts, music and visual arts. The hands-on activities engaged the students to learn more about their heritage.
