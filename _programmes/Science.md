@@ -23,5 +23,3 @@ E2K (Excellence 2000) is a science enrichment programme catered to primary 4 and
 *   Science Ecotrail <br>
 The Xinghua Ecotrail is designed to provide an authentic experience to our students and allow them to discover the wonders and secrets of nature. The learning stations are designed for pupils to deepen their understanding of the characteristics and value of the flora and fauna in the garden. Through this, students learn to appreciate the diversity of living things and develop stronger agency towards nature conservation.  
 <iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkq0hLRD8SRu-SXZvZYlBLPRwF3BLvPAE5xHdYG7zeW0z24Wmt35ULKgpfjZr4QlT9p405B2xGlQxV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-
