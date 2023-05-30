@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Xinghua Primary School
 locations:
   - address:
-      - "45 Hougang Avenue 1 "
+      - 45 Hougang Avenue 1
       - Singapore 538882
       - ""
     operating_hours: []
@@ -13,13 +13,8 @@ locations:
     title: Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - phone: +65 6288 9121
+      - email: xinghua_ps@schools.gov.sg
+      - other: +65 62838831 (Fax)
+    title: General Office
 ---
