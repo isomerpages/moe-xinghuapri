@@ -3,13 +3,13 @@ title: Mother Tongue
 permalink: /programmes/Mother-Tongue/
 description: ""
 ---
-**VISION**  
+# **VISION**  
 Active Learners and Proficient Users of the Mother Tongue Languages  
   
-**MISSION**  
+# **MISSION**  
 To provide a linguistically vibrant environment for students to acquire the language actively and appreciate one’s culture.  
   
-**KEY PROGRAMMES:**  
+# **KEY PROGRAMMES:**  
 The MTL department shares this common vision of students as active learners, while developing them to be proficient users in the Mother Tongue Languages. The students deepen and strengthen their knowledge, skills, values, and attitudes through participating in the learning of MTL through collaboration, active involvement, and fun and play activities. There are also opportunities for cultural and language based activities for students to enact the use of their Mother Tongue Languages functionally.
 
 
