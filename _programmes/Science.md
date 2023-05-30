@@ -1,48 +1,25 @@
 ---
 title: Science
-permalink: /programmes/Science
+permalink: /programmes/Science/
 description: ""
 ---
-**VISION**  
+# **VISION**  
 Every Child a Caring Scientist  
   
-**MISSION**  
+# **MISSION**  
 To develop scientific disposition and thinking through engaging and inquiry learning.  
   
-**KEY PROGRAMMES:**  
+# **KEY PROGRAMMES:**  
 
-*   Providing authentic, inquiry based experiences for pupils:  
-    
-
-*   Science centre enrichment
-
-*   Fun with animals (P3)  
-    
-*   Heat and Temperature (P4)  
-    
-*   Diversity of Cells (P5  
-    
-*   Active learning with ICT  
-    
-*   Hydroponics programme  
-    
-
-*   Every Child a Seed
-
-*   Promoting critical and creative thinking  
-    
-
-*   Sony Creative Science Award
-
-*   Programmes for Higher Progress pupils  
-    
-
-*   Excellence 2K
-*   Little Professor
-*   Science olympiad
-
-*   Programmes for Lower Progress pupils  
-    
-*   Support for lower progress pupils in Science
-
-<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAC7d_uEdJUZ7_kyki6Tf-El7Sk1yg1Gb_kbDm0Yds9awKpITG8LMp__o93oGOhW5WIn1AGwTKpPFU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+*   Applied Learning Programme  
+The Desired Outcomes of Xinghua Environmental Education ALP aspire for every student to be a Green citizen.<br>
+Students who go through Xinghua Environmental Education ALP will have a good awareness of environmental issues around them, the necessary skills and the sense of agency to make a positive difference to the environment.<br>
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNhyShD8fCYXJY8HlXe5eFzEGxAnw_QINt9Xi0a6OWOoHdjoJEKnFFiXYp7isuviiS5E5sgtFp6FeK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<br>
+*   E2K<br>
+E2K (Excellence 2000) is a science enrichment programme catered to primary 4 and 5 students who demonstrate strong interest and ability in Science. It engages students in scientific investigations involving more advanced science concepts and aims to foster independence in scientific inquiry in students.
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCeAQqu4R1v7pnn9Bvphb1qrhHmaQSba8NEodDJBjli_a4SCI0ewIo-bIjbKDVA2a07Vqp21SoA3RR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<br>
+*   Science Ecotrail <br>
+The Xinghua Ecotrail is designed to provide an authentic experience to our students and allow them to discover the wonders and secrets of nature. The learning stations are designed for pupils to deepen their understanding of the characteristics and value of the flora and fauna in the garden. Through this, students learn to appreciate the diversity of living things and develop stronger agency towards nature conservation.  
+<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkq0hLRD8SRu-SXZvZYlBLPRwF3BLvPAE5xHdYG7zeW0z24Wmt35ULKgpfjZr4QlT9p405B2xGlQxV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
