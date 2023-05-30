@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6288 9121
       - email: xinghua_ps@schools.gov.sg
-      - other: +65 62838831 (Fax)
+      - other: +65 6283 8831 (Fax)
     title: General Office
 ---
