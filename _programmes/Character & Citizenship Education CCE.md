@@ -3,13 +3,13 @@ title: Character & Citizenship Education CCE
 permalink: /programmes/Character-and-Citizenship-Education-CCE/
 description: ""
 ---
-**VISION**  
+# **VISION**  
 Thoughtful citizen 
 
-**Mission**  
+# **Mission**  
 Nurture students to be self-regulated individuals who make responsible decision for personal well-being and for the good of others.  
   
-**KEY PROGRAMMES**  
+# **KEY PROGRAMMES**  
 The school adopted a holistic approach to CCE which involves explicit teaching of CCE knowledge, skills, and values in CCE lessons. There are multiple learning platforms and opportunities created to help students to internalise values, social -emotional competencies and citizenship dispositions.  
   
 **Positive About Self**
