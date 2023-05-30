@@ -3,13 +3,13 @@ title: Science
 permalink: /programmes/Science/
 description: ""
 ---
-**VISION**  
+# **VISION**  
 Every Child a Caring Scientist  
   
-**MISSION**  
+# **MISSION**  
 To develop scientific disposition and thinking through engaging and inquiry learning.  
   
-**KEY PROGRAMMES:**  
+# **KEY PROGRAMMES:**  
 
 *   Applied Learning Programme  
 The Desired Outcomes of Xinghua Environmental Education ALP aspire for every student to be a Green citizen.<br>
