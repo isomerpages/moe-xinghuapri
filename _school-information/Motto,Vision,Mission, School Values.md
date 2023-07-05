@@ -19,4 +19,4 @@ We provide a **Caring and Enabling Environment** for nurturing **All Students
 #### OUR SCHOOL VALUES
 
 
-Care, Respect, Responsibility, Resilience, Integrity
+Care, Respect, Responsibility, Resilience, Excellence
