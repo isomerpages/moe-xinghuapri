@@ -1,9 +1,9 @@
 ---
 title: Parent Support Group
-permalink: /parents/Parent-Support-Group
+permalink: /parents/Parent-Support-Group/
 description: ""
 ---
-Welcome to Xinghua Primary School Parent Support Group (PSG) webpage.  The PSG members are committed to volunteering their time and services to support the school programme and activities.
+Welcome to Xinghua Primary School Parent Support Group (PSG) webpage. &nbsp;The PSG members are committed to volunteering their time and services to support the school programme and activities.
 
 
 
@@ -11,7 +11,7 @@ Welcome to Xinghua Primary School Parent Support Group (PSG) webpage.  The PSG 
 
 <figure>
 
-<img src="/images/Parents/Parents%20Support%20Group/imageedit_1_4166246440.jpg">
+<img src="/images/Parents/Parents%20Support%20Group/psg2023.jfif">
 
 <figcaption> <strong> Celebrating School Events </strong> </figcaption>
 
@@ -22,7 +22,7 @@ Welcome to Xinghua Primary School Parent Support Group (PSG) webpage.  The PSG 
 Other involvements with the school:
 
   
-Primary 1 Orientation & Registration Exercise, Chaperons for Primary 3 Swimming Programme, Teachers’ Day & Children’s Day Celebrations, KidsRead Programme and other school excursions.
+Primary 1 Orientation &amp; Registration Exercise, Chaperons for Primary 3 Swimming Programme, Teachers’ Day &amp; Children’s Day Celebrations, KidsRead Programme and other school excursions.
 
   
 
