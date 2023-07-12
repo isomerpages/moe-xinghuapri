@@ -87,7 +87,7 @@ description: ""
     <td class="tg-5ytf"> </td>
   </tr>
   <tr>
-    <td class="tg-5ytf">Mdm Aileen Goh Chih Yi </td>
+    <td class="tg-5ytf">Miss Veronica Lathar Naidu</td>
     <td class="tg-ksrz"><span style="color:#6F6F6F;background-color:#EFEFEF">  </span>Flexi Adjunct Teacher</td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
