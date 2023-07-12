@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Vice-Principal (Admin)</span></td>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Goh Lian Choo</span></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Ms Tan Bee Yin</span></td>
   </tr>
   <tr>
     <td class="tg-qarn"></td>
