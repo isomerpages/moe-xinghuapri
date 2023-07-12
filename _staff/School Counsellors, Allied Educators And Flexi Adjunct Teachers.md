@@ -51,6 +51,11 @@ description: ""
     <td class="tg-27m9"> School Counsellor </td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
+	 <tr>
+    <td class="tg-5ytf">Miss Lee Mee Ling <br></td>
+    <td class="tg-27m9"> School Counsellor </td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+  </tr>
   <tr>
     <td class="tg-5ytf">Mdm Seah Mei Ling Alicia</td>
     <td class="tg-ksrz"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span>Flexi Adjunct Teacher</td>
