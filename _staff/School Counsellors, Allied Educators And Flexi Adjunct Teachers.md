@@ -97,7 +97,7 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-5ytf">Mr Mohd Dzar Shahrullah</td>
+    <td class="tg-5ytf">Miss Tan Yen Ting</td>
     <td class="tg-27m9"> Flexi Adjunct Teacher</td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
@@ -113,6 +113,16 @@ description: ""
   </tr>
   <tr>
     <td class="tg-5ytf">Mdm A Gayathree<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-27m9">Flexi Adjunct Teacher </td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+  </tr>
+	<tr>
+    <td class="tg-5ytf">Miss Quek Mui Ling Elenda<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-27m9">Flexi Adjunct Teacher </td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+  </tr>
+	<tr>
+    <td class="tg-5ytf">Miss Ong Pearleen<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
     <td class="tg-27m9">Flexi Adjunct Teacher </td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>

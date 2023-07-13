@@ -111,8 +111,12 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Ms Norashikin Bte Mohamed Noor </span></td>
   </tr>
   <tr>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Admin Manager </span></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Admin Manager 1</span></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Norhaslyn </span></td>
+  </tr>
+	<tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Admin Manager 2</span></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Wendy Chia</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
