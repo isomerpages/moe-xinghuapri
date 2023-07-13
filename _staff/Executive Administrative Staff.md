@@ -28,8 +28,12 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Admin Manager</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Admin Manager 1</span><br></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Norhaslyn Rohhani</span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Admin Manager 2</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Wendy Chia</span><br></td>
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Operation Manager</span></td>
