@@ -31,7 +31,7 @@ Xinghua Primary School Canteen Advertisement
 
 \* Email: [lim_fung_jin@moe.edu.sg](lim_fung_jin@moe.edu.sg)
 
-\* Contact Perso: Lim Fung Jin
+\* Contact Person: Lim Fung Jin
 
 \*\*How to get there?\*\*
 
