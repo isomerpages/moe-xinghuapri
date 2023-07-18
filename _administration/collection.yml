@@ -2,6 +2,7 @@ collections:
   administration:
     output: true
     order:
+      - Canteen Advertisement.md
       - School Service Providers Info.md
       - Financial Assistance.md
       - NEU PC Application.md
