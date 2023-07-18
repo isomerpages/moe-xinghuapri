@@ -29,7 +29,7 @@ Xinghua Primary School Canteen Advertisement
 
 \* Contact No: 62889121
 
-\* Email: lim\_fung\_jin@moe.edu.sg
+\* Email: [lim_fung_jin@moe.edu.sg](lim_fung_jin@moe.edu.sg)
 
 \* Contact Perso: Lim Fung Jin
 
