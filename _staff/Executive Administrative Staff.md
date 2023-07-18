@@ -114,6 +114,11 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Suffian Bin Samad</span></td>
   </tr>
   <tr>
+</tr><tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">ICT Trainer</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Ms Nadiah Ismail</span></td>
+  </tr>
+  <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Librarian</span><br></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Miss Rajeswari d/o Ganes</span><br></td>
   </tr>
