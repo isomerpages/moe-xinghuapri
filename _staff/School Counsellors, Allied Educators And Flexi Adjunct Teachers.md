@@ -112,7 +112,7 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-5ytf">Mdm A Gayathree<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
+    <td class="tg-5ytf">Mohd Dzar Shahrullah<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
     <td class="tg-27m9">Flexi Adjunct Teacher </td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
