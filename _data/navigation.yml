@@ -73,6 +73,8 @@ links:
   - title: ADMINISTRATION
     url: /administration/School-Service-Providers-Info
     sublinks:
+      - title: Canteen Advertisement
+        url: /administration/canteen-advertisement/
       - title: School Service Providers Info
         url: /administration/School-Service-Providers-Info
       - title: Financial Assistance
