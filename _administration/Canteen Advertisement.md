@@ -13,7 +13,7 @@ Xinghua Primary School Canteen Advertisement
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Application Form](/files/Administration/school%20canteen%20application%20form.pdf)
+\* \[[Application Form]((/files/Administration/school%20canteen%20application%20form.pdf))\]
 
 2\. Attached the following documents together with the application form:
 
