@@ -92,11 +92,6 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-5ytf">Miss Marie Quek Li Sze<br> </td>
-    <td class="tg-27m9">  Flexi Adjunct Teacher</td>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
-  </tr>
-  <tr>
     <td class="tg-5ytf">Miss Tan Yen Ting</td>
     <td class="tg-27m9"> Flexi Adjunct Teacher</td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
