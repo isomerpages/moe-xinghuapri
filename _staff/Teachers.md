@@ -230,8 +230,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">4 R3</span></td>
-    <td class="tg-5ytf"><span style="font-weight:normal">Mdm </span><span style="font-weight:400">Ra Tenmoli</span><span style="font-weight:normal"> </span><br><span style="font-weight:400">Mr Mohd Mahdi Marican</span><br></td>
-    <td class="tg-5ytf"><span style="font-weight:normal">ra_tenmoli@moe.edu.sg</span><br><br><span style="font-weight:400">mohd_mahdi_marican@moe.edu.sg</span><br><br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">Mdm </span><span style="font-weight:400">Ra Tenmoli</span></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">ra_tenmoli@moe.edu.sg</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">4 R4</span><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
