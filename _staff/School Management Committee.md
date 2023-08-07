@@ -75,8 +75,6 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Lim Shu Fen Laura  </span></td>
   </tr>
   <tr>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Level Head - English (Covering) </span></td>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Mohd Mahdi Marican</span></td>
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Level Head - Mathematics (Covering) </span></td>
