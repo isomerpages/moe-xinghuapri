@@ -1,5 +1,5 @@
 collections:
-  achievement:
+  successes:
     output: true
     order:
       - 2020.md
