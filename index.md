@@ -31,4 +31,7 @@ sections:
       alt: Image alt text
       image: /images/Homepage/9fffbfdc1_2675.jpg
       url: /programmes/Story-For-Life
+  - infopic:
+      image: /images/qr code.jpg
+      alt: Image alt text
 ---
