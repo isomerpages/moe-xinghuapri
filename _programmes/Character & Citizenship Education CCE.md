@@ -42,3 +42,14 @@ House Meeting 3: Creativity<br>
     Students develop a sense of belongings as they walk through the memory lanes of the past. We visited Kallang Heritage Walk @ Singapore Sports Hub, Yip Yew Chong’s wall mural at Changi Terminal 4 to understand the history and heritage of Singapore and to appreciate the contribution of our forefathers in the development of our nation.
 
 <iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-flbScdUv6qh6AHN5vQQdNeQoRED4BQWd50XB53Z0PQaiR54fim_dovIpzcTg3HxYnbcFRTCdP--5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**Student Leadership**
+
+Student leaders are empowered to promote peer support through helping and bonding with other students, and to be influencers of positive behaviour to provide a more caring and enabling school environment.
+
+There are various platforms for them to put the knowledge of social skills and values into practice:
+* Share their voices based on the scenario-based discussions, role plays and debates during the customised leadership
+trainings and focus-group discussions.
+* Facilitate the Friend-of-Singa project, titled ‘Values Through Play’.
+* Embark on the Intergenerational Learning Programme where they will bond with the seniors.
+* Plan Teachers’ Day celebration.
