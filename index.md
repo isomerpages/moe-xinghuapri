@@ -13,6 +13,9 @@ sections:
           description: Information for Parents
           url: /Announcements
   - infopic:
+      image: /images/qr code.jpg
+      alt: Image alt text
+  - infopic:
       title: Roving Dental Clinic for Xinghua Primary School
       image: /images/roving dental clinic.jpg
       alt: Image alt text
@@ -31,7 +34,4 @@ sections:
       alt: Image alt text
       image: /images/Homepage/9fffbfdc1_2675.jpg
       url: /programmes/Story-For-Life
-  - infopic:
-      image: /images/qr code.jpg
-      alt: Image alt text
 ---
