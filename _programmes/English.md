@@ -29,4 +29,3 @@ To develop these areas of language learning in students, teachers are guided by 
 ![](/images/picture2.jpg)
 
 ![](/images/Programmes/English/picture3.png)
-
