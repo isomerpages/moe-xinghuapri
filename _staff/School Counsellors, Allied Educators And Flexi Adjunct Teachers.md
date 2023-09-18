@@ -24,11 +24,6 @@ description: ""
 <col style="width: 164px">
 </colgroup>
 <thead>
-  <tr>
-    <th class="tg-a3rt">Miss Poh Shu Siang<span style="color:#6F6F6F;background-color:#EFEFEF"> </span></th>
-    <th class="tg-ksrz"><span style="color:#6F6F6F;background-color:#EFEFEF">     </span>AED<br>      (Flexi Adjunct     <br>      Counsellor)<br></th>
-    <th class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">                             </span>poh_shu_siang@moe.edu.sg</th>
-  </tr>
 </thead>
 <tbody>
   <tr>
@@ -71,12 +66,7 @@ description: ""
     <td class="tg-ksrz"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span>Flexi Adjunct Teacher</td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-5ytf">Mdm Annabelle Chan Chey Khoon  </td>
-    <td class="tg-ksrz">Flexi Adjunct Teacher</td>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
-  </tr>
-  <tr>
+ <tr>
     <td class="tg-5ytf">Mdm Siaw May Ying </td>
     <td class="tg-ksrz"><span style="color:#6F6F6F;background-color:#EFEFEF">    </span>Flexi Adjunct Teacher</td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF"> </span></td>
