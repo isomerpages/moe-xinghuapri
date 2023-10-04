@@ -225,8 +225,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">4 R2</span></td>
-    <td class="tg-5ytf"><span style="font-weight:normal">Miss </span><span style="font-weight:400">Norashikin Bte Mohamed Noor</span><br><br><span style="font-weight:400">Mdm Tay Ling Ling (Jean)</span><br></td>
-    <td class="tg-5ytf"><span style="font-weight:normal">norashikin_mohamed_noor@moe.edu.sg</span><br><br><br><span style="font-weight:400">tay_ling_ling_a@moe.edu.sg</span><br></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">Miss </span><span style="font-weight:400">Norashikin Bte Mohamed Noor</span><br><br><span style="font-weight:400"></span></td>
+    <td class="tg-5ytf"><span style="font-weight:normal">norashikin_mohamed_noor@moe.edu.sg</span><br><br><span style="font-weight:400"></span><br></td>
   </tr>
   <tr>
     <td class="tg-5ytf"><span style="font-weight:normal">4 R3</span></td>
