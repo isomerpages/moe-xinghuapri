@@ -7,7 +7,7 @@ Xinghua Primary School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 
-| Malay Food Stall | 31 July 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 31 Oct 2023 | Rice or noodle stalls are acceptable.|
 
 \*\*Application Procedure\*\*
 
