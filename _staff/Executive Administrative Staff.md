@@ -75,6 +75,10 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Operations Support Officer</span></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm See Poh Suan</span></td>
   </tr>
+	<tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Operations Support Officer (Temporary)</span></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Low Tian Hock</span></td>
+  </tr>
   </tbody>
 </table>
 
