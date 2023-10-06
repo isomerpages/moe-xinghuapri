@@ -59,6 +59,10 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Corporate Support Officer</span><br></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Wan Choon Huang</span><br></td>
   </tr>
+	 <tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Student Welfare Officer</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Ms Nurfarahin Binte Ahmad</span><br></td>
+  </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Administrative Executive  </span></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Siti Norhariani Bte Mohd Zain </span></td>
@@ -74,6 +78,10 @@ description: ""
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Operations Support Officer</span></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm See Poh Suan</span></td>
+  </tr>
+	<tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Operations Support Officer (Temporary)</span></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Low Tian Hock</span></td>
   </tr>
   </tbody>
 </table>
@@ -116,7 +124,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Librarian</span><br></td>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Ms Too Xuan Rui Shannon</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Yeo Jet Lee</span><br></td>
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Security Officer</span></td>
