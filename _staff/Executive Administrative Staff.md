@@ -116,7 +116,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Librarian</span><br></td>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Ms Too Xuan Rui Shannon</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mr Yeo Jet Lee</span><br></td>
   </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Security Officer</span></td>
