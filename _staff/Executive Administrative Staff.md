@@ -59,6 +59,10 @@ description: ""
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Corporate Support Officer</span><br></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Wan Choon Huang</span><br></td>
   </tr>
+	 <tr>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Student Welfare Officer</span><br></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Ms Nurfarahin Binte Ahmad</span><br></td>
+  </tr>
   <tr>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Administrative Executive  </span></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Siti Norhariani Bte Mohd Zain </span></td>
