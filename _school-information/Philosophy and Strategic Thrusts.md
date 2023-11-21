@@ -10,7 +10,7 @@ variant: markdown
 
 In Xinghua Primary School, every child is a unique and precious individual.
 
-We are committed to nurture each of them to become discerning learners and caring leaders.
+We are committed to provide a **Caring and Enabling Environment** for nurturing **All Students**
 
 ![](/images/School%20Information/Philosophy/Xinghua%20Primary%20School%20SIS%20Picture%202013.jpg)
 
@@ -28,4 +28,4 @@ Nurture Thoughtful Citizens
 
 **Strategic Thrust 3**
 
-Develop Resilient Achievers  
+Develop Resilient Achievers
