@@ -1,7 +1,8 @@
 ---
 title: Philosophy and Strategic Thrusts
-permalink: /school-information/Philosophy-and-Strategic-Thrusts
+permalink: /school-information/Philosophy-and-Strategic-Thrusts/
 description: ""
+variant: markdown
 ---
 #### PHILOSOPHY
 
@@ -19,18 +20,12 @@ We are committed to nurture each of them to become discerning learners and carin
 
 **Strategic Thrust 1**  
 
-Staff Capacity Building  
+Foster Mindsets and Skills for Professionals who C.A.R.E 
 
 **Strategic Thrust 2**
 
-Mindset of Excellence
+Nurture Thoughtful Citizens
 
 **Strategic Thrust 3**
 
-Values Inculcation  
-  
-  
-
-**Strategic Thrust 4**
-
-Community Partnerships
+Develop Resilient Achievers  
