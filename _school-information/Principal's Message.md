@@ -2,30 +2,28 @@
 title: Principal's Message
 permalink: /school-information/Principals-Message/
 description: ""
+variant: markdown
 ---
-Dear everyone
+**A Caring and Enabling Environment for Nurturing All Students**
 
-Welcome back to Xinghua in 2023. 
+All of us know that for anyone to flourish and be successful, he/she needs to be in an environment that makes him/her feel safe, cared for, accepted and yet also offers the right levels of challenges and exposure to equip and inspire one to grow and achieve. And so, since 2023, we have changed our school mission to focus on **providing a caring and enabling environment for nurturing all students.**  
 
-To students and staff who have just joined Xinghua this year, a very warm welcome to our family! In Xinghua, you will experience a Caring and Enabling Environment that nurtures all students.  In Xinghua, we do our best to nurture and help every student, no matter where he or she comes from, or how high or low is one’s ability and motivation.  If a student needs help, we always aim to develop him or her to be the best he or she can be. In Xinghua, we enable our students with knowledge (and skills) and empower them with courage (and positive attitudes and right values).
+Through the environment, we hope to nurture the following in our children:
 
-Since late 2021, we spoke with teachers and non-teaching staff, students and also parents about a vision for Xinghua in the coming years. By end of last year, we have confirmed the vision of the school, after gathering feedback from the different stakeholders and also looking through some of the data and information concerning our school.  The  <b>vision of Xinghua</b> for the next 3 years (2023 to 2025) will be:
+(a)	**Purpose** (to live and learn with meaning and aspirations)
+(b)	**Sound Character and Values** (to make sound decisions for themselves and others)
+(c)	**Social-Emotional Competencies** (to make responsible decisions)
+(d)	**Citizenship** (to be proud of their country and motivated to contribute to the community)
+(e)	**Resilience** (to become confident individuals who can manage and overcome challenges in their lives)
+(f)	**21st Century Competencies** (to have the skills, knowledge and attitudes to be life-long and future-ready learners)
 
-<center> <b>Resilient Achievers, Thoughtful Citizens</b> </center>
-
-In addition to the current set of school values (<b>Excellence, Resilience, Respect and Responsibility</b>), we have also included the value of <b>Care</b>.  The <b>mission of Xinghua Primary</b> is on <b>Providing a Caring and Enabling Environment for all Students</b>. 
-
-In the coming months, we will communicate more details about the Vision, Values and the school’s Mission to our students, their families, our community partners and the general community.
-
-Being a Resilient Achiever and a Thoughtful Citizen are important qualities that we value and cultivate at our school. Resilience involves the ability to persevere and bounce back from challenges as one strives for Excellence in Learning and Achievement, while being a Thoughtful Citizen involves being aware of and actively contributing to the well-being of others and the community.
-
-At our school, we encourage all students to set goals for themselves and work towards achieving them, even when faced with setbacks. We also encourage our students to be active and engaged members of their community, both in and out of school.
-
-We believe that developing resilience and citizenship are essential skills that will serve our students well not only in their academic pursuits, but also in their personal and professional lives.
-
-We encourage all members of our school community, including students, parents, and staff, to model resilience and citizenship for our young people. By setting a good example and demonstrating these values in our own lives, we can help to create a positive and supportive school culture for students and staff of Xinghua Primary School.
-
-Mr Chew Mun Wai<br>
+Wow, that looks like a lot of work, and indeed it is. Yet these are necessary areas of learning and development that our children need for the present and the future.  The current and the future world is changing rapidly and mostly, does not follow a predictable pattern. Therefore, to help our children navigate and find their purpose and meaning in life, we need to help them build foundation and anchor through sound values, positive character and relevant skills and mindsets.
+Last year, we began the journey to develop our children to be Resilient Achievers and Thoughtful Citizens. We have just begun; and 2024 promises to be another year of opportunities and possibilities to engage our young charges to stay curious about themselves and the world around them, get excited about learning and mastering new skills, and to develop positive mindsets towards challenges and new experiences. 
+This year, we are introducing and teaching more explicitly about Growth Mindset and Oracy (ability to engage in conversations) as part of the school’s efforts to build strong fundamental literacy and numeracy skills. More opportunities will also be provided to allow students to share their opinions and thoughts, and to contribute to school improvement initiatives, thus developing their Voice and Ownership over their schooling experiences. 
+I know that with the committed and competent staff of Xinghua and the support of our partners, especially our children’s parents and guardians, Xinghua Primary will excel and deliver!
+Towards excellence, Xinghua!
+Mr Chew Mun Wai
 Principal
+
 
 ![Principal's Photo](/images/IMG_3541v1.jpg)
