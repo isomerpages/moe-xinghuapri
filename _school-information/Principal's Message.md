@@ -11,10 +11,15 @@ All of us know that for anyone to flourish and be successful, he/she needs to be
 Through the environment, we hope to nurture the following in our children:
 
 (a)	**Purpose** (to live and learn with meaning and aspirations)
+
 (b)	**Sound Character and Values** (to make sound decisions for themselves and others)
+
 (c)	**Social-Emotional Competencies** (to make responsible decisions)
+
 (d)	**Citizenship** (to be proud of their country and motivated to contribute to the community)
+
 (e)	**Resilience** (to become confident individuals who can manage and overcome challenges in their lives)
+
 (f)	**21st Century Competencies** (to have the skills, knowledge and attitudes to be life-long and future-ready learners)
 
 Wow, that looks like a lot of work, and indeed it is. Yet these are necessary areas of learning and development that our children need for the present and the future.  The current and the future world is changing rapidly and mostly, does not follow a predictable pattern. Therefore, to help our children navigate and find their purpose and meaning in life, we need to help them build foundation and anchor through sound values, positive character and relevant skills and mindsets.
