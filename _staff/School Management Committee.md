@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /staff/School-Management-Committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -47,7 +48,7 @@ description: ""
     <td class="tg-5ytf"><span style="font-weight:normal">Mdm Lee Hui Xian </span><br></td>
   </tr>
   <tr>
-    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">HOD - English (Covering)</span></td>
+    <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">HOD - English </span></td>
     <td class="tg-qarn"><span style="color:#6F6F6F;background-color:#EFEFEF">Mdm Low Xin Yi Felicia  </span></td>
   </tr>
   <tr>
