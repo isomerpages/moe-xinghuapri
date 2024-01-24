@@ -1,0 +1,89 @@
+logo: /images/Homepage/Screenshot 2022-08-17 144656.png
+links:
+  - title: SCHOOL INFORMATION
+    url: /school-information/Principals-Message
+    sublinks:
+      - title: Principal's Message
+        url: /school-information/Principals-Message
+      - title: Philosophy & Strategic Thrusts
+        url: /school-information/Philosophy-and-Strategic-Thrusts
+      - title: Motto, Mission, Vision
+        url: /school-information/Vision-Mission-Core-Values
+      - title: School History
+        url: /school-information/School-History
+      - title: School Crest/ Song
+        url: /school-information/School-Crest-Song
+      - title: School Advisory Committee
+        url: /school-information/School-Advisory-Committee
+      - title: School Rules
+        url: /school-information/School-Rules
+  - title: Staff
+    collection: staff
+  - title: PROGRAMMES
+    url: /programmes/Aesthetics
+    sublinks:
+      - title: Aesthetics
+        url: /programmes/Aesthetics
+      - title: CCE
+        url: /programmes/Character-and-Citizenship-Education-CCE
+      - title: Co-Curricular Activities (CCA)
+        url: /programmes/Co-Curricular-Activities-CCA/Co-Curricular-Activities-CCA
+      - title: English
+        url: /programmes/English
+      - title: ICT
+        url: /programmes/Information-and-Communication-Technology-ICT
+      - title: Mathematics
+        url: /programmes/Mathematics
+      - title: Mother Tongue
+        url: /programmes/Mother-Tongue
+      - title: Physical Education (PE)
+        url: /programmes/Physical-Education-PE
+      - title: PAL
+        url: /programmes/Programme-for-Active-Learning-PAL
+      - title: Science
+        url: /programmes/Science
+      - title: Student Leadership
+        url: /programmes/Student-Leadership
+  - title: PARENTS
+    url: /parents/Parents
+    sublinks:
+      - title: News from MOE
+        url: https://www.moe.gov.sg/news
+      - title: Letters to Parents  - Xinghua
+        url: /parents/Letters-to-Parents-Xinghua/Letters-to-Parents-Xinghua-Link
+      - title: Parent Support Group
+        url: /parents/Parent-Support-Group
+      - title: SchoolBag
+        url: https://www.schoolbag.edu.sg/
+      - title: Sexuality Education
+        url: /parents/Sexuality-Education
+      - title: Resources
+        url: /parents/Resources
+  - title: SUCCESSES
+    url: /successes/2020
+    sublinks:
+      - title: "2020"
+        url: /successes/2020
+      - title: "2019"
+        url: /successes/2019
+      - title: "2018"
+        url: /successes/2018
+  - title: ADMINISTRATION
+    url: /administration/School-Service-Providers-Info
+    sublinks:
+      - title: Canteen Advertisement
+        url: /administration/canteen-advertisement/
+      - title: School Service Providers Info
+        url: /administration/School-Service-Providers-Info
+      - title: Financial Assistance
+        url: https://www.moe.gov.sg/financial-matters/financial-assistance
+      - title: NEU PC Application
+        url: /administration/NEU-PC-Application
+      - title: Leave of Absence
+        url: /administration/Leave-of-Absence
+      - title: Downloadable Forms
+        url: /administration/Downloadable-Forms
+      - title: FAQ
+        url: /administration/FAQ
+  - title: CONTACT US
+    url: /school-information/contact-us/
