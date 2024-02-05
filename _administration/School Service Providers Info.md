@@ -135,7 +135,7 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </p>
 <p><strong>Thursday 8.00am – 5.00pm</strong>
 </p>
-<p><strong>Lunch Hours 1.00pm – 2.00pm</strong>
+<p><strong>Lunch Hours 1.00pm – 2.00pm</strong> 
 <br>
 </p>
 <h5><strong>SCHOOL LIBRARY</strong></h5>
