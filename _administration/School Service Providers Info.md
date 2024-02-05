@@ -127,45 +127,17 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tbody>
 </table>
 <h5><strong>DENTAL HEALTH</strong></h5>
-<p>In the event the dental clinic is closed, to book a dental appointment,
-you may call or WhatsApp us at <u>9838 9102</u> and we will respond within
-1-3 working days.</p>
-<p>&nbsp;</p>
-<p>If you require any <strong>URGENT</strong> treatment (if above number is
-uncontactable), please call the following clinic for assistance:</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>School</u></strong>
+<p><strong>Dental Therapist – 9838 9102</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Address</u></strong>
+<p><strong>Note: The dentist may not be available to pick up your call immediately. Do leave your phone number for him/her to call you back.</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Tel. No:</u></strong>
+<p><strong>Tuesday and Wednesday 8.00am – 5.30pm</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Punggol Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>61 Hougang Ave 8 S(538787)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8909 1753</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>If you are unable to get through to any of the clinics above, please email
-your request to School Dental Service at <a rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
+<p><strong>Thursday 8.00am – 5.00pm</strong>
+</p>
+<p><strong>Lunch Hours 1.00pm – 2.00pm</strong>
+<br>
+</p>
 <h5><strong>SCHOOL LIBRARY</strong></h5>
 <table>
 <tbody>
