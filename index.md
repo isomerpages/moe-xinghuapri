@@ -22,7 +22,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Roving Dental Clinic for Xinghua Primary School
-      image: /images/roving dental clinic.jpg
+      image: /images/Roving_Dental_Clinic.png
       alt: Image alt text
   - infopic:
       title: Xinghua Primary on News Media
