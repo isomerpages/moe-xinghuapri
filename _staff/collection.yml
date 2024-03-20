@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Lower Primary/Teachers.md
       - Lower Primary/.keep
       - Executive Administrative Staff.md
       - School Management Committee.md
