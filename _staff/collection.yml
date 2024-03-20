@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teachers.md
-      - Lower Primary/.keep
       - Executive Administrative Staff.md
       - School Management Committee.md
       - School Counsellors, Allied Educators And Flexi Adjunct Teachers.md
