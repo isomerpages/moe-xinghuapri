@@ -8,36 +8,9 @@ variant: tiptap
 </p>
 <p><strong>Assistant Year Head:</strong>  <a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>
 </p>
+<p></p>
 <p><strong>Primary 1</strong>
 </p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year Head / Assistant Year Head</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Neo Yuan Ling (Mrs Awyong) - YH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_yuan_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_yuan_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table>
 <tbody>
 <tr>
@@ -47,26 +20,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mendoza Anne
+<p><a href="mailto:anne_mary_fernandez_mendoz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mendoza Anne</a>
 <br>
-<br>
-<br>Mdm Rashidah Bte Rajah
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anne_mary_fernandez_mendoz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anne_mary_fernandez_mendoz@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:rashidah_rajah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_rajah@moe.edu.sg</a>
+<br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah</a>
 </p>
 </td>
 </tr>
@@ -75,14 +37,10 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rusydiana Binte Kusni
+<p><a href="mailto:rusydiana_kusni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rusydiana Binte Kusni</a>
 <br>
-<br>Mdm Lim Jie Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rusydiana_kusni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rusydiana_kusni@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:lim_jie_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jie_min@moe.edu.sg</a>
+</p>
+<p><a href="mailto:lim_jie_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Jie Min</a>
 </p>
 </td>
 </tr>
@@ -91,14 +49,10 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Cheng Cheok (Diana)
-<br>
-<br>Muhammad Nizam Bin Mustafa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_cheng_cheok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_cheng_cheok@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:muhammad_nizam_mustafa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_nizam_mustafa@moe.edu.sg</a>
+<p><a href="mailto:koh_cheng_cheok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koh Cheng Cheok (Diana)</a>
+</p>
+<p>
+<br><a href="mailto:muhammad_nizam_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad Nizam Bin Mustafa</a>
 </p>
 </td>
 </tr>
@@ -107,14 +61,10 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Chiek Kuan (Catherine)
+<p><a href="mailto:lim_chiek_kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Chiek Kuan (Catherine)</a>
 <br>
-<br>Mdm Nasreen Binte Haji Shahabuddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chiek_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chiek_kuan@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:nasreen_haji_shahabuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nasreen_haji_shahabuddin@moe.edu.sg</a>
+</p>
+<p><a href="mailto:nasreen_haji_shahabuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nasreen Binte Haji Shahabuddin</a>
 </p>
 </td>
 </tr>
@@ -123,16 +73,10 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Samir Bin Mohd Ishak
-<br>
-<br>Mdm Eunice Tay Lay Min
-<br>
+<p><a href="mailto:muhammad_samir_mohd_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Samir Bin Mohd Ishak</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_samir_mohd_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_samir_mohd_ishak@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:eunice_tay_lay_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_tay_lay_min@moe.edu.sg</a>
+<p>
+<br><a href="mailto:eunice_tay_lay_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunice Tay Lay Min</a>
 </p>
 </td>
 </tr>
@@ -141,15 +85,10 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidahny Binte Mustaffa
-<br>
-<br>Mdm Haymalatha d/o Govindaswami Mrs Haymalatha Bakthavachalam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hidahny_mustaffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidahny_mustaffa@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:haymalatha_bakthavachalam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haymalatha_bakthavachalam@moe.edu.sg</a> 
-<br>
+<p><a href="mailto:nur_hidahny_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hidahny Binte Mustaffa</a>
+</p>
+<p></p>
+<p><a href="mailto:haymalatha_bakthavachalam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Haymalatha d/o Govindaswami Mrs Haymalatha Bakthavachalam</a>
 </p>
 </td>
 </tr>
@@ -158,45 +97,6 @@ variant: tiptap
 <p></p>
 <p><strong>Primary 2</strong>
 </p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year Head / Assistant Year Head</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p>Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Neo Yuan Ling (Mrs Aw Yong) - YH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_yuan_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_yuan_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Fatin Nabihah Binte Mohd Senor - AYH (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fatin_nabihah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_nabihah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table>
 <tbody>
 <tr>
@@ -215,9 +115,11 @@ variant: tiptap
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Magasvari d/o Visuvanathan
-<br>
-<br>Miss Zhang Yun</p>
+<p><a href="mailto:magasvari_visuvanathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Magasvari d/o Visuvanathan</a>
+</p>
+<p></p>
+<p><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:magasvari_visuvanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magasvari_visuvanathan@moe.edu.sg</a> 
@@ -231,9 +133,11 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Suang Mei (Mavis)
+<p><a href="mailto:loh_suang_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Suang Mei (Mavis) </a>
 <br>
-<br>Mdm Norrah Binte Rebo</p>
+</p>
+<p><a href="mailto:norrah_rebo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norrah Binte Rebo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_suang_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_suang_mei@moe.edu.sg</a> 
@@ -247,9 +151,11 @@ variant: tiptap
 <p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Avneet Kaur
+<p><a href="mailto:avneet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Avneet Kaur</a>
 <br>
-<br>Mdm Yan Nan</p>
+</p>
+<p><a href="mailto:yan_nan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Nan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:avneet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">avneet_kaur@moe.edu.sg</a> 
