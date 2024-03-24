@@ -106,9 +106,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -119,12 +116,6 @@ variant: tiptap
 </p>
 <p></p>
 <p><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:magasvari_visuvanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magasvari_visuvanathan@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:zhang_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -139,12 +130,6 @@ variant: tiptap
 <p><a href="mailto:norrah_rebo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norrah Binte Rebo</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_suang_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_suang_mei@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:norrah_rebo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrah_rebo@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,26 +142,15 @@ variant: tiptap
 <p><a href="mailto:yan_nan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Nan</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:avneet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">avneet_kaur@moe.edu.sg</a> 
-<br><a href="mailto:yan_nan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_nan@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kavita_baliram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kavita d/o Baliram</a>
+<p><a href="mailto:kavita_baliram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kavita d/o Baliram</a> 
 <br>
 <br><a href="mailto:sean_koh_jian_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Koh Jian En</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kavita_baliram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavita_baliram@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:sean_koh_jian_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sean_koh_jian_en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -188,11 +162,6 @@ variant: tiptap
 <p><a href="mailto:roslina_basak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslina Bte Basak </a>
 <br>
 <br><a href="mailto:toh_shyh_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Toh Shyh Yee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:roslina_basak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roslina_basak@moe.edu.sg</a> 
-<br><a href="mailto:toh_shyh_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_shyh_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -207,27 +176,16 @@ variant: tiptap
 <p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sen_mai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sen_mai_leng@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:fatin_nabihah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_nabihah@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Ai Leng</a>
+<p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Ai Leng</a> 
 <br>
 </p>
 <p><a href="mailto:firdaus_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Firdaus Bin Ismail</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_ai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ai_leng@moe.edu.sg</a> 
-<br><a href="mailto:firdaus_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">firdaus_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
