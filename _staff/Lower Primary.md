@@ -26,7 +26,7 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anne_mary_fernandez_mendoz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mendoza Anne</a>
+<p><a href="mailto:anne_mary_fernandez_mendoz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mendoza Anne</a> 
 <br>
 <br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah</a>
 </p>
@@ -37,7 +37,7 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rusydiana_kusni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rusydiana Binte Kusni</a>
+<p><a href="mailto:rusydiana_kusni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rusydiana Binte Kusni</a> 
 <br>
 </p>
 <p><a href="mailto:lim_jie_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Jie Min</a>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chiek_kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Chiek Kuan (Catherine)</a>
+<p><a href="mailto:lim_chiek_kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Chiek Kuan (Catherine)</a> 
 <br>
 </p>
 <p><a href="mailto:nasreen_haji_shahabuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nasreen Binte Haji Shahabuddin</a>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:avneet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Avneet Kaur</a>
+<p><a href="mailto:avneet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Avneet Kaur</a> 
 <br>
 </p>
 <p><a href="mailto:yan_nan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Nan</a>
@@ -168,11 +168,9 @@ variant: tiptap
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kavita d/o Baliram
+<p><a href="mailto:kavita_baliram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kavita d/o Baliram</a>
 <br>
-<br>
-<br>Mr Sean Koh Jian En
-<br>
+<br><a href="mailto:sean_koh_jian_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Koh Jian En</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,10 +185,9 @@ variant: tiptap
 <p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Roslina Bte Basak
+<p><a href="mailto:roslina_basak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslina Bte Basak </a>
 <br>
-<br>Mdm Toh Shyh Yee
-<br>
+<br><a href="mailto:toh_shyh_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Toh Shyh Yee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,9 +201,11 @@ variant: tiptap
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sen Mai Leng (Helen)
+<p><a href="mailto:sen_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sen Mai Leng (Helen) </a>
 <br>
-<br>Mdm Fatin Nabihah Binte Mohd Senor</p>
+</p>
+<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sen_mai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sen_mai_leng@moe.edu.sg</a> 
@@ -220,9 +219,11 @@ variant: tiptap
 <p>2-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Poh Ai Leng
+<p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Ai Leng</a>
 <br>
-<br>Mr Firdaus Bin Ismail</p>
+</p>
+<p><a href="mailto:firdaus_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Firdaus Bin Ismail</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poh_ai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ai_leng@moe.edu.sg</a> 
