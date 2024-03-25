@@ -76,7 +76,7 @@ description: ""
 <p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin</a> 
+<p><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin</a>
 </p>
 <p><a href="low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
 </p>
