@@ -18,9 +18,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Year Head / Assistant Year Head</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -29,19 +26,13 @@ description: ""
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zaki Bin Yusoff - YH (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_zaki_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zaki_yusoff@moe.edu.sg</a>
+<p><a href="mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff - YH (Covering)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hajar Bte Saini - AYH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_hajar_saini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajar_saini@moe.edu.sg</a>
+<p><a href="siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini - AYH</a>
 </p>
 </td>
 </tr>
@@ -56,25 +47,15 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ra Tenmoli
+<p><a href="ra_tenmoli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ra Tenmoli </a>
 <br>
-<br>
-<br>Mr Ardi Bin Sujak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ra_tenmoli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ra_tenmoli@moe.edu.sg</a>
-<br>
-<br>
-<br><a href="mailto:ardi_sujak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ardi_sujak@moe.edu.sg</a>
+<br><a href="ardi_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ardi Bin Sujak</a>
 </p>
 </td>
 </tr>
@@ -83,18 +64,13 @@ description: ""
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aslinda Binte Ramli</p>
-<p>
-<br>Mr Ng Puay Keat Eddie Eddy</p>
-<p></p>
-<p>Ms Sim Hwee Jian (Kaydence)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:aslinda_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aslinda_ramli@moe.edu.sg</a>
-<br>
-<br><a href="mailto:ng_puay_keat_eddie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_puay_keat_eddie@moe.edu.sg</a>
+<p><a href="aslinda_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aslinda Binte Ramli</a>
 </p>
-<p><a href="mailto:sim_hwee_jian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hwee_jian@moe.edu.sg</a>
+<p>
+<br><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Puay Keat Eddie Eddy</a>
+</p>
+<p></p>
+<p><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Hwee Jian (Kaydence)</a>
 </p>
 </td>
 </tr>
@@ -103,15 +79,9 @@ description: ""
 <p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Wai Yin
+<p><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin</a> 
 <br>
-<br>
-<br>Ms Low Ting Ting Cherina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wai_yin@moe.edu.sg</a>
-<br>
-<br><a href="mailto:low_ting_ting_cherina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_ting_ting_cherina@moe.edu.sg</a>
+<br><a href="low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
 </p>
 </td>
 </tr>
@@ -120,14 +90,9 @@ description: ""
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Santhi d/o Nagamuthu
+<p><a href="santhi_nagamuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Santhi d/o Nagamuthu</a> 
 <br>
-<br>Mr Tan Yong Guan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:santhi_nagamuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_nagamuthu@moe.edu.sg</a>
-<br>
-<br><a href="mailto:tan_yong_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_guan@moe.edu.sg</a>
+<br><a href="tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
 </p>
 </td>
 </tr>
@@ -136,14 +101,9 @@ description: ""
 <p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Bee Foong (May)
+<p><a href="chan_bee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chan Bee Foong (May)</a> 
 <br>
-<br>Mdm Chen Yao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_bee_foong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_bee_foong@moe.edu.sg</a>
-<br>
-<br><a href="mailto:chen_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yao@moe.edu.sg</a>
+<br><a href="chen_yao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Yao</a>
 </p>
 </td>
 </tr>
@@ -152,13 +112,9 @@ description: ""
 <p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hajar Bte Saini
+<p><a href="siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini </a>
 <br>
-<br>Ms Chia Yilin Eileen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_hajar_saini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajar_saini@moe.edu.sg</a>
-<br><a href="mailto:chia_yilin_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_yilin_eileen@moe.edu.sg</a>
+<br><a href="chia_yilin_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Yilin Eileen</a>
 </p>
 </td>
 </tr>
@@ -177,21 +133,13 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Year Head / Assistant Year Head</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zaki Bin Yusoff - YH (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_zaki_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zaki_yusoff@moe.edu.sg</a>
+<p><a href="mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff - YH (Covering)</a>
 </p>
 </td>
 </tr>
@@ -206,24 +154,15 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hartini Bte Mohamed Yusof
+<p><a href="hartini_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hartini Bte Mohamed Yusof</a> 
 <br>
-<br>Mdm Fung Eng Chu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hartini_mohamed_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hartini_mohamed_yusof@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:fung_eng_chu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fung_eng_chu@moe.edu.sg</a>
+<br><a href="fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
 </p>
 </td>
 </tr>
@@ -232,14 +171,10 @@ description: ""
 <p>4-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yu Jie Gerald</p>
-<p>
-<br>Mdm Lee Hui Xian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_yu_jie_gerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yu_jie_gerald@moe.edu.sg</a>
+<p><a href="loh_yu_jie_gerald@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Loh Yu Jie Gerald</a>
 </p>
-<p><a href="mailto:lee_hui_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hui_xian@moe.edu.sg</a>
+<p>
+<br><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
 </p>
 </td>
 </tr>
@@ -248,15 +183,10 @@ description: ""
 <p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Annie Yap Chin-Kit</p>
+<p><a href="yap_chin-kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annie Yap Chin-Kit</a>
+</p>
 <p></p>
-<p></p>
-<p>Mdm Lim Shu Fen Laura</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_chin-kit@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_chin-kit@moe.edu.sg</a>
-<br>
-<br><a href="mailto:lim_shu_fen_laura@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shu_fen_laura@moe.edu.sg</a>
+<p><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
 </p>
 </td>
 </tr>
@@ -265,14 +195,9 @@ description: ""
 <p>4-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Norashikin Bte Mohamed Noor
+<p><a href="norashikin_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norashikin Bte Mohamed Noor</a> 
 <br>
-<br>Mdm Wang Gek Hui (Katlyn)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norashikin_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohamed_noor@moe.edu.sg</a>
-<br>
-<br><a href="mailto:wang_gek_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_gek_hui@moe.edu.sg</a>
+<br><a href="wang_gek_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
 </p>
 </td>
 </tr>
@@ -281,15 +206,10 @@ description: ""
 <p>4-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriana Bte Sulaiman</p>
-<p></p>
-<p>Liu Hongye, Vincent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suriana_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suriana_sulaiman@moe.edu.sg</a>
+<p><a href="suriana_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Sulaiman</a>
 </p>
 <p></p>
-<p><a href="mailto:liu_hongye_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hongye_vincent@moe.edu.sg</a>
+<p><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu Hongye, Vincent</a>
 </p>
 </td>
 </tr>
@@ -298,15 +218,10 @@ description: ""
 <p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yin Ciyao (Diana)</p>
-<p></p>
-<p>Mdm Nah Siew Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yin_ciyao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yin_ciyao@moe.edu.sg</a>
+<p><a href="yin_ciyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yin Ciyao (Diana)</a>
 </p>
 <p></p>
-<p><a href="mailto:nah_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nah_siew_hong@moe.edu.sg</a>
+<p><a href="nah_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nah Siew Hong</a>
 </p>
 </td>
 </tr>
