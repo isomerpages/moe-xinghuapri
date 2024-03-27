@@ -5,40 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Teachers
 ---
-<p><strong>Middle Primary</strong>
+<p><strong>Year Head:</strong>  <a href="mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff - YH (Covering)</a>
 </p>
+<p><strong>Assistant Year Head:</strong>  <a href="siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini - AYH</a>
+</p>
+<p></p>
 <p><strong>Primary 3</strong>
 </p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year Head / Assistant Year Head</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p>Primary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff - YH (Covering)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini - AYH</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table>
 <tbody>
 <tr>
@@ -119,27 +92,6 @@ third_nav_title: Teachers
 <p><strong>Primary 4</strong>
 </p>
 <p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year Head / Assistant Year Head</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff - YH (Covering)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table>
 <tbody>
 <tr>
