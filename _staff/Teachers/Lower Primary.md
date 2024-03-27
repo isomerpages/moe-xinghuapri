@@ -6,8 +6,7 @@ variant: tiptap
 third_nav_title: Teachers
 ---
 <p><strong>Year Head:</strong>  <a href="mailto:neo_yuan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Awyong</a>
-</p>
-<p><strong>Assistant Year Head:</strong>  <a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>
+<br><strong>Assistant Year Head:</strong>  <a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>
 </p>
 <p></p>
 <p><strong>Primary 1</strong>
@@ -80,8 +79,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hidahny_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hidahny Binte Mustaffa</a>
-</p>
-<p><a href="mailto:haymalatha_bakthavachalam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Haymalatha d/o Govindaswami Mrs Haymalatha Bakthavachalam</a>
+<br><a href="mailto:haymalatha_bakthavachalam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Haymalatha d/o Govindaswami Mrs Haymalatha Bakthavachalam</a>
 </p>
 </td>
 </tr>
@@ -106,8 +104,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:magasvari_visuvanathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Magasvari d/o Visuvanathan</a>
-</p>
-<p><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
+<br><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
 </p>
 </td>
 </tr>
