@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Teachers/Lower Primary.md
       - Teachers/Middle Primary.md
       - Teachers/Upper Primary.md
       - Teachers/.keep
