@@ -109,7 +109,7 @@ third_nav_title: Teachers
 <p>6-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a>
+<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a> 
 <br><a href="mailto:yang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kamar</a>
 </p>
 </td>
@@ -119,7 +119,7 @@ third_nav_title: Teachers
 <p>6-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina MariaMarina Mariaselvi d/o Thangaya</a> 
+<p><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina Mariaselvi d/o Thangaya</a> 
 <br><a href="mailto:lim_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Mei Ling</a>
 </p>
 </td>
