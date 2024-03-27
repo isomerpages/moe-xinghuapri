@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Teachers
 ---
 <p><strong>Year Head:</strong>  <a href="mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff - YH (Covering)</a>
-</p>
-<p><strong>Assistant Year Head:</strong>  <a href="siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini - AYH</a>
+<br><strong>Assistant Year Head:</strong>  <a href="siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini - AYH</a>
 </p>
 <p></p>
 <p><strong>Primary 3</strong>
@@ -38,10 +37,8 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="aslinda_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aslinda Binte Ramli</a>
-</p>
-<p><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
-</p>
-<p><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kaydence Sim</a>
+<br><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
+<br><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kaydence Sim</a>
 </p>
 </td>
 </tr>
@@ -51,8 +48,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin</a>
-</p>
-<p><a href="low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
+<br><a href="low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
 </p>
 </td>
 </tr>
@@ -117,8 +113,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="loh_yu_jie_gerald@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Loh Yu Jie Gerald</a>
-</p>
-<p><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
+<br><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
 </p>
 </td>
 </tr>
@@ -127,9 +122,8 @@ third_nav_title: Teachers
 <p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yap_chin-kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annie Yap Chin-Kit</a>
-</p>
-<p><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
+<p><a href="yap_chin-kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annie Yap Chin-Kit</a>
+<br><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
 </p>
 </td>
 </tr>
@@ -149,8 +143,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="suriana_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Sulaiman</a>
-</p>
-<p><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu Hongye, Vincent</a>
+<br><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu Hongye, Vincent</a>
 </p>
 </td>
 </tr>
@@ -160,8 +153,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="yin_ciyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yin Ciyao (Diana)</a>
-</p>
-<p><a href="nah_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nah Siew Hong</a>
+<br><a href="nah_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nah Siew Hong</a>
 </p>
 </td>
 </tr>
