@@ -91,7 +91,6 @@ third_nav_title: Teachers
 <p></p>
 <p><strong>Primary 4</strong>
 </p>
-<p></p>
 <table>
 <tbody>
 <tr>
