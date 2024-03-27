@@ -3,16 +3,22 @@ title: Upper Primary
 permalink: /staff/upperprimary/
 variant: tiptap
 description: ""
+third_nav_title: Teachers
 ---
+<p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a>
+</p>
+<p><strong>Assistant Year Head:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a>
+</p>
+<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Primary 5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -76,15 +82,16 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>&nbsp;&nbsp;</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Primary 6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -140,5 +147,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>456555</strong>
-</p>
+<p>&nbsp;</p>
