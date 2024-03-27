@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Teachers
 ---
-<p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a>
+<p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a> 
 <br><strong>Assistant Year Head:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a>
 </p>
 <p>&nbsp;</p>
@@ -45,7 +45,7 @@ third_nav_title: Teachers
 <p>5-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Wong</a>
+<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Wong</a> 
 <br><a href="mailto:yang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kwan-Yang Rui</a>
 </p>
 </td>
@@ -89,7 +89,7 @@ third_nav_title: Teachers
 <p>6-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Lim</a>
+<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Lim</a> 
 <br><a href="mailto:kohilavaani_maniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kohila Vaani Maniam</a>
 </p>
 </td>
@@ -99,7 +99,7 @@ third_nav_title: Teachers
 <p>6-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_angel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ann Bee Ling</a>
+<p><a href="mailto:chew_angel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ann Bee Ling</a> 
 <br><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chen Lu</a>
 </p>
 </td>
@@ -110,8 +110,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a>
-</p>
-<p><a href="mailto:yang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kamar</a>
+<br><a href="mailto:yang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kamar</a>
 </p>
 </td>
 </tr>
@@ -120,7 +119,7 @@ third_nav_title: Teachers
 <p>6-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina MariaMarina Mariaselvi d/o Thangaya</a>
+<p><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina MariaMarina Mariaselvi d/o Thangaya</a> 
 <br><a href="mailto:lim_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Mei Ling</a>
 </p>
 </td>
@@ -130,7 +129,7 @@ third_nav_title: Teachers
 <p>6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_phaik_gek_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christina Ling</a>
+<p><a href="mailto:yeo_phaik_gek_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christina Ling</a> 
 <br><a href="mailto:fazlin_jaya_indra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Fazlin Jaya Indra</a>
 </p>
 </td>
