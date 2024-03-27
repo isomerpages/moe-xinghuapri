@@ -39,9 +39,9 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="aslinda_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aslinda Binte Ramli</a>
 </p>
-<p><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Puay Keat Eddie Eddy</a>
+<p><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
 </p>
-<p><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Hwee Jian (Kaydence)</a>
+<p><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kaydence Sim</a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ third_nav_title: Teachers
 <p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chan_bee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chan Bee Foong (May)</a> 
+<p><a href="chan_bee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs May Sim</a> 
 <br><a href="chen_yao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Yao</a>
 </p>
 </td>
