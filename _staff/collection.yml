@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teachers/.keep
-      - Upper Primary.md
       - Middle Primary.md
       - Lower Primary.md
       - Executive Administrative Staff.md
