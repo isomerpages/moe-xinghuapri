@@ -129,6 +129,17 @@ third_nav_title: Teachers
 <p>6-5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:murali_krishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Murali Krishnan</a>
+</p>
+<p><a href="mailto:julie_katherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julie Katherina </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6-6</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_phaik_gek_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christina Ling</a> 
 <br><a href="mailto:fazlin_jaya_indra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Fazlin Jaya Indra</a>
 </p>
