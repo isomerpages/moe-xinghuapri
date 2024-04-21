@@ -127,15 +127,16 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tbody>
 </table>
 <h5><strong>DENTAL HEALTH</strong></h5>
-<p><strong>Dental Therapist – 9838 9102</strong>
+<p><u>Clinic Opening Hours:</u>
 </p>
-<p><strong>Note: The dentist may not be available to pick up your call immediately. Do leave your phone number for him/her to call you back.</strong>
+<p>Mondays (8:00am – 5:00pm)</p>
+<p>Tuesdays (8:00am – 5:30pm)</p>
+<p>Wednesdays (8:00am – 5:00pm)</p>
+<p>Lunch time (1:00pm – 2:00pm)</p>
+<p>*Clinic is closed on Thursdays and Fridays.</p>
+<p><em>For any dental appointment, please call/whatsapp </em><strong><em>9838 9102</em></strong><em>.</em>
 </p>
-<p><strong>Tuesday and Wednesday 8.00am – 5.30pm</strong>
-</p>
-<p><strong>Thursday 8.00am – 5.00pm</strong>
-</p>
-<p><strong>Lunch Hours 1.00pm – 2.00pm</strong> 
+<p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em> 
 <br>
 </p>
 <h5><strong>SCHOOL LIBRARY</strong></h5>
