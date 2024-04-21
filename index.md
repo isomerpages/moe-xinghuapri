@@ -21,10 +21,6 @@ sections:
       image: /images/Homepage/IMG_1292_crop.jpg
       alt: Image alt text
   - infopic:
-      title: Roving Dental Clinic for Xinghua Primary School
-      image: /images/Roving_Dental_Clinic.png
-      alt: Image alt text
-  - infopic:
       title: Xinghua Primary on News Media
       button: Please click here
       alt: Image alt text
