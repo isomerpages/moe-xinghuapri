@@ -235,7 +235,7 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:annabelle_chan_chey_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trisha_foo_hui_peng_a@moe.edu.sg</a>
+<p><a href="mailto:annabelle_chan_chey_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_chan_chey_khoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
