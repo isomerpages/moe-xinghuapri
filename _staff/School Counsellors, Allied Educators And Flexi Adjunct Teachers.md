@@ -265,13 +265,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Larissa Ho Jia Le (Mrs Yee)</p>
+<p>Ms Cai Qiuling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_jia_le_larissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jia_le_larissa@moe.edu.sg</a>
+<p><a href="mailto:qiulingcai@gmail.com" rel="noopener noreferrer nofollow" target="_blank">qiulingcai@gmail.com</a>
 </p>
 </td>
 </tr>
