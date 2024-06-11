@@ -301,13 +301,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Wee Ching (Debbie)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_wee_ching_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_ching_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
