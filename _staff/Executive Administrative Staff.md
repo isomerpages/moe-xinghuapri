@@ -185,7 +185,7 @@ variant: tiptap
 <p>Admin cum Science Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Koh Bee Eng</p>
+<p>Mdm Zeenath Bagam Naina Mohammad</p>
 </td>
 </tr>
 <tr>
