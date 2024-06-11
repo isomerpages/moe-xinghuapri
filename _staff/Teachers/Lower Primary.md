@@ -11,7 +11,11 @@ third_nav_title: Teachers
 <p></p>
 <p><strong>Primary 1</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,6 +32,8 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anne_mary_fernandez_mendoz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mendoza Anne</a> 
 <br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah</a>
+</p>
+<p><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
 </p>
 </td>
 </tr>
@@ -88,7 +94,11 @@ third_nav_title: Teachers
 <p></p>
 <p><strong>Primary 2</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
