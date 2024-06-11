@@ -91,14 +91,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Norhariani Binte Mohamed Zain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer
 <br>
 </p>
