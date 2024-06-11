@@ -277,42 +277,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Sau Yeng Serene (Mrs Loh)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_sau_yeng_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sau_yeng_serene@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim Lay Keng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lay_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_keng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Siok Khiang Jaime</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_sok_khiang_jaime_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sok_khiang_jaime_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Yang Chengxi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -320,18 +284,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yang_chengxi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_chengxi_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Wai Choo (Mrs Wendy Sim)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wai_choo_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_choo_mrs@moe.edu.sg</a>
 </p>
 </td>
 </tr>
