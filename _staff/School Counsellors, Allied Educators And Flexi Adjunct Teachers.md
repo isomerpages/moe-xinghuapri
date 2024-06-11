@@ -253,13 +253,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Mui Mei Melissa</p>
+<p>Mr Bhim Gurung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_mui_mei_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_mei_melissa@moe.edu.sg</a>
+<p><a href="mailto:bhim_gurung@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank">bhim_gurung@yahoo.com.sg</a>
 </p>
 </td>
 </tr>
