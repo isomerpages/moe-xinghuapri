@@ -91,18 +91,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wan Choon Huang
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
