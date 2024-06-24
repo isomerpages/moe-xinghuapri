@@ -57,15 +57,11 @@ links:
         url: https://www.schoolbag.edu.sg/
       - title: Sexuality Education
         url: /parents/Sexuality-Education
-  - title: SUCCESSES
-    url: /successes/2020
+  - title: ACHIEVEMENTS
+    url: /achievements/2024/
     sublinks:
-      - title: "2020"
-        url: /successes/2020
-      - title: "2019"
-        url: /successes/2019
-      - title: "2018"
-        url: /successes/2018
+      - title: "2024"
+        url: /achievements/2024/
   - title: ADMINISTRATION
     url: /administration/School-Service-Providers-Info
     sublinks:
