@@ -31,9 +31,8 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anne_mary_fernandez_mendoz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mendoza Anne</a> 
-<br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah</a>
-</p>
-<p><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
+<br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah </a>
+<br><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
 </p>
 </td>
 </tr>
@@ -53,8 +52,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_cheng_cheok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koh Cheng Cheok (Diana)</a>
-</p>
-<p><a href="mailto:muhammad_nizam_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad Nizam Bin Mustafa</a>
+<br><a href="mailto:muhammad_nizam_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad Nizam Bin Mustafa</a>
 </p>
 </td>
 </tr>
@@ -73,9 +71,8 @@ third_nav_title: Teachers
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_samir_mohd_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Samir Bin Mohd Ishak</a>
-</p>
-<p><a href="mailto:eunice_tay_lay_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunice Tay Lay Min</a>
+<p><a href="mailto:muhammad_samir_mohd_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Samir Bin Mohd Ishak </a>
+<br><a href="mailto:eunice_tay_lay_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunice Tay Lay Min</a>
 </p>
 </td>
 </tr>
