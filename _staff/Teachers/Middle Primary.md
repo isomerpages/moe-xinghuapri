@@ -142,8 +142,7 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="norashikin_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norashikin Bte Mohamed Noor</a> 
 <br><a href="wang_gek_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
-</p>
-<p><a href="ngkezia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Ms Kezia Ng</a>
+<br><a href="ngkezia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Ms Kezia Ng</a>
 </p>
 </td>
 </tr>
