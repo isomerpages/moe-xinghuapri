@@ -9,7 +9,11 @@ third_nav_title: Teachers
 <br><strong>Assistant Year Head:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a>
 </p>
 <p>&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,7 +77,11 @@ third_nav_title: Teachers
 </tbody>
 </table>
 <p>&nbsp;&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -130,8 +138,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:murali_krishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Murali Krishnan</a>
-</p>
-<p><a href="mailto:julie_katherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julie Katherina </a>
+<br><a href="mailto:julie_katherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julie Katherina</a>
 </p>
 </td>
 </tr>
