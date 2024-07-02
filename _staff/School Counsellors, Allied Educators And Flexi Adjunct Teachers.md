@@ -29,20 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lye Nadia
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SENO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lye_nadia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_nadia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Neo Siew Teng Tess
 <br>
 </p>
@@ -71,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Mee Ling
+<p>Ms Lee Mee Ling Mandy
 <br>
 </p>
 </td>
