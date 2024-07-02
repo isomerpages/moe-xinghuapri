@@ -112,7 +112,7 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="hartini_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hartini Bte Mohamed Yusof</a> 
 <br><a href="fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
-</p>
+<br>Mdm Nurul Atikah Binte Hasimen</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="yap_chin-kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annie Yap Chin-Kit</a>
 <br><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
-</p>
+<br>Miss Nur Farihath Binte Samsulbahri</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="norashikin_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norashikin Bte Mohamed Noor</a> 
 <br><a href="wang_gek_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
-<br><a href="ngkezia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Ms Kezia Ng</a>
+<br><a href="De_Hamel_Jason_Stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr De Hamel Jason Stephen</a>
 </p>
 </td>
 </tr>
