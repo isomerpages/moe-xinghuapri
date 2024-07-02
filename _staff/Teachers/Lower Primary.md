@@ -151,7 +151,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:roslina_basak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslina Bte Basak </a>
-<br><a href="mailto:toh_shyh_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Toh Shyh Yee</a>
+<br><a href="mailto:nuramelia_adnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur-Amelia Binte Adnan</a>
 </p>
 </td>
 </tr>
