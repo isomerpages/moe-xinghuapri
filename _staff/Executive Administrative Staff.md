@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wendy Chia
+<p>Ms Wendy Chia
 <br>
 </p>
 </td>
@@ -72,6 +72,14 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Joanne Leong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Syakirah Binte Malik
 <br>
 </p>
@@ -79,14 +87,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive
-<br>
-</p>
+<p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ridaseri Binte Suparman
-<br>
-</p>
+<p>Ms Doris Low</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +119,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (Temporary)</p>
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Tian Hock</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jumirah Bte Abdul Rahman</p>
