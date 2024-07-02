@@ -32,7 +32,7 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="ra_tenmoli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ra Tenmoli </a>
 <br><a href="ardi_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ardi Bin Sujak</a>
-</p>
+<br>Mr Kang Ming</p>
 </td>
 </tr>
 <tr>
@@ -40,10 +40,10 @@ third_nav_title: Teachers
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="aslinda_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aslinda Binte Ramli</a>
-<br><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
-<br><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kaydence Sim</a>
-</p>
+<p><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
+<br><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kaydence Sim</a>
+<br>Miss Kezia Ng</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="santhi_nagamuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Santhi d/o Nagamuthu</a> 
 <br><a href="tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
-</p>
+<br>Mr Kotake Yoji Norindra Iskandar</p>
 </td>
 </tr>
 <tr>
