@@ -204,7 +204,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seah Mei Ling Alicia</p>
+<p><a href="mailto:Seah_Mei_Ling_Alicia_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Seah Mei Ling Alicia</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_mei_ling_alicia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_mei_ling_alicia_a@moe.edu.sg</a>
@@ -216,7 +217,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Pearleen</p>
+<p><a href="mailto:Ong_Pearleen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Pearleen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_pearleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pearleen@moe.edu.sg</a>
@@ -228,7 +230,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Annabelle Chan Chey Khoon</p>
+<p><a href="mailto:Annabelle_Chan_Chey_Khoon_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabelle Chan Chey Khoon</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:annabelle_chan_chey_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_chan_chey_khoon@moe.edu.sg</a>
@@ -240,7 +243,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teh Chiew Guek</p>
+<p><a href="mailto:Teh_Chiew_Guek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teh Chiew Guek</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_chiew_guek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chiew_guek@moe.edu.sg</a>
@@ -252,7 +256,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bhim Gurung</p>
+<p><a href="mailto:Bhimbahadur_Gurung_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bhim Gurung</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bhim_gurung@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank">bhim_gurung@yahoo.com.sg</a>
@@ -264,7 +269,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cai Qiuling</p>
+<p><a href="mailto:Cai_Qiuling_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Qiuling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:qiulingcai@gmail.com" rel="noopener noreferrer nofollow" target="_blank">qiulingcai@gmail.com</a>
