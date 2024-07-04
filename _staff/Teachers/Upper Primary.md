@@ -107,8 +107,8 @@ third_nav_title: Teachers
 <p>6-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_angel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ann Bee Ling</a> 
-<br><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chen Lu</a>
+<p><a href="mailto:an_bee_ling_miss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ann Bee Ling</a> 
+<br><a href="mailto:Chen_Lu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chen Lu</a>
 </p>
 </td>
 </tr>
@@ -117,8 +117,8 @@ third_nav_title: Teachers
 <p>6-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a> 
-<br><a href="mailto:yang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kamar</a>
+<p><a href="mailto:siti_nadia_kamar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a> 
+<br><a href="mailto:Azeemah_Bte_Kadir_Nur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kamar</a>
 </p>
 </td>
 </tr>
