@@ -102,7 +102,8 @@ variant: tiptap
 <p>HOD - Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm An Bee Ling</p>
+<p><a href="mailto:an_bee_ling_miss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm An Bee Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +111,8 @@ variant: tiptap
 <p>HOD - Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kok Peng</p>
+<p><a href="mailto:lim_kok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Kok Peng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +120,8 @@ variant: tiptap
 <p>HOD - Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Mei Ling</p>
+<p><a href="mailto:lim_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Mei Ling</a>
+</p>
 </td>
 </tr>
 <tr>
