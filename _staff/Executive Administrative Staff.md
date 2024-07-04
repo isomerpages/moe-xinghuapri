@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wendy Chia
+<p><a href="mailto:Chia_Siew_Joo_Wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Chia</a> 
 <br>
 </p>
 </td>
@@ -48,7 +48,8 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Hwee Yong</p>
+<p><a href="mailto:Ang_Hwee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Hwee Yong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +57,8 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Fung Jin</p>
+<p><a href="mailto:lim_fung_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Fung Jin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +66,8 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thia Chih Wei (Adrian)</p>
+<p><a href="mailto:Thia_Chih_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thia Chih Wei (Adrian)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +75,8 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Leong</p>
+<p><a href="mailto:joanne_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Leong Si Min</a>
+</p>
 </td>
 </tr>
 <tr>
