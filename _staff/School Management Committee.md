@@ -230,7 +230,8 @@ variant: tiptap
 <p>Admin Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Siew Joo Wendy</p>
+<p><a href="mailto:Chia_Siew_Joo_Wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Siew Joo Wendy</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +239,8 @@ variant: tiptap
 <p>Year Head - P1 &amp; P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Neo Yuan Ling (Mrs Aw Yong)</p>
+<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Yuan Ling (Mrs Aw Yong)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +248,8 @@ variant: tiptap
 <p>Assistant Year Head P2 (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fatin Nabihah Binte Mohd Senor</p>
+<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +257,8 @@ variant: tiptap
 <p>Year Head - P3 &amp; P4 (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zaki Bin Yusoff</p>
+<p><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +266,8 @@ variant: tiptap
 <p>Assistant Year Head P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hajar Bte Saini</p>
+<p><a href="mailto:siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -270,7 +275,8 @@ variant: tiptap
 <p>Year Head - P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairi Bin Uda</p>
+<p><a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Khairi Bin Uda</a>
+</p>
 </td>
 </tr>
 <tr>
