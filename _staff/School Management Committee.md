@@ -25,7 +25,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Mun Wai</p>
+<p><a href="mailto:CHEW_Mun_Wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Mun Wai</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phua Ai Lei
+<p><a href="mailto:PHUA_Ai_Lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Phua Ai Lei</a> 
 <br>
 </p>
 </td>
