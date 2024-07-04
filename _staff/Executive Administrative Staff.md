@@ -84,7 +84,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syakirah Binte Malik
+<p><a href="mailto:Nur_Syakirah_Malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Syakirah Binte Malik</a> 
 <br>
 </p>
 </td>
@@ -94,7 +94,8 @@ variant: tiptap
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Doris Low</p>
+<p><a href="mailto:Low_Kam_Yoke@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Doris Low Kam Yoke</a>
+</p>
 </td>
 </tr>
 <tr>
