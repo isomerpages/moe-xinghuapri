@@ -115,7 +115,8 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="hartini_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hartini Bte Mohamed Yusof</a> 
 <br><a href="fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
-<br>Mdm Nurul Atikah Binte Hasimen</p>
+<br><a href="mailto:Nurul_Atikah_Hasimen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurul Atikah Binte Hasimen</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +136,8 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="yap_chin-kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annie Yap Chin-Kit</a>
 <br><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
-<br>Miss Nur Farihath Binte Samsulbahri</p>
+<br><a href="mailto:Nur_Farihath_Samsulbahri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nur Farihath Binte Samsulbahri</a>
+</p>
 </td>
 </tr>
 <tr>
