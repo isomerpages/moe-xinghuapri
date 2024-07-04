@@ -129,7 +129,8 @@ variant: tiptap
 <p>HOD - PE, CCA and Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Shu Fen Laura</p>
+<p><a href="mailto:lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
+</p>
 </td>
 </tr>
 <tr>
