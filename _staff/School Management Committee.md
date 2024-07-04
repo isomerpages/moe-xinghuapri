@@ -138,7 +138,8 @@ variant: tiptap
 <p>HOD - Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fung Eng Chu (Andrea)</p>
+<p><a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu (Andrea)</a>
+</p>
 </td>
 </tr>
 <tr>
