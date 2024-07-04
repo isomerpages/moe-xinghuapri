@@ -282,7 +282,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yang Chengxi</p>
+<p><a href="mailto:Yang_Chengxi_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yang Chengxi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yang_chengxi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_chengxi_a@moe.edu.sg</a>
@@ -294,7 +295,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Sze Siong</p>
+<p><a href="mailto:Chua_Sze_Siong_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Sze Siong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_sze_siong_a_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_sze_siong_a_1@moe.edu.sg</a>
@@ -306,7 +308,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Wee Ching (Debbie)</p>
+<p><a href="mailto:Ng_Wee_Ching_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Wee Ching (Debbie)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_wee_ching_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_ching_a@moe.edu.sg</a>
@@ -318,7 +321,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Liying Natalie</p>
+<p><a href="mailto:Chan_Liying_Natalie_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Liying Natalie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
