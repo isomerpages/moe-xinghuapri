@@ -71,10 +71,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SWO</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurfarahin Binte Ahmad</p>
+<p><a href="mailto:Nurfarahin_Ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfarahin Binte Ahmad</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurfarahin_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurfarahin_ahmad@moe.edu.sg</a>
@@ -86,7 +87,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Sioh Sioh</p>
+<p><a href="mailto:Teo_Sioh_Sioh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Sioh Sioh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_sioh_sioh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sioh_sioh@moe.edu.sg</a>
