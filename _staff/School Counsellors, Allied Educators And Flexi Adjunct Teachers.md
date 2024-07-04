@@ -32,7 +32,7 @@ variant: tiptap
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_siew_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Neo Siew Teng Tess</a>
+<p><a href="mailto:Neo_Siew_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Neo Siew Teng Tess</a>
 <br>
 </p>
 </td>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Li Ting
+<p><a href="mailto:Lee_Li_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Li Ting</a> 
 <br>
 </p>
 </td>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Mee Ling Mandy
+<p><a href="mailto:lee_mee_ling_mandy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mee Ling Mandy</a> 
 <br>
 </p>
 </td>
