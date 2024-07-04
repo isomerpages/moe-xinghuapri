@@ -284,7 +284,8 @@ variant: tiptap
 <p>Assistant Year Head P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Hong Sheng Paul</p>
+<p><a href="mailto:Lim_Hong_Sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Hong Sheng Paul</a>
+</p>
 </td>
 </tr>
 </tbody>
