@@ -147,7 +147,8 @@ variant: tiptap
 <p>Level Head - English (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Azeemah Binte Kadir</p>
+<p><a href="mailto:Azeemah_Bte_Kadir_Nur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kadir</a>
+</p>
 </td>
 </tr>
 <tr>
