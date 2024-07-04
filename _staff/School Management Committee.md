@@ -156,7 +156,8 @@ variant: tiptap
 <p>Level Head - Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Wai Yin</p>
+<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +165,8 @@ variant: tiptap
 <p>Level Head - Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Gek Hui (Katlyn)</p>
+<p><a href="mailto:Wang_Gek_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
+</p>
 </td>
 </tr>
 <tr>
