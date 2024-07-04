@@ -84,7 +84,8 @@ variant: tiptap
 <p>HOD - Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zaki Bin Yusoff</p>
+<p><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +93,8 @@ variant: tiptap
 <p>HOD - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Ting Ting Cherina</p>
+<p><a href="mailto:low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
+</p>
 </td>
 </tr>
 <tr>
