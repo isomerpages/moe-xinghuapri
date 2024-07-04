@@ -191,7 +191,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Ai Lee</p>
+<p><a href="mailto:Ng_Ai_Lee_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Ai Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_ai_lee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_lee_a@moe.edu.sg</a>
