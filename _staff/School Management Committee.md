@@ -46,7 +46,8 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Bee Yin</p>
+<p><a href="mailto:Tan_Bee_Yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Bee Yin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hui Xian
+<p><a href="mailto:lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a> 
 <br>
 </p>
 </td>
@@ -74,7 +75,8 @@ variant: tiptap
 <p>HOD - English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Xin Yi Felicia</p>
+<p><a href="mailto:Low_Xinyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Xin Yi Felicia</a>
+</p>
 </td>
 </tr>
 <tr>
