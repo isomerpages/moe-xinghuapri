@@ -194,7 +194,17 @@ variant: tiptap
 <p>Subject Head - Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julie Katherina Bte Abd Samad</p>
+<p><a href="mailto:Julie_Katherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julie Katherina Bte Abd Samad</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Mother Tongue (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +212,8 @@ variant: tiptap
 <p>Subject Head - CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidahny Binte Mustaffa</p>
+<p><a href="mailto:nur_hidahny_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hidahny Binte Mustaffa</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +221,8 @@ variant: tiptap
 <p>Admin Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhaslyn</p>
+<p><a href="mailto:Norhaslyn_ROHHANI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaslyn Binte Rohhani</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +230,7 @@ variant: tiptap
 <p>Admin Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wendy Chia</p>
+<p>Ms Chia Siew Joo Wendy</p>
 </td>
 </tr>
 <tr>
