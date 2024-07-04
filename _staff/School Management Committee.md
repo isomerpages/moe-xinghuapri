@@ -174,7 +174,8 @@ variant: tiptap
 <p>Subject Head - PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Guan</p>
+<p><a href="mailto:tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +185,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Hwee Jian (Kaydence)</p>
+<p><a href="mailto:sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Hwee Jian (Kaydence)</a>
+</p>
 </td>
 </tr>
 <tr>
