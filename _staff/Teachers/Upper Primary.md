@@ -98,7 +98,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Lim</a> 
-<br><a href="mailto:kohilavaani_maniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kohila Vaani Maniam</a>
+<br><a href="mailto:kohilavaani_maniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kohila Vaani d/o Maniam</a>
 </p>
 </td>
 </tr>
