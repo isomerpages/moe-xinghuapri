@@ -32,7 +32,7 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="ra_tenmoli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ra Tenmoli </a>
 <br><a href="ardi_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ardi Bin Sujak</a>
-<br><a href="mailto:kang_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kang Ming</a>
+<br><a href="mailto:kang_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kang Ming (Jiang Min)</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,6 @@ third_nav_title: Teachers
 <br><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kaydence Sim</a>
 <br><a href="mailto:Kezia_Ng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Kezia Ng</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
