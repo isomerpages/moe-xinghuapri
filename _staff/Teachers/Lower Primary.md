@@ -161,7 +161,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sen_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sen Mai Leng (Helen) </a>
-<br><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>
+<br><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
 </p>
 </td>
 </tr>
