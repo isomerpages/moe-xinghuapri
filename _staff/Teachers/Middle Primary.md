@@ -22,7 +22,7 @@ third_nav_title: Teachers
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Form Teachers</p>
 </th>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ third_nav_title: Teachers
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Form Teachers</p>
 </th>
 </tr>
 <tr>
