@@ -8,7 +8,8 @@ third_nav_title: Teachers
 <p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a> 
 <br><strong>Assistant Year Head:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a>
 </p>
-<p>&nbsp;</p>
+<p><strong>Primary 5</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,11 +18,11 @@ third_nav_title: Teachers
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 5</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Form Teachers</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,6 +78,8 @@ third_nav_title: Teachers
 </tbody>
 </table>
 <p>&nbsp;&nbsp;</p>
+<p><strong>Primary 6</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,11 +88,11 @@ third_nav_title: Teachers
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 6</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Form Teachers</strong>
+</p>
 </td>
 </tr>
 <tr>
