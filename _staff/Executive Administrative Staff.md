@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhaslyn Rohhani
+<p><a href="mailto:Norhaslyn_ROHHANI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaslyn Rohhani</a> 
 <br>
 </p>
 </td>
@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wendy Chia
+<p><a href="mailto:Chia_Siew_Joo_Wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Chia</a> 
 <br>
 </p>
 </td>
@@ -48,7 +48,8 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Hwee Yong</p>
+<p><a href="mailto:Ang_Hwee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Hwee Yong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +57,8 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Fung Jin</p>
+<p><a href="mailto:lim_fung_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Fung Jin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +66,8 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thia Chih Wei (Adrian)</p>
+<p><a href="mailto:Thia_Chih_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thia Chih Wei (Adrian)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,20 +75,26 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syakirah Binte Malik
+<p><a href="mailto:joanne_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Leong Si Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Syakirah_Malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Syakirah Binte Malik</a> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive
-<br>
-</p>
+<p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ridaseri Binte Suparman
-<br>
+<p><a href="mailto:Low_Kam_Yoke@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Doris Low Kam Yoke</a>
 </p>
 </td>
 </tr>
@@ -115,7 +124,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (Temporary)</p>
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Tian Hock</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jumirah Bte Abdul Rahman</p>

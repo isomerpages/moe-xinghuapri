@@ -25,7 +25,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Mun Wai</p>
+<p><a href="mailto:CHEW_Mun_Wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Mun Wai</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phua Ai Lei
+<p><a href="mailto:PHUA_Ai_Lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Phua Ai Lei</a> 
 <br>
 </p>
 </td>
@@ -45,7 +46,8 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Bee Yin</p>
+<p><a href="mailto:Tan_Bee_Yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Bee Yin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hui Xian
+<p><a href="mailto:lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a> 
 <br>
 </p>
 </td>
@@ -73,7 +75,8 @@ variant: tiptap
 <p>HOD - English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Xin Yi Felicia</p>
+<p><a href="mailto:Low_Xinyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Xin Yi Felicia</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +84,8 @@ variant: tiptap
 <p>HOD - Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zaki Bin Yusoff</p>
+<p><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +93,8 @@ variant: tiptap
 <p>HOD - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Ting Ting Cherina</p>
+<p><a href="mailto:low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +102,8 @@ variant: tiptap
 <p>HOD - Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm An Bee Ling</p>
+<p><a href="mailto:an_bee_ling_miss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm An Bee Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +111,8 @@ variant: tiptap
 <p>HOD - Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kok Peng</p>
+<p><a href="mailto:lim_kok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Kok Peng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +120,8 @@ variant: tiptap
 <p>HOD - Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Mei Ling</p>
+<p><a href="mailto:lim_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Mei Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +129,8 @@ variant: tiptap
 <p>HOD - PE, CCA and Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Shu Fen Laura</p>
+<p><a href="mailto:lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +138,8 @@ variant: tiptap
 <p>HOD - Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fung Eng Chu (Andrea)</p>
+<p><a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu (Andrea)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +147,8 @@ variant: tiptap
 <p>Level Head - English (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Azeemah Binte Kadir</p>
+<p><a href="mailto:Azeemah_Bte_Kadir_Nur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kadir</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +156,8 @@ variant: tiptap
 <p>Level Head - Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Wai Yin</p>
+<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +165,8 @@ variant: tiptap
 <p>Level Head - Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Gek Hui (Katlyn)</p>
+<p><a href="mailto:Wang_Gek_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +174,8 @@ variant: tiptap
 <p>Subject Head - PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Guan</p>
+<p><a href="mailto:tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +185,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Hwee Jian (Kaydence)</p>
+<p><a href="mailto:sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Hwee Jian (Kaydence)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +194,17 @@ variant: tiptap
 <p>Subject Head - Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julie Katherina Bte Abd Samad</p>
+<p><a href="mailto:Julie_Katherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julie Katherina Bte Abd Samad</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Mother Tongue (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +212,8 @@ variant: tiptap
 <p>Subject Head - CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidahny Binte Mustaffa</p>
+<p><a href="mailto:nur_hidahny_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hidahny Binte Mustaffa</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +221,8 @@ variant: tiptap
 <p>Admin Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhaslyn</p>
+<p><a href="mailto:Norhaslyn_ROHHANI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaslyn Binte Rohhani</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +230,8 @@ variant: tiptap
 <p>Admin Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wendy Chia</p>
+<p><a href="mailto:Chia_Siew_Joo_Wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Siew Joo Wendy</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +239,8 @@ variant: tiptap
 <p>Year Head - P1 &amp; P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Neo Yuan Ling (Mrs Aw Yong)</p>
+<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Yuan Ling (Mrs Aw Yong)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +248,8 @@ variant: tiptap
 <p>Assistant Year Head P2 (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fatin Nabihah Binte Mohd Senor</p>
+<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +257,8 @@ variant: tiptap
 <p>Year Head - P3 &amp; P4 (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zaki Bin Yusoff</p>
+<p><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +266,8 @@ variant: tiptap
 <p>Assistant Year Head P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hajar Bte Saini</p>
+<p><a href="mailto:siti_hajar_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +275,8 @@ variant: tiptap
 <p>Year Head - P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairi Bin Uda</p>
+<p><a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Khairi Bin Uda</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +284,8 @@ variant: tiptap
 <p>Assistant Year Head P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Hong Sheng Paul</p>
+<p><a href="mailto:Lim_Hong_Sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Hong Sheng Paul</a>
+</p>
 </td>
 </tr>
 </tbody>

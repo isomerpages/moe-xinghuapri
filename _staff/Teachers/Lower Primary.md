@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Teachers
 ---
 <p><strong>Year Head:</strong>  <a href="mailto:neo_yuan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Awyong</a>
-<br><strong>Assistant Year Head:</strong>  <a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>
+<br><strong>Assistant Year Head:</strong>  <a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
 </p>
 <p></p>
 <p><strong>Primary 1</strong>
@@ -22,7 +22,7 @@ third_nav_title: Teachers
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Form Teachers</p>
 </th>
 </tr>
 <tr>
@@ -31,9 +31,8 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anne_mary_fernandez_mendoz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mendoza Anne</a> 
-<br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah</a>
-</p>
-<p><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
+<br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah </a>
+<br><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
 </p>
 </td>
 </tr>
@@ -53,8 +52,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_cheng_cheok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koh Cheng Cheok (Diana)</a>
-</p>
-<p><a href="mailto:muhammad_nizam_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad Nizam Bin Mustafa</a>
+<br><a href="mailto:muhammad_nizam_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad Nizam Bin Mustafa</a>
 </p>
 </td>
 </tr>
@@ -73,9 +71,8 @@ third_nav_title: Teachers
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_samir_mohd_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Samir Bin Mohd Ishak</a>
-</p>
-<p><a href="mailto:eunice_tay_lay_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunice Tay Lay Min</a>
+<p><a href="mailto:muhammad_samir_mohd_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Samir Bin Mohd Ishak </a>
+<br><a href="mailto:eunice_tay_lay_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunice Tay Lay Min</a>
 </p>
 </td>
 </tr>
@@ -105,7 +102,7 @@ third_nav_title: Teachers
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Form Teachers</p>
 </th>
 </tr>
 <tr>
@@ -154,7 +151,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:roslina_basak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslina Bte Basak </a>
-<br><a href="mailto:toh_shyh_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Toh Shyh Yee</a>
+<br><a href="mailto:nuramelia_adnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur-Amelia Binte Adnan</a>
 </p>
 </td>
 </tr>
@@ -164,7 +161,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sen_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sen Mai Leng (Helen) </a>
-<br><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>
+<br><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
 </p>
 </td>
 </tr>
