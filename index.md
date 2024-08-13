@@ -12,6 +12,7 @@ sections:
         - title: Announcements
           description: Information for Parents
           url: /Announcements
+      variant: image
   - infopic:
       title: Primary 6 Graduation 2023
       id: infopic
