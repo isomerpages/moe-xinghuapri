@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: Information for Parents
           url: /Announcements
-      variant: image
+      variant: center
       size: md
       alignment: right
       backgroundColor: gray
