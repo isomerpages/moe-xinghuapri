@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Resilient_Achievers.gif
+      background: /images/Homepage/Resilient_Achievers_small.gif
       key_highlights:
         - title: Announcements
           description: Information for Parents
