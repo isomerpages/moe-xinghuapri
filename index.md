@@ -12,12 +12,6 @@ sections:
         - title: Announcements
           description: Information for Parents
           url: /Announcements
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
       variant: image
       size: md
       alignment: right
