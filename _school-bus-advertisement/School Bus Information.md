@@ -39,7 +39,7 @@ to the School’s General Office.</p>
 </ol>
 <p></p>
 <p>• Address: 45 Hougang Ave 1, Singapore 538882
-<br>• Contract Number: 6288 9121
+<br>• Contact Number: 6288 9121
 <br>• Email: <a href="https://staging-lite.d1z5q78gabky6m.amplifyapp.com/school-information/contact-us/xinghua_ps@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xinghua_ps@schools.gov.sg</u></a>
 <br>• Contact Person: Mdm Norhaslyn Rohhani</p>
 <p></p>
