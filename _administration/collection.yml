@@ -2,7 +2,7 @@ collections:
   administration:
     output: true
     order:
-      - School Bus Information.md
+      - School Bus Advertisement.md
       - School Service Providers Info.md
       - Financial Assistance.md
       - Downloadable Forms.md

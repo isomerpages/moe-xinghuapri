@@ -1,6 +1,6 @@
 ---
-title: School Bus Information
-permalink: /school-bus-information/
+title: School Bus Advertisement
+permalink: /school-bus-advertisement/
 variant: tiptap
 description: ""
 ---
