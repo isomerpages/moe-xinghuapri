@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - NEU PC Application.md
       - Leave of Absence.md
       - Canteen Advertisement.md
