@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Bus Information.md
-      - Canteen Advertisement.md
       - School Service Providers Info.md
       - Financial Assistance.md
       - NEU PC Application.md
