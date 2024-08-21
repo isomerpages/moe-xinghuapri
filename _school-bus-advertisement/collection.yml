@@ -1,5 +1,4 @@
 collections:
   school-bus-advertisement:
     output: true
-    order:
-      - School Bus Information.md
+    order: []
