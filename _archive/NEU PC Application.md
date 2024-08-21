@@ -1,6 +1,6 @@
 ---
 title: NEU PC Application
-permalink: /administration/NEU-PC-Application
+permalink: /administration/NEU-PC-Application/
 description: ""
 ---
 NEU PC Plus Programme  

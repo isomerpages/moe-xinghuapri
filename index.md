@@ -7,11 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/HomepageGif.gif
+      background: /images/Homepage/Resilient_Achievers.gif
       key_highlights:
         - title: Announcements
           description: Information for Parents
           url: /Announcements
+      variant: image
+      size: md
+      alignment: right
+      backgroundColor: gray
   - infopic:
       title: Primary 6 Graduation 2023
       id: infopic

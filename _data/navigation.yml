@@ -65,16 +65,12 @@ links:
   - title: ADMINISTRATION
     url: /administration/School-Service-Providers-Info
     sublinks:
-      - title: Canteen Advertisement
-        url: /administration/canteen-advertisement/
+      - title: School Bus Advertisement
+        url: /school-bus-information/
       - title: School Service Providers Info
         url: /administration/School-Service-Providers-Info
       - title: Financial Assistance
         url: https://www.moe.gov.sg/financial-matters/financial-assistance
-      - title: NEU PC Application
-        url: /administration/NEU-PC-Application
-      - title: Leave of Absence
-        url: /administration/Leave-of-Absence
       - title: Downloadable Forms
         url: /administration/Downloadable-Forms
       - title: FAQ
