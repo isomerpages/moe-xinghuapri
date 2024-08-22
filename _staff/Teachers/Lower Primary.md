@@ -30,8 +30,7 @@ third_nav_title: Teachers
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anne_mary_fernandez_mendoz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mendoza Anne</a> 
-<br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah </a>
+<p><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah </a>
 <br><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
 </p>
 </td>
@@ -82,7 +81,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hidahny_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hidahny Binte Mustaffa</a>
-<br><a href="mailto:haymalatha_bakthavachalam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Haymalatha d/o Govindaswami Mrs Haymalatha Bakthavachalam</a>
+<br><a href="mailto:haymalatha_bakthavachalam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Haymalatha Bakthavachalam</a>
 </p>
 </td>
 </tr>
@@ -120,7 +119,7 @@ third_nav_title: Teachers
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_suang_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Suang Mei (Mavis) </a>
+<p><a href="mailto:loh_suang_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Suang Mei (Mavis)</a>
 <br><a href="mailto:norrah_rebo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norrah Binte Rebo</a>
 </p>
 </td>
