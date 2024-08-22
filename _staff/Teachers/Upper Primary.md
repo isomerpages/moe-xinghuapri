@@ -70,7 +70,7 @@ third_nav_title: Teachers
 <p>5-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naurana_badalge_saranapala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Naurana Badalge Saranapala (Rodney)</a> 
+<p><a href="mailto:naurana_badalge_saranapala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Naurana Badalge Saranapala</a>
 <br><a href="mailto:low_xinyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Felicia Low</a>
 </p>
 </td>
