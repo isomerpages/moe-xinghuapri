@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Banner_2024.gif
-      key_highlights:
-        - title: Announcements
-          description: Information for Parents
-          url: /Announcements
       variant: center
       size: md
       alignment: right
