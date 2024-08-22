@@ -135,7 +135,6 @@ third_nav_title: Teachers
 <td rowspan="1" colspan="1">
 <p><a href="yap_chin-kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annie Yap Chin-Kit</a>
 <br><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
-<br><a href="mailto:Nur_Farihath_Samsulbahri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nur Farihath Binte Samsulbahri</a>
 </p>
 </td>
 </tr>
