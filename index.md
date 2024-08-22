@@ -7,23 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Resilient_Achievers.gif
-      key_highlights:
-        - title: Announcements
-          description: Information for Parents
-          url: /Announcements
-      variant: image
+      background: /images/Homepage/Banner_2024.gif
+      variant: center
       size: md
       alignment: right
       backgroundColor: gray
-  - infopic:
-      title: Primary 6 Graduation 2023
-      id: infopic
-      description: More Photos
-      button: Please click here
-      url: /primary-6-graduation-photos-2023/
-      image: /images/Homepage/IMG_1292_crop.jpg
-      alt: Image alt text
   - infopic:
       title: Xinghua Primary on News Media
       button: Please click here

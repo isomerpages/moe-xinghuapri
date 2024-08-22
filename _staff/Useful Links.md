@@ -1,7 +1,8 @@
 ---
-title: USEFUL LINKS
-permalink: /staff/USEFUL-LINKS/
+title: Useful Links
+permalink: /staff/useful-links/
 description: ""
+variant: tiptap
 ---
 *   **[SC:Mobile](https://scmobile.moe.edu.sg/)**
 *   **[Resource Booking System](https://rbs.avero-tech.com/login.html)** 
