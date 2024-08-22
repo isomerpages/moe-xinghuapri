@@ -13,14 +13,6 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
-      title: Primary 6 Graduation 2023
-      id: infopic
-      description: More Photos
-      button: Please click here
-      url: /primary-6-graduation-photos-2023/
-      image: /images/Homepage/IMG_1292_crop.jpg
-      alt: Image alt text
-  - infopic:
       title: Xinghua Primary on News Media
       button: Please click here
       alt: Image alt text
