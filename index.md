@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Resilient_Achievers.gif
+      background: /images/Homepage/Banner_2024.gif
       key_highlights:
         - title: Announcements
           description: Information for Parents
           url: /Announcements
-      variant: image
+      variant: center
       size: md
       alignment: right
       backgroundColor: gray
