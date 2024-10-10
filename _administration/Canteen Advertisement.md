@@ -9,7 +9,6 @@ variant: markdown
 **Type of Stall:** Halal Asia Cuisine (Noodles/Rice/Japanese/Korean)
 <br>
 **Application date:** 14th Oct 2024 - 1st Nov 2024
-<br>**Requirements:** Rice or noodle stalls are acceptable.
 
 ##### Interest applicants must meet the following criteria:
 
