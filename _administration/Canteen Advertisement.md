@@ -16,7 +16,7 @@ variant: markdown
 
 * Able to provide good service and quality food with prices determined in consultation with the school.
 
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "[Healthy Meals in Schools Programme (HMSP)" guideline](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the ""[Healthy Meals in Schools Programme (HMSP)" guideline](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 
 * Able to maintain high standard of food safety and personal hygiene.
 
