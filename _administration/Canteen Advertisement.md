@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Xinghua Primary School Canteen Advertisement
 
-**Type of Stall:** Halal Asia Cuisine (Noodles/Rice/Japanese/Korean)
+**Type of Stall:** Halal Asia Cuisine (Noodles/Rice/Japanese/Korean/International)
 <br>
 **Application date:** 14th Oct 2024 - 1st Nov 2024
 
