@@ -47,7 +47,7 @@ variant: markdown
 * **Address:** 45 Hougang Avenue 1 Singapore 538882
 * **Contact No:** 62889121
 * **Contact Person:** Lim Fung Jin
-* **Email:** [lim_fung_jin@moe.edu.sg](lim_fung_jin@moe.edu.sg)
+* **Email:** [lim_fung_jin@moe.edu.sg](mailto:lim_fung_jin@moe.edu.sg)
 
 
 
