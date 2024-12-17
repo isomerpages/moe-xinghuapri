@@ -2,39 +2,40 @@
 title: Principal's Message
 permalink: /school-information/Principals-Message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**A Caring and Enabling Environment for Nurturing All Students**
-
-All of us know that for anyone to flourish and be successful, he/she needs to be in an environment that makes him/her feel safe, cared for, accepted and yet also offers the right levels of challenges and exposure to equip and inspire one to grow and achieve. And so, since 2023, we have changed our school mission to focus on **providing a caring and enabling environment for nurturing all students.**  
-
-Through the environment, we hope to nurture the following in our children:
-
-(a)	**Purpose** (to live and learn with meaning and aspirations)
-
-(b)	**Sound Character and Values** (to make sound decisions for themselves and others)
-
-(c)	**Social-Emotional Competencies** (to make responsible decisions)
-
-(d)	**Citizenship** (to be proud of their country and motivated to contribute to the community)
-
-(e)	**Resilience** (to become confident individuals who can manage and overcome challenges in their lives)
-
-(f)	**21st Century Competencies** (to have the skills, knowledge and attitudes to be life-long and future-ready learners)
-
-Wow, that looks like a lot of work, and indeed it is. Yet these are necessary areas of learning and development that our children need for the present and the future.  The current and the future world is changing rapidly and mostly, does not follow a predictable pattern. Therefore, **to help our children navigate and find their purpose and meaning in life**, we need to help them build foundation and anchor through sound values, positive character and relevant skills and mindsets.
-
-Last year, we began the journey to develop our children to be **Resilient Achievers and Thoughtful Citizens**. We have just begun; and 2024 promises to be another year of opportunities and possibilities to engage our young charges to **stay curious about themselves and the world around them**, get excited about **learning and mastering new skills**, and to **develop positive mindsets towards challenges and new experiences**. 
-
-This year, we are introducing and teaching more explicitly about **Growth Mindset** and **Oracy** (ability to engage in conversations) as part of the school’s efforts to **build strong fundamental literacy and numeracy skills**. More opportunities will also be provided to allow students to share their opinions and thoughts, and to contribute to school improvement initiatives, thus developing their **Voice and Ownership** over their schooling experiences. 
-
-I know that with the committed and competent staff of Xinghua and the support of our partners, especially our children’s parents and guardians, Xinghua Primary will excel and deliver!
-
-Towards excellence, Xinghua!
-
-Mr Chew Mun Wai
-
-Principal
-
-
-![Principal's Photo](/images/IMG_3541v1.jpg)
+<p>Thank you for your interest in Xinghua Primary School.</p>
+<p>In 1930, our founder, Mr Chua Cheok San, founded Sing Hua Public School
+because he had a dream to give the children in the village a better life
+through education. Our very first school building was a wood-and-thatch
+building he rented. Subsequently, the school moved several times due to
+an increasing enrolment. After the war, Mr Chua did not give up despite
+a major setback when the school building was converted into a soap factory.
+With the support of well wishes and sponsors in the community, the school
+was able to expand again. Mr Chua sadly passed on in 1949, but his son,
+Mr Chua Tiah Seng, carried on his good work.</p>
+<p>Throughout its history, Xinghua Primary School braved several difficult
+periods and emerged stronger each time and this Xinghua spirit is encapsulated
+in its old school song:</p>
+<blockquote>
+<p>“Embrace the spirit of challenge,
+<br>Nurture the passion for learning,
+<br>We’ve good teachers to guide us,
+<br>We’ve good friends to support us,
+<br>Onwards we will strive!”</p>
+</blockquote>
+<p>Today, my team and I are humbled and united by a sense of duty to realize
+our founder’s vision and continue his resilient spirit. Xinghua Primary
+School now stands as a cornerstone of education in Hougang which strives
+to <u>nurture our students into resilient achievers and thoughtful citizens</u>.</p>
+<p>True to our school values of Care, Respect, Responsibility, Resilience
+and Excellence (CARE), our team pledges to develop <u>a caring and enabling school environment</u>,
+empowering students to be respectful, responsible and resilient individuals
+who constantly strive for excellence.</p>
+<p>As we continue this journey, we are deeply grateful for your continued
+support and well wishes. Together, we can scale greater heights.</p>
+<p>Towards Excellence, Xinghua!</p>
+<p>
+<br>Leow Yen Min (Mr.)
+<br>Principal</p>
+<p></p>
