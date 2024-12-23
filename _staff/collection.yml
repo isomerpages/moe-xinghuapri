@@ -2,11 +2,11 @@ collections:
   staff:
     output: true
     order:
+      - School Management Committee.md
+      - Teachers/.keep
       - Teachers/Lower Primary.md
       - Teachers/Middle Primary.md
       - Teachers/Upper Primary.md
-      - Teachers/.keep
       - Executive Administrative Staff.md
-      - School Management Committee.md
       - School Counsellors, Allied Educators And Flexi Adjunct Teachers.md
       - Useful Links.md
