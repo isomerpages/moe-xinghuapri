@@ -1,7 +1,8 @@
 ---
 title: Parents
-permalink: /parents/Parents
+permalink: /parents/Parents/
 description: ""
+variant: markdown
 ---
 #### **FOR PARENTS / GUARDIANS**
 
