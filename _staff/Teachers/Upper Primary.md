@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Teachers
 ---
-<p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a> 
+<p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Leong Mei Yan Amelia</a>
 <br><strong>Assistant Year Head:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a>
 </p>
 <p><strong>Primary 5</strong>
@@ -30,7 +30,10 @@ third_nav_title: Teachers
 <p>5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Azeemah_Bte_Kadir_Nur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kamar</a>
+</p>
+<p><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +41,10 @@ third_nav_title: Teachers
 <p>5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kohilavaani_maniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kohila Vaani d/o Maniam</a>
+</p>
+<p><a href="tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +52,10 @@ third_nav_title: Teachers
 <p>5-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent</a>
+</p>
+<p><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +63,10 @@ third_nav_title: Teachers
 <p>5-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="loh_yu_jie_gerald@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Loh Yu Jie Gerald</a>
+</p>
+<p><a href="wang_gek_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
+</p>
 </td>
 </tr>
 <tr>
