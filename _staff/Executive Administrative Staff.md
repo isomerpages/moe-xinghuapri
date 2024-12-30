@@ -39,7 +39,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Chia_Siew_Joo_Wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Chia</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -58,15 +57,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_fung_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Fung Jin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Thia_Chih_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thia Chih Wei (Adrian)</a>
 </p>
 </td>
 </tr>
