@@ -31,8 +31,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:SITI_HAJAR_SAINI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bte Saini</a>
-</p>
-<p><a href="mailto:yan_nan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Nan</a>
+<br><a href="mailto:yan_nan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Nan</a>
 </p>
 </td>
 </tr>
@@ -42,8 +41,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Ai Leng</a>
-</p>
-<p><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah</a>
+<br><a href="mailto:rashidah_rajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rashidah Bte Rajah</a>
 </p>
 </td>
 </tr>
@@ -53,8 +51,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:roslina_basak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslina Bte Basak</a>
-</p>
-<p><a href="mailto:sean_koh_jian_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Koh Jian En</a>
+<br><a href="mailto:sean_koh_jian_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Koh Jian En</a>
 </p>
 </td>
 </tr>
@@ -64,8 +61,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norrah_rebo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norrah Binte Rebo</a>
-</p>
-<p><a href="nah_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nah Siew Hong</a>
+<br><a href="nah_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nah Siew Hong</a>
 </p>
 </td>
 </tr>
@@ -75,8 +71,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:magasvari_visuvanathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Magasvari d/o Visuvanathan</a>
-</p>
-<p><a href="chia_yilin_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Yilin Eileen</a>
+<br><a href="chia_yilin_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Yilin Eileen</a>
 </p>
 </td>
 </tr>
@@ -86,8 +81,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_suang_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Suang Mei (Mavis)</a>
-</p>
-<p><a href="mailto:firdaus_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Firdaus Bin Ismail</a>
+<br><a href="mailto:firdaus_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Firdaus Bin Ismail</a>
 </p>
 </td>
 </tr>
