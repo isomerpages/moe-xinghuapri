@@ -85,7 +85,12 @@ third_nav_title: Teachers
 <p>5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="suriana_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Sulaiman</a>
+</p>
+<p><a href="mailto:Chen_Lu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chen Lu</a>
+</p>
+<p><a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a>
+</p>
 </td>
 </tr>
 </tbody>
