@@ -74,6 +74,17 @@ third_nav_title: Teachers
 <p>5-5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_phaik_gek_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christina Ling</a>
+</p>
+<p><a href="mailto:an_bee_ling_miss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ann Bee Ling</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5-6</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
