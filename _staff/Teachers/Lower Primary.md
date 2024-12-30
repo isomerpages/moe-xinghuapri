@@ -165,18 +165,8 @@ third_nav_title: Teachers
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
-<br><a href="hartini_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hartini Bte Mohamed Yusof</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rusydiana_kusni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rusydiana Binte Kusni</a> 
-<br><a href="mailto:lim_jie_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Jie Min</a>
+<p><a href="mailto:sen_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sen Mai Leng (Helen) </a>
+<br><a href="mailto:haymalatha_bakthavachalam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Haymalatha Bakthavachalam</a>
 </p>
 </td>
 </tr>
