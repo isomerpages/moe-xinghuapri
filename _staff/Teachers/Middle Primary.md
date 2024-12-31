@@ -31,8 +31,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuramelia_adnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur-Amelia Binte Adnan</a>
-</p>
-<p><a href="fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
+<br><a href="fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
 </p>
 </td>
 </tr>
@@ -41,8 +40,8 @@ third_nav_title: Teachers
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Tan</p>
-<p><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
+<p>Ms Jasmine Tan
+<br><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
 </p>
 </td>
 </tr>
@@ -52,8 +51,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kerin Kok</a>
-</p>
-<p><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina Mariaselvi d/o Thangaya</a>
+<br><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina Mariaselvi d/o Thangaya</a>
 </p>
 </td>
 </tr>
@@ -63,10 +61,9 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:karthiyayini_n_raman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shan-Karthiyayini d/o N Raman</a>
+<br><a href="mailto:nasreen_haji_shahabuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nasreen Binte Haji Shahabuddin</a>
+<br><a href="ong_pearleen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Pearleen</a>
 </p>
-<p><a href="mailto:nasreen_haji_shahabuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nasreen Binte Haji Shahabuddin</a>
-</p>
-<p>Mdm Ong Pearleen</p>
 </td>
 </tr>
 <tr>
@@ -75,8 +72,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:avneet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Avneet Kaur</a>
-</p>
-<p><a href="yin_ciyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yin Ciyao (Diana)</a>
+<br><a href="yin_ciyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yin Ciyao (Diana)</a>
 </p>
 </td>
 </tr>
@@ -86,10 +82,8 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:murali_krishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Murali Krishnan</a>
-</p>
-<p><a href="mailto:siti_nadia_kamar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a>
-</p>
-<p><a href="santhi_nagamuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Santhi d/o Nagamuthu</a>
+<br><a href="mailto:siti_nadia_kamar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a>
+<br><a href="santhi_nagamuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Santhi d/o Nagamuthu</a>
 </p>
 </td>
 </tr>
@@ -148,8 +142,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kotake_yoji_norindra_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kotake Yoji Norindra Iskandar</a>
-</p>
-<p><a href="poh_zhi_qin_lionel@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lionel Poh Zhi Qin</a>
+<br><a href="poh_zhi_qin_lionel@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lionel Poh Zhi Qin</a>
 </p>
 </td>
 </tr>
@@ -159,8 +152,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="chen_yao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Yao</a>
-</p>
-<p><a href="chan_bee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs May Sim</a>
+<br><a href="chan_bee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs May Sim</a>
 </p>
 </td>
 </tr>
@@ -170,8 +162,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Lim</a>
-</p>
-<p><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
+<br><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
 </p>
 </td>
 </tr>

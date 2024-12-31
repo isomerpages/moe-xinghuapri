@@ -31,8 +31,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Azeemah_Bte_Kadir_Nur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azeemah Binte Kamar</a>
-</p>
-<p><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
+<br><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
 </p>
 </td>
 </tr>
@@ -42,8 +41,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kohilavaani_maniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kohila Vaani d/o Maniam</a>
-</p>
-<p><a href="tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
+<br><a href="tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
 </p>
 </td>
 </tr>
@@ -53,8 +51,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent</a>
-</p>
-<p><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
+<br><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
 </p>
 </td>
 </tr>
@@ -64,8 +61,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="loh_yu_jie_gerald@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Loh Yu Jie Gerald</a>
-</p>
-<p><a href="wang_gek_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
+<br><a href="wang_gek_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Gek Hui (Katlyn)</a>
 </p>
 </td>
 </tr>
@@ -75,8 +71,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_phaik_gek_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christina Ling</a>
-</p>
-<p><a href="mailto:an_bee_ling_miss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ann Bee Ling</a>
+<br><a href="mailto:an_bee_ling_miss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ann Bee Ling</a>
 </p>
 </td>
 </tr>
@@ -86,10 +81,8 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="suriana_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Sulaiman</a>
-</p>
-<p><a href="mailto:Chen_Lu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chen Lu</a>
-</p>
-<p><a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a>
+<br><a href="mailto:Chen_Lu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chen Lu</a>
+<br><a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairi</a>
 </p>
 </td>
 </tr>
@@ -119,8 +112,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="norashikin_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norashikin Bte Mohamed Noor</a>
-</p>
-<p><a href="mailto:yang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kwan-Yang Rui</a>
+<br><a href="mailto:yang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kwan-Yang Rui</a>
 </p>
 </td>
 </tr>

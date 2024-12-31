@@ -17,7 +17,7 @@ links:
         url: /school-information/School-Advisory-Committee
       - title: School Rules
         url: /school-information/School-Rules
-  - title: Staff
+  - title: STAFF
     collection: staff
   - title: PROGRAMMES
     url: /programmes/Aesthetics
@@ -49,8 +49,6 @@ links:
     sublinks:
       - title: News from MOE
         url: https://www.moe.gov.sg/news
-      - title: Letters to Parents  - Xinghua
-        url: /parents/Letters-to-Parents-Xinghua/Letters-to-Parents-Xinghua-Link
       - title: Parent Support Group
         url: /parents/Parent-Support-Group
       - title: SchoolBag
