@@ -74,7 +74,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Syakirah_Malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Syakirah Binte Malik</a> 
+<p><a href="mailto:Nur_Syakirah_Malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Syakirah Binte Malik</a> 
 <br>
 </p>
 </td>

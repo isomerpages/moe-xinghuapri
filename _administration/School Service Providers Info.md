@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>SCHOOL UNIFORM/ PE ATTIRE/ SHOES</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -51,7 +55,11 @@ pm (open to parents)</p>
 </tbody>
 </table>
 <h5><strong>SCHOOL TEXTBOOKS &amp; STATIONARY</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,13 +91,17 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6280 6901</p>
+<p>94751316</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h5><strong>TRANSPORT</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -140,7 +152,11 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <br>
 </p>
 <h5><strong>SCHOOL LIBRARY</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -161,7 +177,11 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tbody>
 </table>
 <h5><strong>STUDENT CARE&nbsp;CENTRE</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -199,7 +219,11 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tbody>
 </table>
 <h5><strong>HOTLINES OF SUPPORT AGENCIES</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

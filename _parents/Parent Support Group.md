@@ -18,4 +18,4 @@ PSG Newsletter
 * [Sem 1 PSG Newsletter](/files/Parents/Letters%20to%20Parents%20%20%20Xinghua/Term_1_PSG_Newsletter.pdf)
   
 
-If you are interested to be a parent volunteer, please complete [this form](https://form.gov.sg/624e776bf3a5a50012f72334).
+If you are interested to be a parent volunteer, please complete [this form](https://forms.moe.edu.sg/forms/JBBL5A).
