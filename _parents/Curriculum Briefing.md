@@ -4,7 +4,6 @@ permalink: /curriculum-briefing/
 variant: tiptap
 description: ""
 ---
-<p><strong>Curriculum Briefing 2025</strong>
-</p>
+<h4><strong>Curriculum Briefing 2025</strong></h4>
 <p></p>
 <p></p>
