@@ -47,6 +47,8 @@ links:
   - title: PARENTS
     url: /parents/Parents
     sublinks:
+      - title: Curriculum Briefing
+        url: /permalink
       - title: News from MOE
         url: https://www.moe.gov.sg/news
       - title: Parent Support Group
