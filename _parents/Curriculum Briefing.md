@@ -1,6 +1,6 @@
 ---
 title: Curriculum Briefing
-permalink: /curriculum-briefing/
+permalink: /parents/curriculum-briefing/
 variant: tiptap
 description: ""
 ---
