@@ -17,3 +17,8 @@ description: ""
 <br><a href="https://drive.google.com/file/d/1gR5Oa0X7MRDaFU2W6vDLK2QoRCXRV7XL/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary Five</a>
 <br><a href="https://drive.google.com/file/d/10RP3RjvVbT0J76Mi9Xv-YvmkmyG2hqoH/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary Six</a>
 </p>
+<p></p>
+<p>Click <a href="https://forms.moe.edu.sg/forms/vG2P9G" rel="noopener nofollow" target="_blank">here</a> to
+register for the Face-to-Face Parent Engagement on 22 Jan 2025.
+<br>
+</p>
