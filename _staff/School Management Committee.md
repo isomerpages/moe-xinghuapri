@@ -255,7 +255,7 @@ variant: tiptap
 <p>Level Head / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin (Mrs Lim)</a>
+<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin (Mrs Lim)</a>
 </p>
 </td>
 </tr>
@@ -335,7 +335,7 @@ variant: tiptap
 <p>Senior Teacher / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Ai Leng (Mrs Goh)</a>
+<p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Goh Ai Leng</a>
 </p>
 </td>
 </tr>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>Senior Teacher / Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lim Peck Kiang Josephine</a>
+<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Josephine Lim</a>
 </p>
 </td>
 </tr>
