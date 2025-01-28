@@ -132,7 +132,7 @@ third_nav_title: Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Wong</a> 
-<br><a href="ra_tenmoli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ra Tenmoli</a>
+<br><a href="ra_tenmoli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ra Tenmoli (Mrs Vijey)</a>
 </p>
 </td>
 </tr>
