@@ -114,7 +114,7 @@ variant: tiptap
 <p>Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Yuan Ling (Mrs Aw Yong)</a>
+<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Aw Yong</a>
 </p>
 </td>
 </tr>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>Year Head / Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_Mei_Yan_Amelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Leong Mei Yan Amelia (Mrs Phua)</a>
+<p><a href="mailto:Leong_Mei_Yan_Amelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Amelia Phua</a>
 </p>
 </td>
 </tr>
@@ -158,7 +158,7 @@ variant: tiptap
 <p>Assistant Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a> *</p>
+<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>*</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +255,7 @@ variant: tiptap
 <p>Level Head / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin (Mrs Lim)</a>
+<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin</a>
 </p>
 </td>
 </tr>
@@ -335,7 +335,7 @@ variant: tiptap
 <p>Senior Teacher / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Ai Leng (Mrs Goh)</a>
+<p><a href="mailto:poh_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Goh Ai Leng</a>
 </p>
 </td>
 </tr>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>Senior Teacher / Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lim Peck Kiang Josephine</a>
+<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Josephine Lim</a>
 </p>
 </td>
 </tr>
