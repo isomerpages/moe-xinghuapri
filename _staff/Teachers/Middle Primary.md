@@ -40,7 +40,7 @@ third_nav_title: Teachers
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Tan
+<p><a href="jasmie_tan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmie Lee</a>
 <br><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
 </p>
 </td>
@@ -131,7 +131,7 @@ third_nav_title: Teachers
 <p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Wai Yin</a>
+<p><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin</a>
 <br><a href="low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
 </p>
 </td>
@@ -161,7 +161,7 @@ third_nav_title: Teachers
 <p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Lim</a>
+<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Josephine Lim</a>
 <br><a href="ng_puay_keat_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eddie Ng</a>
 </p>
 </td>
