@@ -114,7 +114,7 @@ variant: tiptap
 <p>Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Yuan Ling (Mrs Aw Yong)</a>
+<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Aw Yong</a>
 </p>
 </td>
 </tr>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>Year Head / Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_Mei_Yan_Amelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Leong Mei Yan Amelia (Mrs Phua)</a>
+<p><a href="mailto:Leong_Mei_Yan_Amelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Amelia Phua</a>
 </p>
 </td>
 </tr>
@@ -255,7 +255,7 @@ variant: tiptap
 <p>Level Head / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin (Mrs Lim)</a>
+<p><a href="mailto:cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin</a>
 </p>
 </td>
 </tr>
