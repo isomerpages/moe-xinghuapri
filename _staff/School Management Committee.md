@@ -158,7 +158,7 @@ variant: tiptap
 <p>Assistant Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a> *</p>
+<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>*</p>
 </td>
 </tr>
 <tr>
