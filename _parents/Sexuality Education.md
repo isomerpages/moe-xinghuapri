@@ -4,7 +4,7 @@ permalink: /parents/Sexuality-Education/
 description: ""
 variant: tiptap
 ---
-<h4>XINGHUA PRIMARY SCHOOL</h4>
+<h3>XINGHUA PRIMARY SCHOOL</h3>
 <h4>MOE SEXUALITY EDUCATION IN SCHOOLS</h4>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -45,6 +45,19 @@ ones.</p>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information on MOE Sexuality Education.</p>
+<p></p>
 </li>
 </ol>
+<h4>Overview of Xinghua Primary School’s Sexuality Education Programme for 2025</h4>
+<p></p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+</li>
+</ol>
+<p></p>
 <p></p>
