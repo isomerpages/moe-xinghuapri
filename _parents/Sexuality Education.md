@@ -91,4 +91,13 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
+<p><strong>At Xinghua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+</div>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+</p>
+<p><strong>&nbsp;Primary 5</strong>
+</p>
