@@ -90,6 +90,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
+<hr>
 <p></p>
 <p><strong>At Xinghua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
@@ -97,11 +98,7 @@ from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/1.jpg">
 </div>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<blockquote>
-<h4><strong>&nbsp;Primary 5</strong></h4>
-</blockquote>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 5</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -192,11 +189,9 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<h4><strong>Primary 6</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 6</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -267,16 +262,25 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <h4><strong>Information for Parents</strong></h4>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
-children out of Sexuality Education lessons, and/or supplementary Sexuality
-Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
-opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="https://for.edu.sg/xhsedoptout" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form
-is to be submitted by 04/04/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 6288 9121 for discussion or to seek clarification about the school’s
-Sexuality Education programme.</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p></p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+&nbsp;to parents at the start of the year and is also downloadable <a href="https://for.edu.sg/xhsedoptout" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 04/04/2025.</p>
+<p></p>
+</li>
+<li>
+<p>Parents can contact the school at 6288 9121 for discussion or to seek
+clarification about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
+<p></p>
