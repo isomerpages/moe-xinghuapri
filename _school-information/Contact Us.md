@@ -11,4 +11,3 @@ variant: markdown
 | **Fax:**            | 62838831                                                      |
 | **Email:**          | [xinghua_ps@schools.gov.sg ](xinghua_ps@schools.gov.sg )                             |
 | **Instagram:**      | [https://www.instagram.com/xinghuaps/](https://www.instagram.com/xinghuaps/)              |
-
