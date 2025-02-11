@@ -16,7 +16,8 @@ variant: tiptap
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Poh Huishan, Sherlyn (wef 20 Jan 25)</p>
+<p><a href="mailto:Poh_Huishan_Sherlyn_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Huishan, Sherlyn</a> 
+</p>
 </td>
 </tr>
 <tr>
