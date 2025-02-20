@@ -24,7 +24,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leow_yen_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leow Yen Min</a>
+<p><a href="mailto:leow_yen_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leow Yen Min</a>
 </p>
 </td>
 </tr>
