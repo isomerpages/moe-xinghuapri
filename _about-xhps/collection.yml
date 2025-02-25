@@ -2,6 +2,7 @@ collections:
   about-xhps:
     output: true
     order:
+      - Our People/School Management Committee.md
       - Our People/.keep
       - School Counsellors, Allied Educators And Flexi Adjunct Teachers.md
       - Executive Administrative Staff.md
