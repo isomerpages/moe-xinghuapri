@@ -1,5 +1,5 @@
 collections:
-  administration:
+  information:
     output: true
     order:
       - Canteen Advertisement.md
