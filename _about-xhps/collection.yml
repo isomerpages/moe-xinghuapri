@@ -2,6 +2,7 @@ collections:
   about-xhps:
     output: true
     order:
+      - School Management Committee.md
       - Contact Us.md
       - Principal's Message.md
       - Philosophy and Strategic Thrusts.md
