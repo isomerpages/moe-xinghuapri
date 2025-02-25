@@ -1,5 +1,5 @@
 collections:
-  school-information:
+  about-xhps:
     output: true
     order:
       - Contact Us.md
