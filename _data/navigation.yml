@@ -1,24 +1,26 @@
 logo: /images/Homepage/Screenshot 2022-08-17 144656.png
 links:
-  - title: SCHOOL INFORMATION
+  - title: About XHPS
     url: /school-information/Principals-Message
     sublinks:
-      - title: Principal's Message
+      - title: Welcome Message
         url: /school-information/Principals-Message
-      - title: Philosophy & Strategic Thrusts
-        url: /school-information/Philosophy-and-Strategic-Thrusts
+      - title: Our People
+        url: /permalink
+      - title: School Heritage & History
+        url: /school-information/School-History
       - title: Motto, Mission, Vision
         url: /school-information/Vision-Mission-Core-Values
-      - title: School History
-        url: /school-information/School-History
+      - title: Philosophy & Strategic Thrusts
+        url: /school-information/Philosophy-and-Strategic-Thrusts
       - title: School Crest/ Song
         url: /school-information/School-Crest-Song
-      - title: School Advisory Committee
-        url: /school-information/School-Advisory-Committee
       - title: School Rules
         url: /school-information/School-Rules
+      - title: School Advisory Committee
+        url: /school-information/School-Advisory-Committee
   - title: STAFF
-    collection: staff
+    collection: achievements
   - title: PROGRAMMES
     url: /programmes/Aesthetics
     sublinks:
