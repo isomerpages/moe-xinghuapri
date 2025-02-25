@@ -2,6 +2,7 @@ collections:
   about-xhps:
     output: true
     order:
+      - Our People/Upper Primary.md
       - Our People/Middle Primary.md
       - Our People/Lower Primary.md
       - Our People/School Counsellors, Allied Educators And Flexi Adjunct
