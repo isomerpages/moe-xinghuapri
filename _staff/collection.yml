@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - School Management Committee.md
       - Teachers/.keep
       - Teachers/Lower Primary.md
       - Teachers/Middle Primary.md
