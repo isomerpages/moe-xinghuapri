@@ -6,7 +6,7 @@ links:
       - title: Welcome Message
         url: /school-information/Principals-Message
       - title: Our People
-        url: /permalink
+        url: /staff
       - title: School Heritage & History
         url: /school-information/School-History
       - title: Motto, Mission, Vision
@@ -19,8 +19,6 @@ links:
         url: /school-information/School-Rules
       - title: School Advisory Committee
         url: /school-information/School-Advisory-Committee
-  - title: STAFF
-    collection: staff
   - title: PROGRAMMES
     url: /programmes/Aesthetics
     sublinks:
