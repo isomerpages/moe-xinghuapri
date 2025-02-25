@@ -19,6 +19,19 @@ links:
         url: /school-information/School-Rules
       - title: School Advisory Committee
         url: /school-information/School-Advisory-Committee
+  - title: Information
+    url: /administration/School-Service-Providers-Info
+    sublinks:
+      - title: Canteen Advertisement
+        url: /administration/canteen-advertisement/
+      - title: Financial Assistance
+        url: https://www.moe.gov.sg/financial-matters/financial-assistance
+      - title: School Bus Information
+        url: /school-bus-information/
+      - title: School Service Providers Info
+        url: /administration/School-Service-Providers-Info
+      - title: FAQ
+        url: /administration/FAQ
   - title: Our Programmes
     url: /programmes/Aesthetics
     sublinks:
@@ -57,23 +70,10 @@ links:
         url: https://www.schoolbag.edu.sg/
       - title: Sexuality Education
         url: /parents/Sexuality-Education
-  - title: ACHIEVEMENTS
+  - title: Achievements
     url: /achievements/2024/
     sublinks:
       - title: "2024"
         url: /achievements/2024/
-  - title: ADMINISTRATION
-    url: /administration/School-Service-Providers-Info
-    sublinks:
-      - title: Canteen Advertisement
-        url: /administration/canteen-advertisement/
-      - title: Financial Assistance
-        url: https://www.moe.gov.sg/financial-matters/financial-assistance
-      - title: School Bus Information
-        url: /school-bus-information/
-      - title: School Service Providers Info
-        url: /administration/School-Service-Providers-Info
-      - title: FAQ
-        url: /administration/FAQ
   - title: CONTACT US
     url: /school-information/contact-us/
