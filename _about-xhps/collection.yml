@@ -2,6 +2,7 @@ collections:
   about-xhps:
     output: true
     order:
+      - Our People/Lower Primary.md
       - Our People/School Counsellors, Allied Educators And Flexi Adjunct
         Teachers.md
       - Our People/Executive Administrative Staff.md
