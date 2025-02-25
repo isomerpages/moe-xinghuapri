@@ -1,5 +1,5 @@
 collections:
-  parents:
+  our-partners:
     output: true
     order:
       - Curriculum Briefing.md
