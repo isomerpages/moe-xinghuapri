@@ -2,6 +2,7 @@ collections:
   about-xhps:
     output: true
     order:
+      - Executive Administrative Staff.md
       - School Management Committee.md
       - Contact Us.md
       - Principal's Message.md
