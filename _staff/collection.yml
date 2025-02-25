@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Teachers/.keep
-      - Teachers/Middle Primary.md
       - Teachers/Upper Primary.md
       - Useful Links.md
