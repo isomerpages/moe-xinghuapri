@@ -62,14 +62,14 @@ links:
       - title: Student Leadership
         url: /programmes/student-leadership/
   - title: Our Partners
-    url: /school-information/School-Advisory-Committee/
+    url: /partners/
     sublinks:
       - title: School Advisory Committee
-        url: /school-information/School-Advisory-Committee/
+        url: /partners/sac/
       - title: Parent Support Group
-        url: /parents/Parent-Support-Group
+        url: /partners/psg/
       - title: Parents
-        url: /parents/Parents/
+        url: /partners/parents/
   - title: Achievements
     url: /achievements/2024/
     sublinks:
