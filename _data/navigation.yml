@@ -60,16 +60,12 @@ links:
   - title: Our Partners
     url: /parents/Parents
     sublinks:
-      - title: Curriculum Briefing
-        url: /parents/curriculum-briefing/
-      - title: News from MOE
-        url: https://www.moe.gov.sg/news
       - title: Parent Support Group
         url: /parents/Parent-Support-Group
+      - title: News from MOE
+        url: https://www.moe.gov.sg/news
       - title: SchoolBag
         url: https://www.schoolbag.edu.sg/
-      - title: Sexuality Education
-        url: /parents/Sexuality-Education
   - title: Achievements
     url: /achievements/2024/
     sublinks:
