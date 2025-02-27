@@ -1,79 +1,79 @@
 logo: /images/Homepage/Screenshot 2022-08-17 144656.png
 links:
-  - title: SCHOOL INFORMATION
-    url: /school-information/Principals-Message
+  - title: About XHPS
+    url: /about-xhps/welcome-message/
     sublinks:
-      - title: Principal's Message
-        url: /school-information/Principals-Message
-      - title: Philosophy & Strategic Thrusts
-        url: /school-information/Philosophy-and-Strategic-Thrusts
+      - title: Welcome Message
+        url: /about-xhps/welcome-message/
+      - title: Our People
+        url: /about-xhps/our-people/smc/
+      - title: School Heritage & History
+        url: /about-xhps/school-history/
       - title: Motto, Mission, Vision
-        url: /school-information/Vision-Mission-Core-Values
-      - title: School History
-        url: /school-information/School-History
+        url: /about-xhps/mvmsv/
+      - title: Philosophy & Strategic Thrusts
+        url: /about-xhps/philosophy-strategic-thrusts/
       - title: School Crest/ Song
-        url: /school-information/School-Crest-Song
-      - title: School Advisory Committee
-        url: /school-information/School-Advisory-Committee
+        url: /about-xhps/school-crest-song/
       - title: School Rules
-        url: /school-information/School-Rules
-  - title: STAFF
-    collection: staff
-  - title: PROGRAMMES
-    url: /programmes/Aesthetics
+        url: /about-xhps/school-rules/
+  - title: Information
+    url: /info/school-service-providers-info/
+    sublinks:
+      - title: Canteen Advertisement
+        url: /info/canteen-advertisement/
+      - title: Curriculum Briefing
+        url: /info/curriculum-briefing/
+      - title: School Bus Information
+        url: /info/school-bus-information/
+      - title: School Service Providers Info
+        url: /info/school-service-providers-info/
+      - title: Financial Assistance
+        url: https://www.moe.gov.sg/financial-matters/financial-assistance
+      - title: FAQ
+        url: /info/faq/
+      - title: Useful Links
+        url: /info/useful-links/
+  - title: Our Programmes
+    url: /programmes/aesthetics/
     sublinks:
       - title: Aesthetics
-        url: /programmes/Aesthetics
+        url: /programmes/aesthetics/
       - title: CCE
-        url: /programmes/Character-and-Citizenship-Education-CCE
+        url: /programmes/cce/
       - title: Co-Curricular Activities (CCA)
-        url: /programmes/Co-Curricular-Activities-CCA/Co-Curricular-Activities-CCA
+        url: /programmes/cca/cca/
       - title: English
-        url: /programmes/English
+        url: /programmes/english/
       - title: ICT
-        url: /programmes/Information-and-Communication-Technology-ICT
+        url: /programmes/ict/
       - title: Mathematics
-        url: /programmes/Mathematics
+        url: /programmes/mathematics/
       - title: Mother Tongue
-        url: /programmes/Mother-Tongue
+        url: /programmes/mother-tongue/
       - title: Physical Education (PE)
-        url: /programmes/Physical-Education-PE
+        url: /programmes/physical-education/
       - title: PAL
-        url: /programmes/Programme-for-Active-Learning-PAL
+        url: /programmes/pal/
       - title: Science
-        url: /programmes/Science
+        url: /programmes/science/
+      - title: Sexuality Education Programme
+        url: /programmes/sexuality-education/
       - title: Student Leadership
-        url: /programmes/Student-Leadership
-  - title: PARENTS
-    url: /parents/Parents
+        url: /programmes/student-leadership/
+  - title: Our Partners
+    url: /partners/sac/
     sublinks:
-      - title: Curriculum Briefing
-        url: /parents/curriculum-briefing/
-      - title: News from MOE
-        url: https://www.moe.gov.sg/news
+      - title: School Advisory Committee
+        url: /partners/sac/
       - title: Parent Support Group
-        url: /parents/Parent-Support-Group
-      - title: SchoolBag
-        url: https://www.schoolbag.edu.sg/
-      - title: Sexuality Education
-        url: /parents/Sexuality-Education
-  - title: ACHIEVEMENTS
+        url: /partners/psg/
+      - title: Parents
+        url: /partners/parents/
+  - title: Achievements
     url: /achievements/2024/
     sublinks:
       - title: "2024"
         url: /achievements/2024/
-  - title: ADMINISTRATION
-    url: /administration/School-Service-Providers-Info
-    sublinks:
-      - title: Canteen Advertisement
-        url: /administration/canteen-advertisement/
-      - title: Financial Assistance
-        url: https://www.moe.gov.sg/financial-matters/financial-assistance
-      - title: School Bus Information
-        url: /school-bus-information/
-      - title: School Service Providers Info
-        url: /administration/School-Service-Providers-Info
-      - title: FAQ
-        url: /administration/FAQ
-  - title: CONTACT US
-    url: /school-information/contact-us/
+  - title: Contact Us
+    url: /about-xhps/contact-us/

@@ -1,0 +1,14 @@
+collections:
+  information:
+    output: true
+    order:
+      - Canteen Advertisement.md
+      - Curriculum Briefing.md
+      - School Bus Information.md
+      - School Service Providers Info.md
+      - Financial Assistance.md
+      - FAQs.md
+      - Useful Links.md
+      - Downloadable Forms.md
+      - News from MOE.md
+      - School Bag.md
