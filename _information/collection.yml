@@ -2,12 +2,12 @@ collections:
   information:
     output: true
     order:
-      - SchoolBag.md
-      - News from MOE.md
-      - Curriculum Briefing.md
       - Canteen Advertisement.md
+      - Curriculum Briefing.md
       - School Bus Information.md
       - School Service Providers Info.md
       - Financial Assistance.md
       - Downloadable Forms.md
       - FAQs.md
+      - News from MOE.md
+      - SchoolBag.md
