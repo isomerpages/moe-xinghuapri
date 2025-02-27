@@ -2,6 +2,7 @@ collections:
   about-xhps:
     output: true
     order:
+      - Principal's Message.md
       - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Upper Primary Form Teachers.md
@@ -10,11 +11,10 @@ collections:
       - Our People/School Counsellors, Allied Educators And Flexi Adjunct
         Teachers.md
       - Our People/Executive Administrative Staff.md
-      - Contact Us.md
-      - Principal's Message.md
-      - Philosophy and Strategic Thrusts.md
-      - Motto,Vision,Mission, School Values.md
       - School History.md
+      - Motto,Vision,Mission, School Values.md
+      - Philosophy and Strategic Thrusts.md
       - School Crest Song.md
       - School Advisory Committee.md
       - School Rules.md
+      - Contact Us.md
