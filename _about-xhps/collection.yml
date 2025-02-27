@@ -2,7 +2,7 @@ collections:
   about-xhps:
     output: true
     order:
-      - Principal's Message.md
+      - Welcome Message.md
       - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Upper Primary Form Teachers.md
