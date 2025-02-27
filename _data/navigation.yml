@@ -17,8 +17,6 @@ links:
         url: /school-information/School-Crest-Song
       - title: School Rules
         url: /school-information/School-Rules
-      - title: School Advisory Committee
-        url: /school-information/School-Advisory-Committee
   - title: Information
     url: /administration/School-Service-Providers-Info
     sublinks:
@@ -75,5 +73,5 @@ links:
     sublinks:
       - title: "2024"
         url: /achievements/2024/
-  - title: CONTACT US
+  - title: Contact Us
     url: /school-information/contact-us/
