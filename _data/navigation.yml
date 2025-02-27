@@ -21,17 +21,19 @@ links:
     url: /administration/School-Service-Providers-Info
     sublinks:
       - title: Canteen Advertisement
-        url: /administration/canteen-advertisement/
+        url: /info/canteen-advertisement/
       - title: Curriculum Briefing
-        url: /parents/curriculum-briefing/
+        url: /info/curriculum-briefing/
+      - title: School Bus Information
+        url: /info/school-bus-information/
+      - title: School Service Providers Info
+        url: /info/school-service-providers-info/
       - title: Financial Assistance
         url: https://www.moe.gov.sg/financial-matters/financial-assistance
-      - title: School Bus Information
-        url: /school-bus-information/
-      - title: School Service Providers Info
-        url: /administration/School-Service-Providers-Info
       - title: FAQ
-        url: /administration/FAQ
+        url: /info/faq/
+      - title: Useful Links
+        url: /info/useful-links/
   - title: Our Programmes
     url: /programmes/Aesthetics
     sublinks:
