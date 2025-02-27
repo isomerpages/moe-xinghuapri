@@ -2,15 +2,14 @@ collections:
   our-programmes:
     output: true
     order:
-      - Sexuality Education.md
       - Aesthetics.md
       - Character & Citizenship Education CCE.md
+      - Co Curricular Activities CCA/.keep
       - Co Curricular Activities CCA/Co Curricular Activities CCA.md
       - Co Curricular Activities CCA/Sports and Games.md
       - Co Curricular Activities CCA/Clubs and Society.md
       - Co Curricular Activities CCA/Performing Arts.md
       - Co Curricular Activities CCA/Uniformed Groups.md
-      - Co Curricular Activities CCA/.keep
       - English.md
       - Information and Communication Technology (ICT).md
       - Mathematics.md
@@ -18,4 +17,5 @@ collections:
       - Physical Education (PE).md
       - Programme for Active Learning (PAL).md
       - Science.md
+      - Sexuality Education.md
       - Student Leadership.md
