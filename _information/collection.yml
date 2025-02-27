@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Useful Links.md
       - Canteen Advertisement.md
       - Curriculum Briefing.md
       - School Bus Information.md
@@ -10,5 +9,6 @@ collections:
       - Financial Assistance.md
       - Downloadable Forms.md
       - FAQs.md
+      - Useful Links.md
       - News from MOE.md
       - SchoolBag.md
