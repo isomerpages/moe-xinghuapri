@@ -60,8 +60,12 @@ links:
   - title: Our Partners
     url: /parents/Parents
     sublinks:
+      - title: School Advisory Committee
+        url: /permalink
       - title: Parent Support Group
         url: /parents/Parent-Support-Group
+      - title: Parents
+        url: /permalink
   - title: Achievements
     url: /achievements/2024/
     sublinks:
