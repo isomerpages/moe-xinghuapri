@@ -22,7 +22,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Manager
+<p>Administration Manager
 <br>
 </p>
 </td>
@@ -34,7 +34,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ang_Hwee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Hwee Yong</a>
@@ -43,7 +43,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_fung_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Fung Jin</a>
@@ -71,7 +71,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Low_Kam_Yoke@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Doris Low Kam Yoke</a>
@@ -167,7 +167,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Librarian Assistant
+<p>Library Assistant
 <br>
 </p>
 </td>
