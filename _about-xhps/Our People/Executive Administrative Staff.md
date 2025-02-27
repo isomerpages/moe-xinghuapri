@@ -34,17 +34,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Manager
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Chia_Siew_Joo_Wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Chia</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,20 +187,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Security Officer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm V. Thangamani</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Security Officer
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Beng Chye</p>
+<p></p>
 </td>
 </tr>
 </tbody>
