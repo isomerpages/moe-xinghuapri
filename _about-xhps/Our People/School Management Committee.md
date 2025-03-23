@@ -94,7 +94,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Character &amp; Citizenship Education (CCE)</p>
+<p>HOD / Character &amp; Citizenship Education and 21st Century Competencies
+(CCE &amp; 21CC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Khairi Bin Uda</a>

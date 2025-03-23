@@ -1,5 +1,5 @@
 ---
-title: School Crest Song
+title: School Crest and School Song
 permalink: /about-xhps/school-crest-song/
 description: ""
 variant: tiptap
