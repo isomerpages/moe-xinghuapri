@@ -107,14 +107,6 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Tian Hock</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Jumirah Bte Abdul Rahman</p>
 </td>
 </tr>
