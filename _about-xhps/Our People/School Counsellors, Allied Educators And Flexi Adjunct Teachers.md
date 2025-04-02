@@ -23,6 +23,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SENO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Noorfizah_Ripin_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Noorfizah binte Ripin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
