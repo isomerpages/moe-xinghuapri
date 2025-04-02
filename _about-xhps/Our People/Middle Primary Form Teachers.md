@@ -43,6 +43,8 @@ third_nav_title: Our People
 <p><a href="jasmie_tan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmie Lee</a>
 <br><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
 </p>
+<p><a href="Lee_Jing_Xuan_Phoebe@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lee Jing Xuan, Phoebe</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,6 +54,8 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kerin Kok</a>
 <br><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina Mariaselvi d/o Thangaya</a>
+</p>
+<p><a href="Joshua Chin Jia Jin" rel="noopener nofollow" target="_blank">Mr Joshua Chin Jia Jin</a>
 </p>
 </td>
 </tr>
