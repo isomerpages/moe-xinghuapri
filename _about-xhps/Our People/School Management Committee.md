@@ -359,15 +359,6 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Special Educational Needs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_peck_kiang_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Josephine Lim</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><em>Note: * denotes Key Personnel who are covering duties<a href="https://www.xinghuapri.moe.edu.sg/staff/Executive-Administrative-Staff/" rel="noopener noreferrer nofollow" target="_blank"><br></a></em>
