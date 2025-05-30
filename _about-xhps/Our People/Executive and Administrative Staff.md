@@ -28,7 +28,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Norhaslyn_ROHHANI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaslyn Rohhani</a> 
-<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lee_shi_ning_vanessa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Vanessa Lee</a>
 </p>
 </td>
 </tr>
