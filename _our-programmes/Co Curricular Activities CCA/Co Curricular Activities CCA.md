@@ -70,19 +70,19 @@ follows:</p>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Sports-and-Games" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Sports-and-Games" rel="noopener noreferrer nofollow" target="_blank">Softball</a>
+<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Softball</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Sports-and-Games" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
+<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Sports-and-Games" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
+<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
 </p>
 </li>
 </ul>
@@ -90,19 +90,19 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Photography</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Photography</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society" rel="noopener noreferrer nofollow" target="_blank">IT (Robotics/Coding)</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">IT (Robotics/Coding)</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society" rel="noopener noreferrer nofollow" target="_blank">Science and Environment</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Science and Environment</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Clubs-and-Society" rel="noopener noreferrer nofollow" target="_blank">Language Arts</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Language Arts</a>
 </p>
 </li>
 </ul>
@@ -110,19 +110,19 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Performing-Arts" rel="noopener noreferrer nofollow" target="_blank">Angklung</a>
+<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Angklung</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Performing-Arts" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Performing-Arts" rel="noopener noreferrer nofollow" target="_blank">Dance</a>
+<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Dance</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Performing-Arts" rel="noopener noreferrer nofollow" target="_blank">Guzheng</a>
+<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Guzheng</a>
 </p>
 </li>
 </ul>
@@ -130,11 +130,11 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Uniformed-Groups" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>
+<p><a href="/programmes/cca/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/Co-Curricular-Activities-CCA/Uniformed-Groups" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
+<p><a href="/programmes/cca/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
 </p>
 </li>
 </ul>
