@@ -177,7 +177,7 @@ third_nav_title: Our People
 <p>Assistant Year Head / Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="norasiken_mohamed_noor@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
+<p><a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 </td>
 </tr>
