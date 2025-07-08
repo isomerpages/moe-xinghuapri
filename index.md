@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Banner_2024.gif
-      variant: center
+      variant: image
       size: md
       alignment: right
       backgroundColor: gray
