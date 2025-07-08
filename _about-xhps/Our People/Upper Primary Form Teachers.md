@@ -7,7 +7,7 @@ third_nav_title: Our People
 ---
 <p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Amelia Phua</a>
 <br><strong>Assistant Year Head P6:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a> 
-<br><strong>Assistant Year Head P5:</strong> &nbsp;<a href="norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
+<br><strong>Assistant Year Head P5:</strong> &nbsp;<a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 <p></p>
 <p><strong>Primary 5</strong>
@@ -33,7 +33,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
-<br><a href="norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
+<br><a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 </td>
 </tr>
