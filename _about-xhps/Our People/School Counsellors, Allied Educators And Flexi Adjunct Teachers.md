@@ -35,7 +35,7 @@ third_nav_title: Our People
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="seshma_surashlal@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Seshma Surashlal</a>
+<p><a href="mailto:seshma_surashlal@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Seshma Surashlal</a>
 </p>
 </td>
 </tr>
