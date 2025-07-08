@@ -82,7 +82,7 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_suang_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">M</a>
 <a href="firdaus_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r Firdaus Bin Ismail</a>
-<br><a href="siaw_may_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siaw May Ying (Ann)</a>
+<br><a href="mailto:siaw_may_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siaw May Ying (Ann)</a>
 </p>
 </td>
 </tr>
