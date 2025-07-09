@@ -4,7 +4,7 @@ permalink: /programmes/aesthetics/
 description: ""
 variant: tiptap
 ---
-<p><strong>OUR AIM</strong>
+<p><strong>Our AIM</strong>
 <br>To develop every child to Appreciate Arts, Adore Arts and Admire Arts.</p>
 <p><strong>AESTHETICS VISION (ART)</strong>
 </p>
