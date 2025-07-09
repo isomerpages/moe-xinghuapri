@@ -23,17 +23,6 @@ their potentials.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>P3 TO P6</p>
 </td>
@@ -62,7 +51,7 @@ A CHANCE TO OPT FOR A DIFFERENT CCA @ P4 &amp; P5.</p>
 <p>As part of the school’s effort to provide our pupils with a holistic and
 a well-rounded experience, the school offers 15 CCAs in 4 categories as
 follows:</p>
-<p><strong>(1)Sports and Games CCA</strong>
+<p><strong>(1) Sports and Games CCA</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

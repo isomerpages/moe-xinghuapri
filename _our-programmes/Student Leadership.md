@@ -4,36 +4,145 @@ permalink: /programmes/student-leadership/
 description: ""
 variant: tiptap
 ---
-**VISION**  
-Every Xinghua Pupil A Leader  
-  
-**MISSION**  
-To provide every Xinghua pupil with opportunities to lead  
-  
-**KEY PROGRAMMES:**  
-(1) Baseline Cohort Leadership Training:  
-\- P1 to P6  
-(2) Advanced Leadership Training  
-\- P3 to P6 Class Monitors and Chairpersons  
-\- CCA Leaders  
-\- P4 to P6 Prefects  
-\- P3 Junior Leaders  
-(3) In-house Leadership workshop conducted by P5 ad P6 prefects  
-\- P2 and P3 Junior Leaders  
-(4) Emerging Stars Day Camp \[partnership with secondary schools\]  
-\- CCA Leaders  
-\- P4 to P6 Prefects  
-(5) Promotion of Healthy Lifestyle  
-\- House Leaders  
-(6) Morning Express Sharing  
-\- Reading Ambassadors  
-\- Cyberwellness Ambassadors  
-\- N.E. Ambassadors  
-\- CCA Leaders  
-\- House Leaders  
-\- Prefects  
-(7) Event Photographers  
-\- Art (Photojournalism) Club members  
-\- Selected P5 pupils (after going through the Photography curriculum module)
-
-<iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeBuwrtCsAr3rQgfMCBqcXoNxkyo9mkdeJZQa-63OK11K52Auv1RD3nLRZAfy4Nuz0nH9kNdoZe3Of/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<h4>Discipline</h4>
+<p><strong>VISION</strong>
+<br>Xinghuazens who embody self-discipline and make responsible decisions
+in all aspects of their learning and life.</p>
+<p><strong>Approach</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_1.png">
+</div>
+<h4>Student Leadership</h4>
+<p><strong>VISION</strong>
+</p>
+<p>Student leaders with the confidence and competence to lead, and the heart
+to serve.</p>
+<p><strong>Prefect Investiture</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_2.jpg">
+</div>
+<p>At the <strong>Xinghua Prefects' Investiture</strong>, we celebrate dedication,
+responsibility, and the spirit of servant leadership as they lead with
+integrity and heart.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Student Leaders Training</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_7.png">
+</div>
+<p>Student leaders engaged in a fun and meaningful session on <em>Empathy and Collaboration</em>!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_8.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_9.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Student leaders took their collaboration skills to the next level through
+a hands-on session focused on turn-taking, respectful questioning, and
+resolving minor conflicts.</p>
+<p><strong>Student Leaders In Action</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_11.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our dedicated P4 and P6 prefects demonstrated warmth, leadership, and
+care during Little Xinghuazens Day. From guiding our young visitors around
+the school to engaging them in fun and meaningful activities, they truly
+exemplified our school values in action.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_13.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
