@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Our AIM</strong>
-<br>To develop every child to Appreciate Arts, Adore Arts and Admire Arts.</p>
+<br>To develop every child to Appreciate Arts, Adore Arts and Admire Arts</p>
 <p><strong>AESTHETICS VISION (ART)</strong>
 </p>
 <ul data-tight="true" class="tight">
