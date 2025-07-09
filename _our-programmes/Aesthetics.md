@@ -8,7 +8,7 @@ variant: tiptap
 <br>To develop every child to Appreciate Arts, Adore Arts and Admire Arts&nbsp;</p>
 <p><strong>AESTHETICS VISION (ART)</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Two Domains :&nbsp;</p>
 </li>
@@ -48,7 +48,7 @@ variant: tiptap
 </ul>
 <p><strong>MUSIC</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Two Domains :</p>
 </li>
