@@ -19,7 +19,7 @@ multiple learning platforms and opportunities created to help students
 to internalise values, social -emotional competencies and citizenship dispositions.</p>
 <p><strong>Positive About Self</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>New U
 <br>A one-week activity filled orientation programme to set tone for the year.
@@ -36,7 +36,7 @@ good characters.</p>
 </ul>
 <p><strong>Values in Action</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Everyday Responsibility
 <br>Our students develop a sense of responsibility and care for their own
@@ -67,9 +67,7 @@ sense of belongings.</p>
 </ul>
 <p>House Meeting 1: Buddy Up
 <br>House Meeting 2: Care for our community
-<br>House Meeting 3: Creativity
-<br>
-</p>
+<br>House Meeting 3: Creativity</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learning Beyond Classroom
@@ -80,9 +78,6 @@ history and heritage of Singapore and to appreciate the contribution of
 our forefathers in the development of our nation.</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-flbScdUv6qh6AHN5vQQdNeQoRED4BQWd50XB53Z0PQaiR54fim_dovIpzcTg3HxYnbcFRTCdP--5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p><strong>Student Leadership</strong>
 </p>
 <p>Student leaders are empowered to promote peer support through helping
@@ -107,4 +102,4 @@ with the seniors.</p>
 <p>Plan Teachers’ Day celebration.</p>
 </li>
 </ul>
-<p></p>
+<p>&nbsp;</p>
