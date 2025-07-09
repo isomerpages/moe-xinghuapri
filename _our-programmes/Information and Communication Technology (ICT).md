@@ -15,61 +15,52 @@ variant: tiptap
 <p>Educational technology is meaningfully integrated into the curriculum
 to encourage the pupils to be actively engaged in their learning. During
 the process, students learn to interact positively in cyberspace.</p>
-<ul>
-<li>
-<p>Collaborative learning and E-Learning with Google Classroom</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Google Classroom provides pupils access to online lessons designed by
-teachers to carry out E-Learning.</p>
-</li>
-<li>
-<p>Pupils are guided to curate online resources and collaborate with their
-classmates to construct new knowledge.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>ICT Enrichment Programmes</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>ICT Skill-Based lessons for P1 and P2
-<br>Aim to enhance students’ digital literacies, such as using a search engine,
-managing assignments on SLS and other commonly used online platforms.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Code for Fun for P5</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develops students’ computational thinking through hands-on experience
-using visual, drag-and-drop software and robotic kits.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Coding and Multimedia Production for ICT Club Students</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Exposes students to create digital artefacts, such as programming robots,
-creating games through coding, creating digital posters, etc.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Cyber Wellness Programme</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Pupils learn to become digital learners by demonstrating respect for self
-and others, and practise the safe and responsible use of digital devices
-when navigating cyberspace.</p>
-</li>
-<li>
-<p>Cyber Wellness lessons are delivered through Form Teacher Guidance Period
-(FTGP), and programmes are planned by Cyber Wellness Ambassadors.</p>
-</li>
-</ul>
-</li>
-</ul>
+<p><strong>Primary 1 and 2: Foundation Digital Skills</strong>
+</p>
+<p>Our youngest students learn basic computer skills including typing, mouse
+control, and using common software like Microsoft Word and PowerPoint.
+They also begin using the Student Learning Space (SLS) and learn about
+safe internet behaviour.</p>
+<p><strong>Primary 3 and 4: Collaborative Digital Learning</strong>
+</p>
+<p>Students advance to using online platforms like SLS and Padlet for group
+work and interactive learning. They develop skills in digital communication
+and online collaboration with classmates.</p>
+<p><strong>Primary 5 and 6: Advanced Technology</strong>
+</p>
+<p>Upper primary students explore computational thinking through coding and
+robotics. They learn about emerging technologies like generative AI and
+smart robots, while understanding the importance of responsible technology
+use.</p>
+<p><strong>ICT Club: Digital Creation</strong>
+</p>
+<p>Club members work on exciting projects including robot programming, game
+creation, and digital media production. These activities help develop both
+technical skills and creativity.</p>
+<p><strong>Cyber Wellness Programme</strong>
+</p>
+<p>Through Form Teacher Guidance Period (FTGP) sessions and school activities,
+students learn to be responsible digital citizens. We partner with parents
+through talks and workshops to promote safe and positive use of technology.</p>
+<p><em>All programmes are regularly updated to align with current technological developments.</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
