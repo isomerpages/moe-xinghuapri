@@ -15,7 +15,6 @@ variant: tiptap
 <p>Educational technology is meaningfully integrated into the curriculum
 to encourage the pupils to be actively engaged in their learning. During
 the process, students learn to interact positively in cyberspace.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ICT/ICT_1.png">
 </div>
@@ -56,13 +55,11 @@ through talks and workshops to promote safe and positive use of technology.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ICT/ICT_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ICT/ICT_3.jpg">
 </div>
@@ -78,13 +75,11 @@ through talks and workshops to promote safe and positive use of technology.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ICT/ICT_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ICT/ICT_5.jpg">
 </div>
@@ -92,4 +87,6 @@ through talks and workshops to promote safe and positive use of technology.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
