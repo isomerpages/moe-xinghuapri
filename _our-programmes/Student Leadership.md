@@ -145,7 +145,7 @@ exemplified our school values in action.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_13.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_13.jpg">
 </div>
 </td>
 </tr>
