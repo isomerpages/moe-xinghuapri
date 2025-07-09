@@ -207,6 +207,3 @@ we aim to instill in every child the joy and habit of reading.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>
-<br>
-</p>
