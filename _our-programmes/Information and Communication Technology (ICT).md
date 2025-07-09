@@ -15,6 +15,10 @@ variant: tiptap
 <p>Educational technology is meaningfully integrated into the curriculum
 to encourage the pupils to be actively engaged in their learning. During
 the process, students learn to interact positively in cyberspace.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ICT/ICT_1.png">
+</div>
 <p><strong>Primary 1 and 2: Foundation Digital Skills</strong>
 </p>
 <p>Our youngest students learn basic computer skills including typing, mouse
