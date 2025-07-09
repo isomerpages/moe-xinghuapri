@@ -34,13 +34,11 @@ integrity and heart.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_3.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_4.jpg">
 </div>
@@ -56,13 +54,11 @@ integrity and heart.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 62%;" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_6.jpg">
 </div>
@@ -84,13 +80,11 @@ integrity and heart.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_8.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_9.png">
 </div>
@@ -137,13 +131,11 @@ exemplified our school values in action.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_12.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/SM_13.jpg">
 </div>
