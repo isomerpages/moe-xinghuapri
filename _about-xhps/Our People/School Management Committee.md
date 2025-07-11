@@ -5,13 +5,18 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h4>School Leaders</h4>
+<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>School Leaders</h4>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -39,15 +44,12 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Staff Development</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -57,15 +59,12 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Student Development &amp; Management</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD / Character &amp; Citizenship Education and 21st Century Competencies
@@ -155,15 +154,12 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Instructional Programmes</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD / Information &amp; Communications Technology (ICT)</p>
@@ -261,15 +257,12 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Teacher Leaders</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher / PE</p>
