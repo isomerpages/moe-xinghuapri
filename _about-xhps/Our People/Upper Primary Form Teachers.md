@@ -10,8 +10,7 @@ third_nav_title: Our People
 <br><strong>Assistant Year Head P5:</strong> &nbsp;<a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 <p></p>
-<p><strong>Primary 5</strong>
-</p>
+<h4>Primary 5</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,9 +89,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;</p>
-<p><strong>Primary 6</strong>
-</p>
+<h4>&nbsp;Primary 6</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
