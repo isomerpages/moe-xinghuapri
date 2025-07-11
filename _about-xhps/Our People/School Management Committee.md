@@ -5,21 +5,14 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
+<p><strong><u>School Leaders</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>School Leaders</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -47,24 +40,16 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</tbody>
+</table>
 <p><strong><u>Staff Development</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -74,24 +59,16 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</tbody>
+</table>
 <p><strong><u>Student Development &amp; Management</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD / Character &amp; Citizenship Education and 21st Century Competencies
@@ -181,24 +158,16 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</tbody>
+</table>
 <p><strong><u>Instructional Programmes</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD / Information &amp; Communications Technology (ICT)</p>
@@ -296,24 +265,16 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</tbody>
+</table>
 <p><strong><u>Teacher Leaders</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher / PE</p>
@@ -370,5 +331,8 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p><em>Note: * denotes Key Personnel who are covering duties<a href="https://www.xinghuapri.moe.edu.sg/staff/Executive-Administrative-Staff/" rel="noopener noreferrer nofollow" target="_blank"><br></a></em>
+<p><em>Note: * denotes Key Personnel who are covering duties</em>
 </p>
+<p></p>
+<p></p>
+<p></p>
