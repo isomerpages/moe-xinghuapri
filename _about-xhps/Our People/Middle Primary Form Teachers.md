@@ -5,12 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
-<p><strong>Year Head:</strong>  <a href="mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff - YH</a>
-<br>
+<p><strong>Year Head:</strong>  <a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
 </p>
-<p></p>
-<p><strong>Primary 3</strong>
-</p>
+<h4>Primary 3</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,9 +90,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Primary 4</strong>
-</p>
+<h4>Primary 4</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
