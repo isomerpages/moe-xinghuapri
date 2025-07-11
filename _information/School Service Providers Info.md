@@ -4,21 +4,13 @@ permalink: /info/school-service-providers-info/
 description: ""
 variant: tiptap
 ---
-<h5><strong>SCHOOL UNIFORM/ PE ATTIRE/ SHOES</strong></h5>
+<h5><strong>SCHOOL UNIFORM / PE ATTIRE / SHOES</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Company Name:</p>
