@@ -11,7 +11,7 @@ matters.</p>
 <p>If you are unable to contact Ms Poh Lin via call, please send him a message
 via Whatsapp.</p>
 <p>HP: 81502548</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">skyoperation15@gmail.com</a>
+<p>Email: <a href="mailto:skyoperation15@gmail.com" rel="noopener noreferrer nofollow" target="_blank">skyoperation15@gmail.com</a>
 </p>
 <p>&nbsp;</p>
 <p>Period: 1 Jan 2025 to 31 Dec 2025</p>
