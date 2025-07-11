@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>FOR PARENTS / GUARDIANS</strong></h4>
-<h4>VISITS TO CLASSROOMS</h4>
+<p><strong>VISITS TO CLASSROOMS</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>For security reasons and the safety of our pupils, no visitor is allowed
@@ -26,7 +27,8 @@ the school premises.</p>
 official visitor pass.</p>
 </li>
 </ol>
-<h4>CONSULTATION WITH TEACHERS</h4>
+<p><strong>CONSULTATION WITH TEACHERS</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Parents can telephone or email the school to arrange with teachers for
@@ -36,7 +38,8 @@ discussions after/before school hours.</p>
 <p>You may also communicate with the teacher via your child’s handbook.</p>
 </li>
 </ol>
-<h4>PARENTS BRINGING CHILDREN TO SCHOOL</h4>
+<p><strong>PARENTS BRINGING CHILDREN TO SCHOOL</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Parents bringing their children to school will not be allowed to enter
@@ -50,13 +53,15 @@ the school except on rainy days.</p>
 time.</p>
 </li>
 </ol>
-<h4>SCHOOL CANTEEN RULES</h4>
+<p><strong>SCHOOL CANTEEN RULES</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>All parents are not allowed at the canteen.</p>
 </li>
 </ol>
-<h4>ILLNESS AND ABSENTEEISM</h4>
+<p><strong>ILLNESS AND ABSENTEEISM</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>A medical certificate / letter from parents with a valid reason is required
@@ -67,7 +72,8 @@ when your child is absent from school.</p>
 any scheduled tests or examinations.</p>
 </li>
 </ol>
-<h4>LEAVING SCHOOL</h4>
+<p><strong>LEAVING SCHOOL</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Any parent who need to take their child home during school hours for valid
@@ -82,21 +88,24 @@ their child home.</p>
 <p>Pupils are not allowed to take leave during school term to go on holiday.</p>
 </li>
 </ol>
-<h4>UPDATING OF PARTICULARS</h4>
+<p><strong>UPDATING OF PARTICULARS</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Please notify the school at once of any changes in home address, contact
 number, guardianship or marital status.</p>
 </li>
 </ol>
-<h4>NAME TAGS ON ALL BELONGINGS</h4>
+<p><strong>NAME TAGS ON ALL BELONGINGS</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Please make sure that your child’s name and class are written on all his/her
 belongings such as water bottles, wallets, stationery and books.</p>
 </li>
 </ol>
-<h4>HEAVY SCHOOL BAG</h4>
+<p><strong>HEAVY SCHOOL BAG</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Please advise your child to bring only the necessary books for the day
@@ -107,14 +116,16 @@ according to the class time table.</p>
 child.</p>
 </li>
 </ol>
-<h4>TOYS / ELECTRONIC GADGETS</h4>
+<p><strong>TOYS / ELECTRONIC GADGETS</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Electronic gadgets (eg. Handphone, MP3, discman, electronic games, etc.)
 are not allowed in school.</p>
 </li>
 </ol>
-<h4>DENTAL HEALTH</h4>
+<p><strong>DENTAL HEALTH</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The school dental health programme is for all pupils.</p>
@@ -124,7 +135,8 @@ are not allowed in school.</p>
 office hours.</p>
 </li>
 </ol>
-<h4>EMERGENCIES</h4>
+<p><strong>EMERGENCIES</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Should there be an emergency, pupils will remain with their&nbsp;teachers
@@ -132,4 +144,6 @@ in the school building until they are brought home by&nbsp;parents or taken
 home by their usual transport.</p>
 </li>
 </ol>
+<p></p>
+<p></p>
 <p></p>
