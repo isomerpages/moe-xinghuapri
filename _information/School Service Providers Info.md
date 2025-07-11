@@ -4,7 +4,7 @@ permalink: /info/school-service-providers-info/
 description: ""
 variant: tiptap
 ---
-<h4>SCHOOL UNIFORM / PE ATTIRE / SHOES</h4>
+<h4>School Uniform / PE Attire / Shoes</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>SCHOOL TEXTBOOKS &amp; STATIONARY</h4>
+<h4>School Textbooks &amp; Stationary</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -82,7 +82,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>TRANSPORT</h4>
+<h4>Transport</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -116,14 +116,28 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>DENTAL HEALTH</h4>
-<p><u>Clinic Opening Hours:</u>
-</p>
+<h4>Dental Health</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clinic Opening Hours:</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mondays (8:00 AM to 5:00 PM)</p>
 <p>Tuesdays (8:00 AM to 5:30 PM)</p>
 <p>Wednesdays (8:00 AM to 5:00 PM)</p>
 <p>Lunch time (1:00 PM to 2:00 PM)</p>
-<p>*Clinic is closed on Thursdays and Fridays.</p>
+<p><em>*Clinic is closed on Thursdays and Fridays.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><em>For any dental appointment, please call/whatsapp </em><strong><em>9838 9102</em></strong><em>.</em>
 </p>
 <p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em>
