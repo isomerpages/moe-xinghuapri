@@ -4,5 +4,5 @@ permalink: /Announcements/
 description: ""
 variant: tiptap
 ---
-<p>Blank</p>
+<p>Type annoucements here.</p>
 <p></p>
