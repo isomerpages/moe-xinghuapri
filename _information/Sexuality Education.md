@@ -96,10 +96,9 @@ from sexuality-related risks.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/1.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/moe_logo.jpg">
 </div>
 <h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 5</strong></h4>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
