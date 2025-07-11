@@ -202,7 +202,7 @@ we aim to instill in every child the joy and habit of reading.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English/English_Programmes__At_the_end_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English/english_programmes.png">
 </div>
 <p></p>
 <p></p>
