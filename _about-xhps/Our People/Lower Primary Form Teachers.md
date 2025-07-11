@@ -8,9 +8,7 @@ third_nav_title: Our People
 <p><strong>Year Head:</strong>  <a href="mailto:neo_yuan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Awyong</a>
 <br><strong>Assistant Year Head:</strong>  <a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
 </p>
-<p></p>
-<p><strong>Primary 1</strong>
-</p>
+<h4>Primary 1</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,9 +86,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Primary 2</strong>
-</p>
+<h4>Primary 2</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
