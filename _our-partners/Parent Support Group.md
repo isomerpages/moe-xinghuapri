@@ -5,31 +5,26 @@ description: ""
 variant: tiptap
 ---
 <p>Welcome to Xinghua Primary School Parent Support Group (PSG) webpage.
-&nbsp;The PSG members are committed to volunteering their time and services
-to support the school programme and activities.</p>
+The PSG members are committed to volunteering their time and services to
+support the school programme and activities.</p>
 <p><strong>Involvements with the school:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Primary 1 Orientation &amp;</p>
+<p>Primary 1 Orientation &amp; Registration Exercise</p>
 </li>
 <li>
-<p>Registration Exercise,</p>
+<p>Chaperons for Primary 3 Swimming Programme</p>
 </li>
 <li>
-<p>Chaperons for Primary 3 Swimming Programme,</p>
+<p>Teachers’ Day &amp; Children’s Day Celebrations</p>
 </li>
 <li>
-<p>Teachers’ Day &amp;</p>
-</li>
-<li>
-<p>Children’s Day Celebrations,</p>
-</li>
-<li>
-<p>KidsRead Programme, and other school excursions.</p>
+<p>KidsRead Programme and other school excursions</p>
 </li>
 </ul>
-<p>PSG Newsletter</p>
+<p><strong>PSG Newsletter:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/Letters to Parents   Xinghua/2024_sem_1_psg_newsletter.pdf" rel="noopener nofollow" target="_blank">2024 Semester 1 PSG Newsletter</a>
