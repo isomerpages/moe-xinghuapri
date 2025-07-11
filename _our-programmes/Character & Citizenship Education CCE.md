@@ -33,20 +33,14 @@ and active citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/CCE/CCE.jpg">
 </div>
-<p>* XHPS’ Signature Programmes</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Character Development: Includes write-ups for Skills, CMDG &amp; GTS</p>
-</li>
-<li>
-<p>Citizenship Education: Includes write-ups National Education &amp; VIA</p>
-</li>
-<li>
-<p>Education Career Guidance: Includes write-ups for XH Academy, EG &amp;
-CE)</p>
-</li>
-</ul>
-<p><strong>Character Development: Skills</strong>
+<p><em>* XHPS’ Signature Programmes</em>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CHARACTER DEVELOPMENT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Skills</strong>
 </p>
 <p>At Xinghua, we believe in nurturing well-rounded individuals who are ready
 to face life's challenges with confidence. Our Skills programme is thoughtfully
@@ -86,7 +80,7 @@ how to recognise and manage their emotions, interact positively with peers,
 and make choices grounded in values. These early foundations set the stage
 for resilient and compassionate individuals who are equipped to navigate
 life’s challenges.</p>
-<p><strong>Character Development: Catch Me Doing Good</strong>
+<p><strong>Catch Me Doing Good</strong>
 </p>
 <p>Every day, our students demonstrate remarkable acts of kindness, responsibility,
 and excellence. Through our "Catch Me Doing Good" programme, we celebrate
@@ -143,7 +137,7 @@ When students see their friends being recognized for good character, it
 motivates them to reflect on and strengthen their own actions. It's heartwarming
 to see how one good deed inspires another, creating a culture where positive
 behaviour becomes second nature.</p>
-<p><strong>Character Development: Growing Through Stories</strong>
+<p><strong>Growing Through Stories</strong>
 </p>
 <p>Stories have a magical way of teaching life's most important lessons.
 Through our Growing Through Stories programme, your child will embark on
@@ -172,7 +166,13 @@ discussions, and share their thoughts and experiences in a supportive environmen
 <p>Through the power of storytelling, we're helping your child develop not
 just as a student, but as a compassionate, thoughtful individual who understands
 the importance of good values and positive relationships.</p>
-<p><strong>Citizenship Education: National Education (NE) Commemorative Events</strong>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CITIZENSHIP EDUCATION</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>National Education (NE) Commemorative Events</strong>
 </p>
 <p>NE Commemorative Events provide opportunities for our Xinghuazens to deepen
 their appreciation of our shared past and reflect on how they have a role
@@ -295,7 +295,13 @@ individuals.</p>
 positive difference, they develop a lifelong commitment to serving others.
 Watch your child grow from taking care of their immediate environment to
 becoming an active contributor to the community.</p>
-<p><strong>Educational Career Guidance: Xinghua Academy</strong>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>EDUCATIONAL CAREER GUIDANCE</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Xinghua Academy</strong>
 </p>
 <p>At Xinghua Primary, we believe that every child has the potential to shine.
 Xinghua Academy is our structured talent development programme designed
@@ -315,7 +321,7 @@ and encourage confident decision-making.</p>
 <p>With strong guidance, a thoughtful structure, and continuous encouragement,
 Xinghua Academy opens doors for our students to pursue their dreams and
 become confident, purpose-driven learners of the future.</p>
-<p><strong>Educational Career Guidance: Education Guidance</strong>
+<p><strong>Education Guidance</strong>
 </p>
 <p>Every child’s journey is unique, and at Xinghua Primary, we are committed
 to helping our students discover their strengths, aspirations, and future
@@ -330,7 +336,7 @@ X-cite (X3), we explore different pathways including holding secondary
 school talks and secondary school experiential visits to spark students’
 curiosity and provide them with a target to work towards, motivating them
 to work hard not just for the sake of it, but with a clear sense of purpose.</p>
-<p><strong>Educational Career Guidance: Careers Exploration</strong>
+<p><strong>Careers Exploration</strong>
 </p>
 <p>Every child wonders, "What will I be when I grow up?" Our Career Exploration
 programme opens windows to exciting possibilities, helping students discover
@@ -348,6 +354,10 @@ students dream big and believe in what they can become.</p>
 <p>With strong community partnerships and a heart for every child, our Career
 Exploration programme is about more than jobs — it’s about nurturing aspirations
 and showing our Xinghuazens that their future is full of possibilities.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
