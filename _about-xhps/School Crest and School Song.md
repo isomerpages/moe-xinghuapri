@@ -7,7 +7,7 @@ variant: tiptap
 <h4>School Crest</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/xhps_logo_1.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/xhps_logo_1.png">
 </div>
 <p>The blue triangles symbolize</p>
 <p><strong>LOVE and HONESTY</strong>
