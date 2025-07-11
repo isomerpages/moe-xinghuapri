@@ -51,7 +51,7 @@ the applicant's own expense.</p>
 <h3>Application Procedure</h3>
 <ol>
 <li>
-<p>Download and complete the <a href="/files/Administration/school%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>.
+<p>Download and complete the <a href="/files/Administration/school canteen application form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>.
 You may also request for a hardcopy from the School’s General Office.
 <br>
 </p>
