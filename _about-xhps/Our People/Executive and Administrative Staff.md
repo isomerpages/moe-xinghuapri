@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h5><strong>EAS</strong></h5>
+<h4>EAS</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,7 +27,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Norhaslyn_ROHHANI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaslyn Rohhani</a> 
+<p><a href="mailto:Norhaslyn_ROHHANI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaslyn Rohhani</a>
 </p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h5><strong>Support Staff</strong></h5>
+<h4>Support Staff</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
