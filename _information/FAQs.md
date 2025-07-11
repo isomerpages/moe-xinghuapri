@@ -226,24 +226,59 @@ side of the cheque.</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary>6) Where can I buy the school uniforms?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Company Name:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jeep Sing Fashion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 4012 Ang Mo Kio Avenue 10 #01-08, Techplace 1 Singapore 569628</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tel:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6456 3198</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Opening Hours (in school):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every Friday 9:00 AM to 10:30 AM (sale to students only)</p>
+<p>11:30 AM to 12:30 PM (open to parents)</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
-<ul>
-<li>
-<p></p>
-</li>
-<li>
-<p><code>6) Where can I buy the school uniforms?</code>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Administration/Jeep%20Sing%20Fashion.png">
+</details>
+<details class="isomer-details">
+<summary>7) How will my child be assessed academically?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please refer to page 17 of Pupil Handbook.</p>
 </div>
-</li>
-<li>
-<p><code>7) How will my child be assessed academically?</code>
-</p>
-<p><code>Please refer to page 17 of Pupil Handbook.</code>
-</p>
-</li>
-</ul>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
