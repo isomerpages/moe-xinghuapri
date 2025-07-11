@@ -10,11 +10,14 @@ variant: tiptap
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/xhps_logo_1.png">
 </div>
 <p>The blue triangles symbolize</p>
-<p>LOVE and HONESTY</p>
+<p><strong>LOVE and HONESTY</strong>
+</p>
 <p>The white triangles symbolise</p>
-<p>SIMPLICITY and PURITY</p>
+<p><strong>SIMPLICITY and PURITY</strong>
+</p>
 <p>And the red stripes symbolise</p>
-<p>DILIGENCE and COURAGE</p>
+<p><strong>DILIGENCE and COURAGE</strong>
+</p>
 <h4>School Song</h4>
 <p>We are proud of Xinghua Primary School</p>
 <p>Our hearts are joined as one</p>
@@ -32,3 +35,6 @@ variant: tiptap
 <p>And learn with pride and joy&nbsp;</p>
 <p>Striving for excellence</p>
 <p>In school from day to day</p>
+<p></p>
+<p></p>
+<p></p>
