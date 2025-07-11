@@ -40,8 +40,9 @@ variant: tiptap
 <p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Friday 9.00 am – 10.30 am (sale to students only) 11.30 am – 12.30
-pm (open to parents)</p>
+<p>Every Friday</p>
+<p>9:00 AM to 10:30 AM (sale to students only)</p>
+<p>11:30 AM to 12:30 PM (open to parents)</p>
 </td>
 </tr>
 </tbody>
@@ -66,8 +67,9 @@ pm (open to parents)</p>
 <p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday 9.00 am – 10.30 am; 1.30 pm – 3.00 pm (sale to students
-only) 11.00 am – 11.30 am (open to parents)</p>
+<p>Monday to Friday</p>
+<p>9:00 AM to 10:30 AM; 1:30 PM to 3:00 PM (sale to students only)</p>
+<p>11:00 AM to 11:30 AM (open to parents)</p>
 </td>
 </tr>
 <tr>
@@ -117,14 +119,14 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <h4>DENTAL HEALTH</h4>
 <p><u>Clinic Opening Hours:</u>
 </p>
-<p>Mondays (8:00am – 5:00pm)</p>
-<p>Tuesdays (8:00am – 5:30pm)</p>
-<p>Wednesdays (8:00am – 5:00pm)</p>
-<p>Lunch time (1:00pm – 2:00pm)</p>
+<p>Mondays (8:00 AM to 5:00 PM)</p>
+<p>Tuesdays (8:00 AM to 5:30 PM)</p>
+<p>Wednesdays (8:00 AM to 5:00 PM)</p>
+<p>Lunch time (1:00 PM to 2:00 PM)</p>
 <p>*Clinic is closed on Thursdays and Fridays.</p>
 <p><em>For any dental appointment, please call/whatsapp </em><strong><em>9838 9102</em></strong><em>.</em>
 </p>
-<p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em> 
+<p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em>
 </p>
 <h4>SCHOOL LIBRARY</h4>
 <table style="minWidth: 50px">
@@ -146,7 +148,7 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <p>Opening Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.15 am to 4.15 pm</p>
+<p>7:15 AM to 4:15 PM</p>
 </td>
 </tr>
 </tbody>
