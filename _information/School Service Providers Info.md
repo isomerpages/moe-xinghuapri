@@ -142,7 +142,7 @@ variant: tiptap
 </p>
 <p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em>
 </p>
-<h4>SCHOOL LIBRARY</h4>
+<h4>School Library</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>STUDENT CARE&nbsp;CENTRE</h4>
+<h4>Student Care Centre</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -201,7 +201,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>HOTLINES OF SUPPORT AGENCIES</h4>
+<h4>Hotlines of Support Agencies</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
