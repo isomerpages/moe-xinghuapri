@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /programmes/sexuality-education/
+permalink: /info/sexuality-education/
 description: ""
 variant: tiptap
 ---

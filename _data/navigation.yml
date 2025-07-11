@@ -20,6 +20,8 @@ links:
   - title: Information
     url: /info/school-service-providers-info/
     sublinks:
+      - title: Sexuality Education
+        url: /info/sexuality-education/
       - title: Canteen Advertisement
         url: /info/canteen-advertisement/
       - title: Curriculum Briefing
@@ -57,8 +59,6 @@ links:
         url: /programmes/pal/
       - title: Science
         url: /programmes/science/
-      - title: Sexuality Education Programme
-        url: /programmes/sexuality-education/
       - title: Student Leadership
         url: /programmes/student-leadership/
   - title: Our Partners

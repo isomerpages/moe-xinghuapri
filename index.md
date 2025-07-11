@@ -12,10 +12,4 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
-  - infopic:
-      title: Xinghua Primary on News Media
-      button: Please click here
-      alt: Image alt text
-      image: /images/Homepage/f129db1d2_3205.jpg
-      url: /xinghua-primary-on-news-media
 ---
