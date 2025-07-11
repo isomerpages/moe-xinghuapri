@@ -16,8 +16,8 @@ the documents required for registration.</p>
 <p>Parents may proceed to the school of choice during their eligible phase
 to register their child for the Primary One Registration Exercise.</p>
 <p>Registration for each phase is conducted at the primary school. The hours
-of registration at schools are from 8.00 am to 11.00 am and from 2.30 pm
-to 4.30 pm on each scheduled registration day. Parents must produce the
+of registration at schools are from 8:00 AM to 11:00 AM and from 2:30 PM
+to 4:30 PM on each scheduled registration day. Parents must produce the
 originals of each required document at the time of registration.</p>
 <p>Overseas Singaporeans who wish to register their children for Primary
 One can refer to Information for Overseas Singaporeans for the registration
