@@ -4,7 +4,7 @@ permalink: /partners/parents/
 description: ""
 variant: tiptap
 ---
-<h4><strong>FOR PARENTS / GUARDIANS</strong></h4>
+<h4>For Parents / Guardians</h4>
 <p><strong>VISITS TO CLASSROOMS</strong>
 </p>
 <ol data-tight="true" class="tight">
