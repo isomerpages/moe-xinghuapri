@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong><u>School Leaders</u></strong>
-</p>
+<h4>School Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,8 +41,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p><strong><u>Staff Development</u></strong>
-</p>
+<h4>Staff Development</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -61,8 +59,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p><strong><u>Student Development &amp; Management</u></strong>
-</p>
+<h4>Student Development &amp; Management</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -160,8 +157,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p><strong><u>Instructional Programmes</u></strong>
-</p>
+<h4>Instructional Programmes</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -267,8 +263,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p><strong><u>Teacher Leaders</u></strong>
-</p>
+<h4>Teacher Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
