@@ -4,7 +4,7 @@ permalink: /info/school-service-providers-info/
 description: ""
 variant: tiptap
 ---
-<h5><strong>SCHOOL UNIFORM / PE ATTIRE / SHOES</strong></h5>
+<h4>SCHOOL UNIFORM / PE ATTIRE / SHOES</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,21 +46,13 @@ pm (open to parents)</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>SCHOOL TEXTBOOKS &amp; STATIONARY</strong></h5>
+<h4>SCHOOL TEXTBOOKS &amp; STATIONARY</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Company Name:</p>
@@ -88,21 +80,13 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>TRANSPORT</strong></h5>
+<h4>TRANSPORT</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Supplier:</p>
@@ -124,13 +108,13 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <p>E-mail:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="skyoperation15@gmail.com" rel="noopener noreferrer nofollow" target="_blank">skyoperation15@gmail.com</a>
+<p><a href="mailto:skyoperation15@gmail.com" rel="noopener noreferrer nofollow" target="_blank">skyoperation15@gmail.com</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>DENTAL HEALTH</strong></h5>
+<h4>DENTAL HEALTH</h4>
 <p><u>Clinic Opening Hours:</u>
 </p>
 <p>Mondays (8:00am – 5:00pm)</p>
@@ -141,9 +125,8 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <p><em>For any dental appointment, please call/whatsapp </em><strong><em>9838 9102</em></strong><em>.</em>
 </p>
 <p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em> 
-<br>
 </p>
-<h5><strong>SCHOOL LIBRARY</strong></h5>
+<h4>SCHOOL LIBRARY</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,16 +134,16 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Tel:</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>6287 0795</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Opening Hours</p>
+<p>Opening Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.15 am to 4.15 pm</p>
@@ -168,21 +151,13 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>STUDENT CARE&nbsp;CENTRE</strong></h5>
+<h4>STUDENT CARE&nbsp;CENTRE</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Name:</p>
@@ -204,27 +179,19 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="xinghua@pro-teach.com" rel="noopener noreferrer nofollow" target="_blank">xinghua@pro-teach.com</a>
+<p><a href="mailto:xinghua@pro-teach.com" rel="noopener noreferrer nofollow" target="_blank">xinghua@pro-teach.com</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>HOTLINES OF SUPPORT AGENCIES</strong></h5>
+<h4>HOTLINES OF SUPPORT AGENCIES</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Samaritans of Singapore</p>
