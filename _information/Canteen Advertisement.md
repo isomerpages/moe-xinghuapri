@@ -4,10 +4,10 @@ permalink: /info/canteen-advertisement/
 description: ""
 variant: tiptap
 ---
-<h1>Xinghua Primary School Canteen Advertisement</h1>
+<h2>Xinghua Primary School Canteen Advertisement</h2>
 <p><strong>Type of Stall:</strong> Halal Cuisine (Noodles/Rice/Japanese/Korean/International)
 <br><strong>Application date:</strong> 14th Oct 2024 - 1st Nov 2024</p>
-<h5>Interest applicants must meet the following criteria:</h5>
+<h4>Interest applicants must meet the following criteria:</h4>
 <ul>
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
@@ -29,7 +29,7 @@ guideline.</p>
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<h5>Applicants should preferably fulfil the following criteria:</h5>
+<h4>Applicants should preferably fulfil the following criteria:</h4>
 <ul>
 <li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
@@ -48,7 +48,7 @@ to provide food sampling for the School Canteen Selection Committee at
 the applicant's own expense.</p>
 </li>
 </ul>
-<h3>Application Procedure</h3>
+<h4>Application Procedure</h4>
 <ol>
 <li>
 <p>Download and complete the <a href="/files/Administration/school canteen application form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>.
@@ -78,28 +78,12 @@ etc.</p>
 email OR to the School's General Office.</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Address:</strong> 45 Hougang Avenue 1 Singapore 538882</p>
-</li>
-<li>
 <p><strong>Contact No:</strong> 62889121</p>
-</li>
-<li>
 <p><strong>Contact Person:</strong> Lim Fung Jin</p>
-</li>
-<li>
 <p><strong>Email:</strong>  <a href="mailto:lim_fung_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_fung_jin@moe.edu.sg</a>
 </p>
-</li>
-</ul>
-<h3>Getting to Xinghua Primary School</h3>
-<ul data-tight="true" class="tight">
-<li>
+<h4>Getting to Xinghua Primary School</h4>
 <p><strong>Nearest MRT:</strong> Kovan MRT – 15 minutes walking distance</p>
-</li>
-<li>
 <p><strong>Bus:</strong> 53 or 62 - 3 minutes walking distance</p>
-</li>
-</ul>
 <p></p>
