@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
+<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,12 +13,8 @@ third_nav_title: Our People
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>School Leaders</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h4>School Leaders</h4>
 </td>
 </tr>
 <tr>
@@ -48,21 +45,9 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Staff Development</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
+<h4>Staff Development</h4>
 </td>
 </tr>
 <tr>
@@ -75,21 +60,9 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Student Development &amp; Management</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>Student Development &amp; Management</h4>
 </td>
 </tr>
 <tr>
@@ -182,21 +155,9 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Instructional Programmes</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>Instructional Programmes</h4>
 </td>
 </tr>
 <tr>
@@ -297,21 +258,9 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Teacher Leaders</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>Teacher Leaders</h4>
 </td>
 </tr>
 <tr>
@@ -370,5 +319,8 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p><em>Note: * denotes Key Personnel who are covering duties<a href="https://www.xinghuapri.moe.edu.sg/staff/Executive-Administrative-Staff/" rel="noopener noreferrer nofollow" target="_blank"><br></a></em>
+<p><em>Note: * denotes Key Personnel who are covering duties</em>
 </p>
+<p></p>
+<p></p>
+<p></p>

@@ -4,21 +4,13 @@ permalink: /info/school-service-providers-info/
 description: ""
 variant: tiptap
 ---
-<h5><strong>SCHOOL UNIFORM/ PE ATTIRE/ SHOES</strong></h5>
+<h4>School Uniform / PE Attire / Shoes</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Company Name:</p>
@@ -48,27 +40,20 @@ variant: tiptap
 <p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Friday 9.00 am – 10.30 am (sale to students only) 11.30 am – 12.30
-pm (open to parents)</p>
+<p>Every Friday</p>
+<p>9:00 AM to 10:30 AM (sale to students only)</p>
+<p>11:30 AM to 12:30 PM (open to parents)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>SCHOOL TEXTBOOKS &amp; STATIONARY</strong></h5>
+<h4>School Textbooks &amp; Stationary</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Company Name:</p>
@@ -82,8 +67,9 @@ pm (open to parents)</p>
 <p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday 9.00 am – 10.30 am; 1.30 pm – 3.00 pm (sale to students
-only) 11.00 am – 11.30 am (open to parents)</p>
+<p>Monday to Friday</p>
+<p>9:00 AM to 10:30 AM; 1:30 PM to 3:00 PM (sale to students only)</p>
+<p>11:00 AM to 11:30 AM (open to parents)</p>
 </td>
 </tr>
 <tr>
@@ -96,21 +82,13 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>TRANSPORT</strong></h5>
+<h4>Transport</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Supplier:</p>
@@ -132,26 +110,39 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <p>E-mail:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="skyoperation15@gmail.com" rel="noopener noreferrer nofollow" target="_blank">skyoperation15@gmail.com</a>
+<p><a href="mailto:skyoperation15@gmail.com" rel="noopener noreferrer nofollow" target="_blank">skyoperation15@gmail.com</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>DENTAL HEALTH</strong></h5>
-<p><u>Clinic Opening Hours:</u>
+<h4>Dental Health</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clinic Opening Hours:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays (8:00 AM to 5:00 PM)</p>
+<p>Tuesdays (8:00 AM to 5:30 PM)</p>
+<p>Wednesdays (8:00 AM to 5:00 PM)</p>
+<p>Lunch time (1:00 PM to 2:00 PM)</p>
+<p><em>*Clinic is closed on Thursdays and Fridays.</em>
 </p>
-<p>Mondays (8:00am – 5:00pm)</p>
-<p>Tuesdays (8:00am – 5:30pm)</p>
-<p>Wednesdays (8:00am – 5:00pm)</p>
-<p>Lunch time (1:00pm – 2:00pm)</p>
-<p>*Clinic is closed on Thursdays and Fridays.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><em>For any dental appointment, please call/whatsapp </em><strong><em>9838 9102</em></strong><em>.</em>
 </p>
-<p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em> 
-<br>
+<p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em>
 </p>
-<h5><strong>SCHOOL LIBRARY</strong></h5>
+<h4>School Library</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -159,38 +150,30 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Tel:</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>6287 0795</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Opening Hours</p>
+<p>Opening Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.15 am to 4.15 pm</p>
+<p>7:15 AM to 4:15 PM</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>STUDENT CARE&nbsp;CENTRE</strong></h5>
+<h4>Student Care Centre</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Name:</p>
@@ -212,27 +195,19 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="xinghua@pro-teach.com" rel="noopener noreferrer nofollow" target="_blank">xinghua@pro-teach.com</a>
+<p><a href="mailto:xinghua@pro-teach.com" rel="noopener noreferrer nofollow" target="_blank">xinghua@pro-teach.com</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>HOTLINES OF SUPPORT AGENCIES</strong></h5>
+<h4>Hotlines of Support Agencies</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Samaritans of Singapore</p>
@@ -267,4 +242,6 @@ only) 11.00 am – 11.30 am (open to parents)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>

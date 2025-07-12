@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h4><strong>Allied Educators And Flexi Adjunct Teachers</strong></h4>
+<h4>Allied Educators And Flexi Adjunct Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -179,4 +179,6 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
