@@ -169,8 +169,7 @@ side of the cheque.</p>
 <details class="isomer-details">
 <summary>5) What is the opening hours for the school gates?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>SCHOOL GATES OPENING HOURS</h4>
-<h4>(for students)</h4>
+<h4>School Gate Opening Hours (for students)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -264,8 +263,8 @@ side of the cheque.</p>
 <p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Friday 9:00 AM to 10:30 AM (sale to students only)</p>
-<p>11:30 AM to 12:30 PM (open to parents)</p>
+<p>Every Friday 9:00 AM to 10:30 AM (Sale to students only)</p>
+<p>11:30 AM to 12:30 PM (Open to parents)</p>
 </td>
 </tr>
 </tbody>
