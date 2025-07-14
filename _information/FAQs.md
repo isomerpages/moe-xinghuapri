@@ -264,7 +264,8 @@ area where possible.</p>
 <p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Friday 9:00 AM to 10:30 AM (Sale to students only)</p>
+<p>Every Friday</p>
+<p>9:00 AM to 10:30 AM (Sale to students only)</p>
 <p>11:30 AM to 12:30 PM (Open to parents)</p>
 </td>
 </tr>
