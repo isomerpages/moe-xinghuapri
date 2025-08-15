@@ -71,9 +71,9 @@ links:
   - title: Achievements
     url: /achievements/2024/
     sublinks:
-      - title: "2024"
-        url: /achievements/2024/
       - title: "2025"
         url: /achievements/2025
+      - title: "2024"
+        url: /achievements/2024/
   - title: Contact Us
     url: /about-xhps/contact-us/
