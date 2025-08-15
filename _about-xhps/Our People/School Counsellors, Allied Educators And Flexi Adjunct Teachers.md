@@ -53,7 +53,7 @@ third_nav_title: Our People
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nurfarahin_Ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfarahin Binte Ahmad</a>
+<p><a href="mailto:Nurfarahin_Ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfarahin Binte Ahmad</a>
 </p>
 </td>
 </tr>
