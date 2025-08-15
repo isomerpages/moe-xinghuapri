@@ -4,13 +4,17 @@ permalink: /info/school-service-providers-info/
 description: ""
 variant: tiptap
 ---
-<h4>School Uniform / PE Attire / Shoes</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>School Uniform / PE Attire / Shoes</h4>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Company Name:</p>
@@ -41,19 +45,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Every Friday</p>
-<p>9:00 AM to 10:30 AM (sale to students only)</p>
-<p>11:30 AM to 12:30 PM (open to parents)</p>
+<p>9:00 AM to 10:30 AM (Sale to students only)</p>
+<p>11:30 AM to 12:30 PM (Open to parents)</p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>School Textbooks &amp; Stationary</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Company Name:</p>
@@ -64,31 +65,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Opening Hours (in school):</p>
+<p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday</p>
-<p>9:00 AM to 10:30 AM; 1:30 PM to 3:00 PM (sale to students only)</p>
-<p>11:00 AM to 11:30 AM (open to parents)</p>
+<p>9475 1316</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tel:</p>
+<p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>94751316</p>
+<p>Monday to Friday</p>
+<p>9:00 AM to 10:30 AM; 1:30 PM to 3:00 PM (Sale to students only)</p>
+<p>11:00 AM to 11:30 AM (Open to parents)</p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Transport</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Supplier:</p>
@@ -114,15 +112,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Dental Health</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Clinic Opening Hours:</p>
@@ -136,19 +131,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<p><em>For any dental appointment, please call/whatsapp </em><strong><em>9838 9102</em></strong><em>.</em>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>For any dental appointment, please call/whatsapp </em><strong><em>9838 9102</em></strong><em>. In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em>
 </p>
-<p><em>In case of emergency, please contact Punggol Primary School dental clinic at </em><strong><em>8909 1753</em></strong><em>.</em>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>School Library</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tel:</p>
@@ -165,15 +159,12 @@ variant: tiptap
 <p>7:15 AM to 4:15 PM</p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Student Care Centre</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Name:</p>
@@ -199,15 +190,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Hotlines of Support Agencies</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Samaritans of Singapore</p>

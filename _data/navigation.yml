@@ -57,8 +57,8 @@ links:
         url: /programmes/pal/
       - title: Science
         url: /programmes/science/
-      - title: Student Leadership
-        url: /programmes/student-leadership/
+      - title: Student Management
+        url: /programmes/student-management/
   - title: Our Partners
     url: /partners/sac/
     sublinks:
@@ -71,6 +71,8 @@ links:
   - title: Achievements
     url: /achievements/2024/
     sublinks:
+      - title: "2025"
+        url: /achievements/2025
       - title: "2024"
         url: /achievements/2024/
   - title: Contact Us

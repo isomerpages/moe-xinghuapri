@@ -22,7 +22,8 @@ originals of each required document at the time of registration.</p>
 <p>Overseas Singaporeans who wish to register their children for Primary
 One can refer to Information for Overseas Singaporeans for the registration
 procedures.</p>
-<p>Parents can refer to <a href="http://www.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg</a> for more details.</p>
+<p>Parents can refer to <a href="https://www.moe.gov.sg/" rel="noopener nofollow" target="_blank">MOE website</a> for
+more details.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -83,7 +84,7 @@ area where possible.</p>
 <p>a) Online (AXS e-Station):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Go to <a href="https://e-station.axs.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://e-station.axs.com.sg/</a>
+<p>Go to <a href="https://e-station.axs.com.sg/" rel="noopener nofollow" target="_blank">AXS e-Station website</a>
 </p>
 </li>
 <li>
@@ -157,9 +158,9 @@ area where possible.</p>
 </li>
 </ol>
 <p>Ministry of Education, Finance &amp; Procurement Division, Cashier's Unit</p>
-<p>1 North Buona Vista Drive, MOE Building, Singapore 138675.</p>
-<p>Please write the student's name, NRIC number and school name on the reverse
-side of the cheque.</p>
+<p>1 North Buona Vista Drive, MOE Building, Singapore 138675</p>
+<p><em>Please write the student's name, NRIC number and school name on the reverse side of the cheque.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -169,8 +170,7 @@ side of the cheque.</p>
 <details class="isomer-details">
 <summary>5) What is the opening hours for the school gates?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>SCHOOL GATES OPENING HOURS</h4>
-<h4>(for students)</h4>
+<h4>School Gate Opening Hours (for students)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -264,8 +264,9 @@ side of the cheque.</p>
 <p>Opening Hours (in school):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Friday 9:00 AM to 10:30 AM (sale to students only)</p>
-<p>11:30 AM to 12:30 PM (open to parents)</p>
+<p>Every Friday</p>
+<p>9:00 AM to 10:30 AM (Sale to students only)</p>
+<p>11:30 AM to 12:30 PM (Open to parents)</p>
 </td>
 </tr>
 </tbody>

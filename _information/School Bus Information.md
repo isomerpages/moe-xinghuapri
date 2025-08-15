@@ -4,9 +4,8 @@ permalink: /info/school-bus-information/
 variant: tiptap
 description: ""
 ---
-<p><strong>SKY TRANSPORT SERVICES PTE. LTD.</strong>
-</p>
-<p>Please contact Laison Officer, Ms Poh Lin on School Bus transport matters.</p>
+<h4>Sky Transport Services PTE. LTD.</h4>
+<p>Please contact Liaison Officer, Ms Poh Lin on School Bus transport matters.</p>
 <p>If you are unable to contact Ms Poh Lin via call, please send him a message
 via Whatsapp.</p>
 <p>HP: 8150 2548</p>

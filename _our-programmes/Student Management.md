@@ -1,6 +1,6 @@
 ---
-title: Student Leadership
-permalink: /programmes/student-leadership/
+title: Student Management
+permalink: /programmes/student-management/
 description: ""
 variant: tiptap
 ---
