@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Canteen Advertisement.md
       - XHPS on News Media.md
       - School Bus Advertisement.md
       - NEU PC Application.md
