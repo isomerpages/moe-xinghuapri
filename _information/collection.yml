@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Canteen Advertisement.md
       - Sexuality Education.md
       - Curriculum Briefing.md
       - School Bus Information.md
