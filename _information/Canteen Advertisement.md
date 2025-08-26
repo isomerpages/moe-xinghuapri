@@ -87,9 +87,7 @@ the School’s General Office by the closing date.</p>
 <p>Address:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xinghua Primary School,</p>
-<p>45 Hougang Avenue 1,</p>
-<p>Singapore 538882</p>
+<p>Xinghua Primary School, 45 Hougang Avenue 1, Singapore 538882</p>
 </td>
 </tr>
 <tr>
