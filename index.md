@@ -21,9 +21,9 @@ sections:
             Prize 2025!
           linktext: Learn more
           url: https://www.instagram.com/p/DN2Oy17Ygep/?utm_source=ig_web_copy_link
-        - title: Appreciation Day
+        - title: Join us as Alumni!
           description: "Visitation by Ex-Xinghua Students: 4 Sep 2025, 11 AM – 12 PM"
-          linktext: Be an Alumni Leader - Join Exco!
+          linktext: Learn more
           url: ""
         - title: Canteen Advertisement
           description: Application for Drinks and Fruits Stall due by 12 Sept 2025.
