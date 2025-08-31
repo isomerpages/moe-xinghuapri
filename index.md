@@ -24,7 +24,7 @@ sections:
         - title: Join us as Alumni!
           description: "Visitation by Ex-Xinghua Students: 4 Sep 2025, 11 AM – 12 PM"
           linktext: Learn more
-          url: ""
+          url: https://go.gov.sg/xhps-alumni-application-form
         - title: Canteen Advertisement
           description: Application for Drinks and Fruits Stall due by 12 Sept 2025.
           linktext: Learn more
