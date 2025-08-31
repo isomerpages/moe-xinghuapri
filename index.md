@@ -22,7 +22,7 @@ sections:
           linktext: Learn more
           url: https://www.instagram.com/p/DN2Oy17Ygep/?utm_source=ig_web_copy_link
         - title: Join us as Alumni!
-          description: "Visitation by Ex-Xinghua Students: 4 Sep 2025, 11 AM – 12 PM"
+          description: "Join Alumni Exco & visit former teachers: 4 Sep 2025, 11 AM – 12 PM"
           linktext: Learn more
           url: https://go.gov.sg/xhps-alumni-application-form
         - title: Canteen Advertisement
