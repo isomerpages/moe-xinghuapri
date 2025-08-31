@@ -12,4 +12,21 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
+  - textcards:
+      title: NEWFLASH
+      id: textcards
+      cards:
+        - title: Xinghua Pride!
+          description: Congrats to former student Dorotheus Koh on winning the PM's Book
+            Prize 2025!
+          linktext: Learn more
+          url: https://www.instagram.com/p/DN2Oy17Ygep/?utm_source=ig_web_copy_link
+        - title: Appreciation Day
+          description: "Visitation by Ex-Xinghua Students: 4 Sep 2025, 11 AM – 12 PM"
+          linktext: Be an Alumni Leader - Join Exco!
+          url: ""
+        - title: Canteen Advertisement
+          description: Application for Drinks and Fruits Stall due by 12 Sept 2025.
+          linktext: Learn more
+          url: https://www.xinghuapri.moe.edu.sg/info/canteen-advertisement/
 ---
