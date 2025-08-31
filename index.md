@@ -13,7 +13,7 @@ sections:
       alignment: right
       backgroundColor: gray
   - textcards:
-      title: NEWFLASH
+      title: NEWSFLASH
       id: textcards
       cards:
         - title: Xinghua Pride!
