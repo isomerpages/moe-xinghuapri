@@ -31,7 +31,7 @@ support the school programme and activities.</p>
 </p>
 </li>
 </ul>
-<p>If you are interested to be a parent volunteer, please complete <a href="https://forms.moe.edu.sg/forms/JBBL5A" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</p>
+<p>If you are interested to be a parent volunteer, please complete <a href="https://go.gov.sg/psg-application-form" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</p>
 <p></p>
 <p></p>
 <p></p>
