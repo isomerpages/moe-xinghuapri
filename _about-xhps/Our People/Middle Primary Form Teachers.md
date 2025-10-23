@@ -37,10 +37,8 @@ third_nav_title: Our People
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jasmie_tan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmie Lee</a>
-<br><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
-</p>
-<p><a href="Lee_Jing_Xuan_Phoebe@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lee Jing Xuan, Phoebe</a>
+<p><a href="mailto:zhang_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Zhang Yun</a>
+<br><a href="Lee_Jing_Xuan_Phoebe@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lee Jing Xuan, Phoebe</a>
 </p>
 </td>
 </tr>
@@ -50,9 +48,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kerin Kok</a>
-<br><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Marina Mariaselvi d/o Thangaya</a>
-</p>
-<p><a href="Joshua Chin Jia Jin" rel="noopener nofollow" target="_blank">Mr Joshua Chin Jia Jin</a>
+<br><a href="Joshua Chin Jia Jin" rel="noopener nofollow" target="_blank">Mr Joshua Chin Jia Jin</a>
 </p>
 </td>
 </tr>
@@ -82,8 +78,7 @@ third_nav_title: Our People
 <p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:murali_krishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Murali Krishnan</a>
-<br><a href="mailto:siti_nadia_kamar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a>
+<p><a href="mailto:siti_nadia_kamar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nadia Binte Kamar</a>
 <br><a href="santhi_nagamuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Santhi d/o Nagamuthu</a>
 </p>
 </td>
