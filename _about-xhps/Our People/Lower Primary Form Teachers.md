@@ -106,8 +106,8 @@ third_nav_title: Our People
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hung Mian En, Abigail</a>
-<br><a href="hartini_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hartini Bte Mohamed Yusof</a>
+<p><a href="hartini_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hartini Bte Mohamed Yusof</a>
+<br><a href="mailto:marina_mariaselvi_thangaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marina Mariaselvi d/o Thangaya</a>
 </p>
 </td>
 </tr>
