@@ -22,9 +22,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager
-<br>
-</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Norhaslyn_ROHHANI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaslyn Rohhani</a>
@@ -45,7 +43,7 @@ third_nav_title: Our People
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ang_Hwee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Hwee Yong</a>
+<p><a href="mailto:lim_fung_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Fung Jin</a>
 </p>
 </td>
 </tr>
@@ -54,7 +52,7 @@ third_nav_title: Our People
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_fung_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Fung Jin</a>
+<p><a href="mailto:lim_chee_hong_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Frederick Lim</a>
 </p>
 </td>
 </tr>
@@ -73,7 +71,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nur_Syakirah_Malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Syakirah Binte Malik</a> 
-<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suffian_samad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Suffian Samad</a>
 </p>
 </td>
 </tr>
@@ -152,7 +158,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suffian Bin Samad</p>
+<p>Mr Mohamad Faiz Akmal Bin Hanif</p>
 </td>
 </tr>
 <tr>
