@@ -30,7 +30,7 @@ variant: tiptap
 <p>Drinks and Fruits Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Sept 2025</p>
+<p>8 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drinks, fruits and dessert are acceptable.</p>
@@ -103,8 +103,16 @@ the School’s General Office by the closing date.</p>
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_fung_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_fung_jin@moe.edu.sg</a>
+<p><a href="mailto:xinghua_ps@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinghua_ps@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Fung Jin</p>
 </td>
 </tr>
 </tbody>
