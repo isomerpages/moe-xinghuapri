@@ -27,7 +27,7 @@ support the school programme and activities.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Letters to Parents   Xinghua/2024_sem_1_psg_newsletter.pdf" rel="noopener nofollow" target="_blank">2024 Semester 1 PSG Newsletter</a>
+<p><a href="/files/Parents/Letters to Parents   Xinghua/2024_sem_1_psg_newsletter.pdf" rel="noopener nofollow" target="_blank">2025 PSG Newsletter</a>
 </p>
 </li>
 </ul>
