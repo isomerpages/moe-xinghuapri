@@ -49,17 +49,13 @@ A CHANCE TO OPT FOR A DIFFERENT CCA @ P4 &amp; P5.</p>
 </table>
 <h4>CCAS IN XINGHUA PRIMARY SCHOOL</h4>
 <p>As part of the school’s effort to provide our pupils with a holistic and
-a well-rounded experience, the school offers 15 CCAs in 4 categories as
+a well-rounded experience, the school offers 14 CCAs in 4 categories as
 follows:</p>
 <p><strong>(1) Sports and Games CCA</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a>
-</p>
-</li>
-<li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Modular Sport</a>
 </p>
 </li>
 <li>
@@ -79,19 +75,19 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Photography</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Craft</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">IT (Robotics/Coding)</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">ICT Club</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Science and Environment</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Environmental Science</a>
 </p>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Language Arts</a>
+<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">English Drama Club</a>
 </p>
 </li>
 </ul>
@@ -107,7 +103,7 @@ follows:</p>
 </p>
 </li>
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Dance</a>
+<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
 </li>
 <li>
