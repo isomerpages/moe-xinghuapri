@@ -123,8 +123,6 @@ from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -216,8 +214,7 @@ and how to seek help for themselves and their friends.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
