@@ -48,7 +48,7 @@ more information on MOE Sexuality Education.</p>
 <p></p>
 </li>
 </ol>
-<h4>Overview of Xinghua Primary School’s Sexuality Education Programme for 2025</h4>
+<h4>Overview of Xinghua Primary School’s Sexuality Education Programme for 2026</h4>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -92,13 +92,13 @@ from sexuality-related risks.</p>
 </ol>
 <hr>
 <p></p>
-<p><strong>At Xinghua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Xinghua Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/moe_logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 5</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong><br><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -190,7 +190,7 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <hr>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 6</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong><br><strong>Primary 6</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
