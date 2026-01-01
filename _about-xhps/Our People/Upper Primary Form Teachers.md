@@ -136,7 +136,9 @@ third_nav_title: Our People
 <p>6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chew_angel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angel Koh</a> 
+<br><a href="mailto:fazlin_jaya_indra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Fazlin Jaya Indra</a>
+</p>
 </td>
 </tr>
 <tr>
