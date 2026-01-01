@@ -125,7 +125,7 @@ third_nav_title: Our People
 <p>Subject Head / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_zhi_qin_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poh Zhi Qin Lionel</a> 
+<p><a href="mailto:poh_zhi_qin_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poh Zhi Qin Lionel</a>
 </p>
 </td>
 </tr>
