@@ -143,7 +143,8 @@ third_nav_title: Our People
 <p>Assistant Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent</a>
+</p>
 </td>
 </tr>
 <tr>
