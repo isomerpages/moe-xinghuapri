@@ -44,8 +44,7 @@ third_nav_title: Our People
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Li_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Li Ting</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
