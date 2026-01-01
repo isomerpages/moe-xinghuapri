@@ -89,7 +89,7 @@ third_nav_title: Our People
 <p>Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Aw Yong</a>
+<p><a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu (Andrea) *</a>
 </p>
 </td>
 </tr>
@@ -98,7 +98,7 @@ third_nav_title: Our People
 <p>Year Head / Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
+<p><a href="mailto:Neo_Yuan_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Aw Yong</a>
 </p>
 </td>
 </tr>
@@ -107,7 +107,7 @@ third_nav_title: Our People
 <p>Year Head / Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_Mei_Yan_Amelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Amelia Phua</a>
+<p><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
 </p>
 </td>
 </tr>
@@ -125,7 +125,8 @@ third_nav_title: Our People
 <p>Subject Head / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_zhi_qin_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poh Zhi Qin Lionel</a> *</p>
+<p><a href="mailto:poh_zhi_qin_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Poh Zhi Qin Lionel</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +134,24 @@ third_nav_title: Our People
 <p>Assistant Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatin Nabihah Binte Mohd Senor</a>*</p>
+<p><a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -142,15 +160,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lim_Hong_Sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Hong Sheng Paul</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head / Upper Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 </td>
 </tr>
@@ -183,7 +192,7 @@ third_nav_title: Our People
 <p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a> *</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -206,10 +215,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Aesthetics, PE &amp; CCA</p>
+<p>HOD / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
+<br><a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu (Andrea) *</a>
 </p>
 </td>
 </tr>
@@ -250,7 +260,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / PE</p>
+<p>Subject Head / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yong Guan</a>
