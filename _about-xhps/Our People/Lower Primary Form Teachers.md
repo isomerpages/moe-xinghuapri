@@ -7,7 +7,7 @@ third_nav_title: Our People
 ---
 <p><strong>Year Head (covering) :</strong>  <a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
 <br><strong>Assistant Year Head:</strong>  <a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
-<br><strong>Assistant Year Head: </strong>  <a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent</a>
+<br><strong>Assistant Year Head: </strong><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent</a>
 </p>
 <h4>Primary 1</h4>
 <table style="minWidth: 50px">
@@ -62,6 +62,7 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="hartini_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hartini Bte Mohamed Yusof</a>
 <br><a href="mailto:siaw_may_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siaw May Ying (Ann)</a>
+<br><a href="mailto:hung_mian_en_abigail@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hung Mian En, Abigail</a>
 </p>
 </td>
 </tr>
@@ -148,7 +149,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nah_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nah Siew Hong</a>
-<br><a href="mailto:muhammad_samir_mohd_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Samir Bin Mohd Ishak </a>
+<br><a href="mailto:muhammad_samir_mohd_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Samir Bin Mohd Ishak</a>
 </p>
 </td>
 </tr>
