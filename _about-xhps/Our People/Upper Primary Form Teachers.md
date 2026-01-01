@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our People
 ---
 <p><strong>Year Head:</strong>  <a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
-<br><strong>Assistant Year Head Primary 6:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a> 
+<br><strong>Assistant Year Head Primary 6:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a>
 </p>
 <h4>Primary 5</h4>
 <table style="minWidth: 50px">
@@ -96,10 +96,8 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:azeemah_bte_kadir_nur@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Azeemah Binte Kadir</a>
-</p>
-<p><a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a> 
-</p>
-<p><a href="mailto:tiah_jee_looi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Tan-Tiah Jee Looi</a>
+<br><a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a>
+<br><a href="mailto:tiah_jee_looi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Tan-Tiah Jee Looi</a>
 </p>
 </td>
 </tr>
@@ -119,7 +117,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
-<br>
+<br><a href="mailto:sen_puay_hui_jessy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jessy Sen Puay Hui</a>
 </p>
 </td>
 </tr>
