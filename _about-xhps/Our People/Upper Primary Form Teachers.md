@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Our People
 ---
 <p><strong>Year Head:</strong>  <a href="mailto:muhammad_khairi_uda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Amelia Phua</a>
-<br><strong>Assistant Year Head P6:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a> 
-<br><strong>Assistant Year Head P5:</strong> &nbsp;<a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
+<br><strong>Assistant Year Head Primary 6:</strong> &nbsp;<a href="mailto:lim_hong_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Lim</a> 
+<br><strong>Assistant Year Head Primary 5:</strong> &nbsp;<a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 <h4>Primary 5</h4>
 <table style="minWidth: 50px">
