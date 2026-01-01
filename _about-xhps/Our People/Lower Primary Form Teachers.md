@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong>Year Head (covering) :</strong>  <a href="fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
+<p><strong>Year Head (covering) :</strong>  <a rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
 <br><strong>Assistant Year Head:</strong>  <a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 <h4>Primary 1</h4>
