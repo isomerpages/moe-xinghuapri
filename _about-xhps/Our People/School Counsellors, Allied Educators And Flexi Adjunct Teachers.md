@@ -69,14 +69,6 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Pei Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Marie Quek Li Sze</p>
 </td>
 </tr>
@@ -102,14 +94,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Wee Ching (Debbie)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Penny Ashley Chong Gin Lin</p>
 </td>
 </tr>
 <tr>
@@ -149,14 +133,6 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teh Chiew Guek</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tiah Jee Looi</p>
 </td>
 </tr>
@@ -165,7 +141,7 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yang Chengxi</p>
+<p>Ms Yeo Mui Mei Melissa</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +149,47 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Mui Mei Melissa</p>
+<p>Ms Alice Ooi Chen Ai (from 19 Jan 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Fiona Poh-Lim Shir Pei (from 12 Jan 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Ashikin Binte Osman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Wee Teng Alice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Siew Ling Jeanie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Lay Keng</p>
 </td>
 </tr>
 </tbody>
