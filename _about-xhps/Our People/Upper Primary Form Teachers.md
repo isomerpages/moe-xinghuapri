@@ -29,7 +29,9 @@ third_nav_title: Our People
 <p>5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="norashikin_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norashikin Bte Mohamed Noor</a>
+<br><a href="mailto:mohammad_zaki_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Zaki Bin Yusoff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +39,9 @@ third_nav_title: Our People
 <p>5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kang_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kang Ming (Jiang Min)</a>
+<br><a href="low_ting_ting_cherina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Ting Ting Cherina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +49,9 @@ third_nav_title: Our People
 <p>5-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kotake_yoji_norindra_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kotake Yoji Norindra Iskandar</a>
+<br><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kaydence Sim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +59,9 @@ third_nav_title: Our People
 <p>5-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kotake_yoji_norindra_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kotake Yoji Norindra Iskandar</a>
+<br><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kaydence Sim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +69,9 @@ third_nav_title: Our People
 <p>5-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="ardi_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ardi Bin Sujak</a>
+<br><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +79,9 @@ third_nav_title: Our People
 <p>5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Wong</a>
+<br><a href="mailto:lim_kok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Kok Peng</a>
+</p>
 </td>
 </tr>
 </tbody>
