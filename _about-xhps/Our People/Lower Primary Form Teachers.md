@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p><strong>Year Head:</strong>  <a href="mailto:neo_yuan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Awyong</a>
-<br><strong>Assistant Year Head:</strong>  <a href="mailto:fatin_nabihah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatin Nabihah Binte Mohd Senor</a>
+<p><strong>Year Head (covering) :</strong>  <a href="fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
+<br><strong>Assistant Year Head:</strong>  <a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
 </p>
 <h4>Primary 1</h4>
 <table style="minWidth: 50px">
