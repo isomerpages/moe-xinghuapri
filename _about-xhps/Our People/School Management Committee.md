@@ -221,8 +221,7 @@ third_nav_title: Our People
 <p>HOD / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shu_fen_laura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Shu Fen Laura</a>
-<br><a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu (Andrea) *</a>
+<p><a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu (Andrea) *</a>
 </p>
 </td>
 </tr>
