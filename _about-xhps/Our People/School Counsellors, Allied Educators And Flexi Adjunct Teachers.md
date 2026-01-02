@@ -41,15 +41,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Li_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Li Ting</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,10 +50,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT</p>
+<p>FAJT School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gladys Wie Mao Suen (Mrs Low)</p>
+<p>Ms Louisa Tan</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +61,7 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Pei Wei</p>
+<p>Mdm Gladys Wie Mao Suen (Mrs Low)</p>
 </td>
 </tr>
 <tr>
@@ -110,14 +101,6 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Penny Ashley Chong Gin Lin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Seah Mei Ling Alicia</p>
 </td>
 </tr>
@@ -150,14 +133,6 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teh Chiew Guek</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tiah Jee Looi</p>
 </td>
 </tr>
@@ -166,7 +141,7 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yang Chengxi</p>
+<p>Ms Yeo Mui Mei Melissa</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +149,47 @@ third_nav_title: Our People
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Mui Mei Melissa</p>
+<p>Ms Alice Ooi Chen Ai (from 19 Jan 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Fiona Poh-Lim Shir Pei (from 12 Jan 2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Ashikin Binte Osman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Wee Teng Alice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Siew Ling Jeanie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Lay Keng</p>
 </td>
 </tr>
 </tbody>

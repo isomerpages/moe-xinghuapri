@@ -148,7 +148,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kumaravel Rajamugam</p>
+<p>Mr Mohamad Faiz Akmal Bin Hanif</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Faiz Akmal Bin Hanif</p>
+<p>Mr Siddiq</p>
 </td>
 </tr>
 <tr>
@@ -178,9 +178,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Jet Lee
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -188,7 +186,7 @@ third_nav_title: Our People
 <p>Admin cum Science Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zeenath Bagam Naina Mohammad</p>
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -48,7 +48,7 @@ more information on MOE Sexuality Education.</p>
 <p></p>
 </li>
 </ol>
-<h4>Overview of Xinghua Primary School’s Sexuality Education Programme for 2025</h4>
+<h4>Overview of Xinghua Primary School’s Sexuality Education Programme for 2026</h4>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -92,13 +92,13 @@ from sexuality-related risks.</p>
 </ol>
 <hr>
 <p></p>
-<p><strong>At Xinghua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Xinghua Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/moe_logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 5</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong><br><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -123,8 +123,6 @@ from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +143,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +163,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -183,14 +181,14 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong><br><strong>Primary 6</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong><br><strong>Primary 6</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -216,8 +214,7 @@ and how to seek help for themselves and their friends.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -239,7 +236,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +253,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 10</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -273,8 +270,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://for.edu.sg/xhsedoptout" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 04/04/2025.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a href="/files/Parents/Sexuality Education/2026_parent_opt_out_form_pri.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong>23th January 2026</strong>.</p>
 <p></p>
 </li>
 <li>
