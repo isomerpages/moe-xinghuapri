@@ -143,7 +143,7 @@ third_nav_title: Our People
 <p>Assistant Year Head / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent</a>
+<p><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent *</a>
 </p>
 </td>
 </tr>
@@ -152,7 +152,7 @@ third_nav_title: Our People
 <p>Assistant Year Head / Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kerin Kok</a>
+<p><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kerin Kok *</a>
 </p>
 </td>
 </tr>
