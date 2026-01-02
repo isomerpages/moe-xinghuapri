@@ -80,8 +80,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:naurana_badalge_saranapala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Naurana Badalge Saranapala</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Mr Lionel Poh Zhi Qin</a>
+<br><a href="mailto:poh_zhi_qin_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lionel Poh Zhi Qin</a>
 </p>
 </td>
 </tr>
