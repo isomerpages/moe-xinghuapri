@@ -59,8 +59,8 @@ third_nav_title: Our People
 <p>5-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kotake_yoji_norindra_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kotake Yoji Norindra Iskandar</a>
-<br><a href="sim_hwee_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kaydence Sim</a>
+<p><a href="ardi_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ardi Bin Sujak</a>
+<br><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin</a>
 </p>
 </td>
 </tr>
@@ -69,8 +69,8 @@ third_nav_title: Our People
 <p>5-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ardi_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ardi Bin Sujak</a>
-<br><a href="cheong_wai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Cheong Wai Yin</a>
+<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Wong</a>
+<br><a href="mailto:lim_kok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Kok Peng</a>
 </p>
 </td>
 </tr>
@@ -79,8 +79,9 @@ third_nav_title: Our People
 <p>5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yong_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Wong</a>
-<br><a href="mailto:lim_kok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Kok Peng</a>
+<p><a href="mailto:naurana_badalge_saranapala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Naurana Badalge Saranapala</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Mr Lionel Poh Zhi Qin</a>
 </p>
 </td>
 </tr>
