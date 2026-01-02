@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our People
 ---
 <p><strong>Year Head:</strong>  <a href="mailto:neo_yuan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Awyong</a>
-<br><strong>Assistant Year Head (covering) : </strong><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kerin Kok *</a>
+<br><strong>Assistant Year Head (covering) : </strong><a href="mailto:kok_xinyi_kerin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kerin Kok</a>
 </p>
 <p></p>
 <h4>Primary 3</h4>
