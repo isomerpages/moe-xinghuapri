@@ -7,7 +7,7 @@ third_nav_title: Our People
 ---
 <p><strong>Year Head (covering) :</strong>  <a href="mailto:fung_eng_chu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fung Eng Chu</a>
 <br><strong>Assistant Year Head Primary 1:</strong>  <a href="mailto:norasiken_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Norasiken Binte Mohamed Noor</a>
-<br><strong>Assistant Year Head Primary 2: </strong><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent</a>
+<br><strong>Assistant Year Head Primary 2: </strong><a href="liu_hongye_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Hongye, Vincent *</a>
 </p>
 <h4>Primary 1</h4>
 <table style="minWidth: 50px">
