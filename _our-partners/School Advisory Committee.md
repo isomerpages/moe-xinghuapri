@@ -93,7 +93,7 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Ping Tian Allan</p>
+<p>Mr Ang Pong Tian Allan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
