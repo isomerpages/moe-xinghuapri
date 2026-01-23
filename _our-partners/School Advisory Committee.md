@@ -88,6 +88,17 @@ variant: tiptap
 <p>Member</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Pong Tian Allan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
