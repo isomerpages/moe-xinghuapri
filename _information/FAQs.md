@@ -276,7 +276,7 @@ area where possible.</p>
 <details class="isomer-details">
 <summary>7) How will my child be assessed academically?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to page 17 of Pupil Handbook.</p>
+<p>Please refer to page 11 of Student Handbook.</p>
 </div>
 </details>
 </div>
