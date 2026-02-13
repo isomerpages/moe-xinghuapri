@@ -523,7 +523,10 @@ may not fall in the above categories.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Consequence" src="/images/5.jpg">
 </div>
-<p></p>
+<p>
+<br>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Consequence" src="/images/6.jpg">
 </div>
