@@ -361,8 +361,7 @@ others, including the use of physical force or weapons
 attempted or actual</p>
 <p></p>
 <p><strong>Cheating in Assessments/Tests/ Exams</strong>
-</p>
-<p>Possessing notes or other prohibited items, copying from others, allowing
+<br>Possessing notes or other prohibited items, copying from others, allowing
 others to copy, tampering with marks</p>
 <p></p>
 <p><strong>Forgery</strong>
