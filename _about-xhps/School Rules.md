@@ -198,19 +198,25 @@ will have their devices confiscated.
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prohibited Items&nbsp;</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students are not allowed
-to have in their possession any weapon. They are also not allowed to bring
-any weapon-like item which can be used or intended to be used to cause
-harm to others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not to carry
-any personal sharp-pointed/sharp-edged tool,</p>
-<p>e.g. scissors, penknife and Swiss army knife.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If students are found with
-any prohibited items, the items will be confiscated immediately. These
-items will not be returned to the students.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to check with
-the school when they are unsure if certain items can be brought to school.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which can be used or
+intended to be used to cause harm to others.</p>
+</li>
+<li>
+<p>Students are not to carry any personal sharp-pointed/sharp-edged tool,
+e.g. scissors, penknife and Swiss army knife.</p>
+</li>
+<li>
+<p>If students are found with any prohibited items, the items will be confiscated
+immediately. These items will not be returned to the students.</p>
+</li>
+<li>
+<p>Students are to check with the school when they are unsure if certain
+items can be brought to school.&nbsp;</p>
+</li>
+</ul>
+<p></p>
