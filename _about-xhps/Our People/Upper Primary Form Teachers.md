@@ -129,7 +129,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Hui Xian</a>
-<br><a href="mailto:sen_puay_hui_jessy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jessy Sen Puay Hui</a>
+<br><a href="mailto:sen_puay_hui_jessy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Sen Puay Hui, Jessy</a>
 </p>
 </td>
 </tr>
