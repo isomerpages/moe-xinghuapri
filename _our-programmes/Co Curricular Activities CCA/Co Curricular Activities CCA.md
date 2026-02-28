@@ -55,8 +55,7 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Modular Sport</a>
-</p>
+<p>Modular Sports</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -74,8 +73,7 @@ follows:</p>
 </table>
 </li>
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Softball</a>
-</p>
+<p>Softball</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -92,8 +90,7 @@ follows:</p>
 </table>
 </li>
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
-</p>
+<p>Volleyball</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -111,8 +108,7 @@ follows:</p>
 </table>
 </li>
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
-</p>
+<p>Wushu</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -133,8 +129,7 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Craft</a>
-</p>
+<p>Art &amp; Craft</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -151,8 +146,7 @@ follows:</p>
 </table>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">ICT Club</a>
-</p>
+<p>ICT Club</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -169,8 +163,7 @@ follows:</p>
 </table>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Environmental Science</a>
-</p>
+<p>Environmental Science</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -187,8 +180,7 @@ follows:</p>
 </table>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">English Drama Club</a>
-</p>
+<p>English Drama Club</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -209,8 +201,7 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Angklung/Kulintang</a>
-</p>
+<p>Angklung/Kulintang</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -225,10 +216,10 @@ follows:</p>
 <tr></tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
-</p>
+<p>Choir</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -243,10 +234,10 @@ follows:</p>
 <tr></tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
-</p>
+<p>Modern Dance</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -263,17 +254,28 @@ follows:</p>
 </table>
 </li>
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Guzheng</a>
+<p>Guzheng</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Yan Nan <a href="mailto:yan_nan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yan_nan@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>(4) Uniformed Groups</strong>
 </p>
+<p></p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>
-</p>
+<p>Boys Brigade</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -288,10 +290,10 @@ follows:</p>
 <tr></tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
-<p><a href="/programmes/cca/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
-</p>
+<p>Girls Brigade</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
