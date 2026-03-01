@@ -55,72 +55,262 @@ follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Modular Sport</a>
+<p>Modular Sports</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Ardi Bin Sujak <a href="mailto:ardi_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ardi_sujak@schools.gov.sg</a>
+<a href="mailto:ardi_sujak@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Softball</a>
+<p>Softball</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Naurana Badalge Saranapala <a href="mailto:naurana_badalge_saranapala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naurana_badalge_saranapala@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
+<p>Volleyball</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Fazlin Jaya Indra <a href="mailto:fazlin_jaya_indra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fazlin_jaya_indra@schools.gov.sg</a>
+<a href="mailto:fazlin_jaya_indra@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 <li>
-<p><a href="/programmes/cca/sports-games/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
+<p>Wushu</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Lee Shih Yin June <a href="mailto:lee_shih_yin_june@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shih_yin_june@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p><strong>(2) Clubs and Societies CCA</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Craft</a>
+<p>Art &amp; Craft</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Chew Angel <a href="mailto:Chew_Angel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chew_Angel@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">ICT Club</a>
+<p>ICT Club</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Yin Ciyao (Diana) <a href="mailto:yin_ciyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yin_ciyao@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">Environmental Science</a>
+<p>Environmental Science</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Wang Gek Hui (Katlyn) <a href="mailto:Wang_Gek_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Gek_Hui@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 <li>
-<p><a href="/programmes/cca/clubs-society/" rel="noopener noreferrer nofollow" target="_blank">English Drama Club</a>
+<p>English Drama Club</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Norashikin Bte Mohamed Noor <a href="mailto:norashikin_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohamed_noor@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p><strong>(3) Performing Arts CCA</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Angklung</a>
+<p>Angklung/Kulintang</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Suriana Bte Sulaiman <a href="mailto:suriana_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriana_sulaiman@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
 </li>
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p>Choir</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Yang Rui <a href="mailto:Yang_Rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yang_Rui@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
 </li>
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
+<p>Modern Dance</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Nasreen Binte Haji Shahabuddin <a href="mailto:nasreen_haji_shahabuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasreen_haji_shahabuddin@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 <li>
-<p><a href="/programmes/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Guzheng</a>
+<p>Guzheng</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Yan Nan <a href="mailto:yan_nan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yan_nan@schools.gov.sg</a>
 </p>
-</li>
-</ul>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>(4) Uniformed Groups</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/programmes/cca/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>
-</p>
+<p></p>
 </li>
 <li>
-<p><a href="/programmes/cca/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
+<p>Boys Brigade</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Kang Ming <a href="mailto:Kang_Ming_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kang_Ming_A@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Girls Brigade</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teacher in-charge: Lim Jie Min <a href="mailto:Lim_JIE_MIN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_JIE_MIN@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 </li>
 </ul>
+<p></p>
+<p><em>updated: 2026</em>
+</p>
 <p></p>
