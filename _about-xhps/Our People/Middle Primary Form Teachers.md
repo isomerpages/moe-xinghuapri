@@ -79,8 +79,9 @@ third_nav_title: Our People
 <p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chan_bee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs May Sim</a>
-<br><a href="ong_pearleen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Pearleen</a>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-xinghuapri/folders/about-xhps/subfolders/Our%20People/editPage/chan_bee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs May Sim</a>
+<br><a href="https://cms.isomer.gov.sg/sites/moe-xinghuapri/folders/about-xhps/subfolders/Our%20People/editPage/ong_pearleen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Pearleen</a>
+<br><a href="De_Hamel_Jason_Stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr De Hamel Jason Stephen</a>
 </p>
 </td>
 </tr>
