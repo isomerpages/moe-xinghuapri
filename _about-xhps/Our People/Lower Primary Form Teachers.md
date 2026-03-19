@@ -139,7 +139,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:roslina_basak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslina Bte Basak</a>
-<br><a href="mailto:sean_koh_jian_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Koh Jian En</a>
+<br><a href="Jonson_Chng_Oon_Kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jonson Chng Oon Kheng</a>
 </p>
 </td>
 </tr>
