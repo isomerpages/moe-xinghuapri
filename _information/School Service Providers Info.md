@@ -60,7 +60,8 @@ variant: tiptap
 <p>Company Name:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pacific Bookstores (Xinghua Primary)</p>
+<p>Pacific Bookstores (until 30 June 2026)</p>
+<p>Overseas Associates Pte Ltd (from 1 July 2026 onwards)</p>
 </td>
 </tr>
 <tr>
